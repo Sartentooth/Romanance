@@ -1,0 +1,27 @@
+{
+  "fecha": "2026-10-04",
+  "alcance": "Conservación documental, no prueba de balance ni conformidad de PNJs con creación estándar",
+  "lineasConCifrasConservadas": [
+    {
+      "fuente": "PNJs_Principales_Romanance.md",
+      "destino": "canon/pnjs/pnjs-principales.md",
+      "lineasMecanicasConNumeros": 62,
+      "lineasNoConservadas": []
+    },
+    {
+      "fuente": "Anexo_Homebrew_PNJs_Romanance.md",
+      "destino": "canon/pnjs/anexo-mecanico-pnjs.md",
+      "lineasMecanicasConNumeros": 41,
+      "lineasNoConservadas": []
+    },
+    {
+      "fuente": "Reglas_Forja_Mercadeo_Pociones.md",
+      "destino": "canon/pnjs/forja-mercadeo-y-pociones.md",
+      "lineasMecanicasConNumeros": 2,
+      "lineasNoConservadas": []
+    }
+  ],
+  "total": 105,
+  "reglasEspecificasCuerpoIntegro": true,
+  "estadisticasRecalculadas": false
+}

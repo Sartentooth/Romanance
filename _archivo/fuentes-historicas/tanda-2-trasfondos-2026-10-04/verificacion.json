@@ -1,0 +1,27 @@
+{
+  "fecha": "2026-10-04",
+  "fuentes": [
+    {
+      "archivo": "data\\archivos md\\trasfondos_personajes_romanance.md",
+      "sinCambios": true
+    },
+    {
+      "archivo": "data\\archivos md\\Historia_Jantry_Emberflame.md",
+      "sinCambios": true
+    }
+  ],
+  "edicionesVerificadas": [
+    {
+      "archivo": "canon/lore/trasfondos-personajes-jugadores.md",
+      "coincideConEdicionPrevista": true
+    },
+    {
+      "archivo": "canon/lore/jantry-relato-de-trasfondo.md",
+      "coincideConEdicionPrevista": true
+    }
+  ],
+  "enlacesRevisados": 74,
+  "enlacesRotos": [],
+  "movimientos": 0,
+  "borrados": 0
+}

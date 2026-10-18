@@ -1,0 +1,501 @@
+{
+  "Advertencia": "Extraccion de evidencia; no canon nuevo. Longitudes guardadas multiplicadas por escala, sin recalcular geometrias ni recorridos compuestos.",
+  "Fuente": "data/Json del mapa de Azgaar/Mundo Sebas Full 2026-10-04-00-22.json",
+  "Info": {
+    "version": "1.153.1",
+    "description": "Azgaar's Fantasy Map Generator output: azgaar.github.io/Fantasy-map-generator",
+    "exportedAt": "2026-10-04T03:22:41.822Z",
+    "mapName": "Mundo Sebas",
+    "width": 2000,
+    "height": 1000,
+    "seed": "241435358",
+    "mapId": 1788848626792
+  },
+  "Escala": 3,
+  "Asentamientos": [
+    {
+      "i": 1,
+      "Nombre": "Aetherion",
+      "Cell": 1002,
+      "IDBioma": 6,
+      "Bioma": "Temperate deciduous forest",
+      "State": 0,
+      "Culture": 0,
+      "Group": "ruin",
+      "Removed": false,
+      "PoblacionCalculada": 849.0,
+      "Port": 0
+    },
+    {
+      "i": 2,
+      "Nombre": "Berk",
+      "Cell": 2400,
+      "IDBioma": 13,
+      "Bioma": "Coniferous forest",
+      "State": 3,
+      "Culture": 13,
+      "Group": "capital",
+      "Removed": false,
+      "PoblacionCalculada": 1676.0,
+      "Port": 0
+    },
+    {
+      "i": 3,
+      "Nombre": "Romanance",
+      "Cell": 5697,
+      "IDBioma": 6,
+      "Bioma": "Temperate deciduous forest",
+      "State": 0,
+      "Culture": 13,
+      "Group": "city",
+      "Removed": false,
+      "PoblacionCalculada": 5000,
+      "Port": 0
+    },
+    {
+      "i": 4,
+      "Nombre": "Levit",
+      "Cell": 5434,
+      "IDBioma": 6,
+      "Bioma": "Temperate deciduous forest",
+      "State": 0,
+      "Culture": 13,
+      "Group": "village",
+      "Removed": false,
+      "PoblacionCalculada": 923.0,
+      "Port": 0
+    },
+    {
+      "i": 5,
+      "Nombre": "Ruinas de Morvath",
+      "Cell": 5334,
+      "IDBioma": 12,
+      "Bioma": "Wetland",
+      "State": 0,
+      "Culture": 13,
+      "Group": "ruin",
+      "Removed": false,
+      "PoblacionCalculada": 1.0,
+      "Port": 0
+    },
+    {
+      "i": 6,
+      "Nombre": "Aethragar",
+      "Cell": 3415,
+      "IDBioma": 4,
+      "Bioma": "Grassland",
+      "State": 1,
+      "Culture": 15,
+      "Group": "capital",
+      "Removed": false,
+      "PoblacionCalculada": 12455.0,
+      "Port": 0
+    },
+    {
+      "i": 7,
+      "Nombre": "Ilvandor",
+      "Cell": 5779,
+      "IDBioma": 9,
+      "Bioma": "Taiga",
+      "State": 0,
+      "Culture": 13,
+      "Group": "ruin",
+      "Removed": false,
+      "PoblacionCalculada": 1.0,
+      "Port": 0
+    },
+    {
+      "i": 8,
+      "Nombre": "Krâthor",
+      "Cell": 4043,
+      "IDBioma": 5,
+      "Bioma": "Tropical seasonal forest",
+      "State": 0,
+      "Culture": 13,
+      "Group": "village",
+      "Removed": false,
+      "PoblacionCalculada": 124.0,
+      "Port": 0
+    },
+    {
+      "i": 9,
+      "Nombre": "Port Ersag",
+      "Cell": 5120,
+      "IDBioma": 3,
+      "Bioma": "Savanna",
+      "State": 0,
+      "Culture": 13,
+      "Group": "caravanserai",
+      "Removed": true,
+      "PoblacionCalculada": 3054.0,
+      "Port": 0
+    },
+    {
+      "i": 10,
+      "Nombre": "Tömörsag",
+      "Cell": 5120,
+      "IDBioma": 3,
+      "Bioma": "Savanna",
+      "State": 0,
+      "Culture": 13,
+      "Group": "trading_post",
+      "Removed": false,
+      "PoblacionCalculada": 14326.0,
+      "Port": 1
+    },
+    {
+      "i": 11,
+      "Nombre": "Varsak",
+      "Cell": 4447,
+      "IDBioma": 5,
+      "Bioma": "Tropical seasonal forest",
+      "State": 0,
+      "Culture": 13,
+      "Group": "trading_post",
+      "Removed": false,
+      "PoblacionCalculada": 3544.0,
+      "Port": 1
+    },
+    {
+      "i": 12,
+      "Nombre": "Halden",
+      "Cell": 993,
+      "IDBioma": 4,
+      "Bioma": "Grassland",
+      "State": 5,
+      "Culture": 13,
+      "Group": "capital",
+      "Removed": false,
+      "PoblacionCalculada": 7654.0,
+      "Port": 0
+    },
+    {
+      "i": 13,
+      "Nombre": "Marren",
+      "Cell": 1658,
+      "IDBioma": 3,
+      "Bioma": "Savanna",
+      "State": 6,
+      "Culture": 13,
+      "Group": "capital",
+      "Removed": false,
+      "PoblacionCalculada": 6457.0,
+      "Port": 0
+    },
+    {
+      "i": 14,
+      "Nombre": "Kelen",
+      "Cell": 3061,
+      "IDBioma": 3,
+      "Bioma": "Savanna",
+      "State": 2,
+      "Culture": 13,
+      "Group": "capital",
+      "Removed": false,
+      "PoblacionCalculada": 34656.0,
+      "Port": 11
+    },
+    {
+      "i": 15,
+      "Nombre": "Khalan",
+      "Cell": 3065,
+      "IDBioma": 4,
+      "Bioma": "Grassland",
+      "State": 2,
+      "Culture": 13,
+      "Group": "city",
+      "Removed": false,
+      "PoblacionCalculada": 2344.0,
+      "Port": 11
+    },
+    {
+      "i": 16,
+      "Nombre": "Licove",
+      "Cell": 995,
+      "IDBioma": 4,
+      "Bioma": "Grassland",
+      "State": 0,
+      "Culture": 13,
+      "Group": "village",
+      "Removed": true,
+      "PoblacionCalculada": 471.0,
+      "Port": 0
+    },
+    {
+      "i": 17,
+      "Nombre": "Lyren",
+      "Cell": 2948,
+      "IDBioma": 4,
+      "Bioma": "Grassland",
+      "State": 7,
+      "Culture": 13,
+      "Group": "capital",
+      "Removed": false,
+      "PoblacionCalculada": 2835.0,
+      "Port": 0
+    }
+  ],
+  "Rutas": [
+    {
+      "i": 0,
+      "Nombre": "Romanancean road",
+      "Grupo": "roads",
+      "LongitudGuardada": 737.8362426757812,
+      "KmLongitudGuardada": 2213.5087280273438,
+      "InicioCell": 1002,
+      "FinCell": 5697
+    },
+    {
+      "i": 1,
+      "Nombre": "Santuarion trail",
+      "Grupo": "trails",
+      "LongitudGuardada": 45.04731369018555,
+      "KmLongitudGuardada": 135.14194107055664,
+      "InicioCell": 5779,
+      "FinCell": 5697
+    },
+    {
+      "i": 2,
+      "Nombre": "Haldenan path",
+      "Grupo": "trails",
+      "LongitudGuardada": 97.19471740722656,
+      "KmLongitudGuardada": 291.5841522216797,
+      "InicioCell": 1002,
+      "FinCell": 1281
+    },
+    {
+      "i": 3,
+      "Nombre": "Marrenean pass",
+      "Grupo": "roads",
+      "LongitudGuardada": 49.891319274902344,
+      "KmLongitudGuardada": 149.67395782470703,
+      "InicioCell": 1658,
+      "FinCell": 1281
+    },
+    {
+      "i": 4,
+      "Nombre": "Krâthor path",
+      "Grupo": "trails",
+      "LongitudGuardada": 171.7215576171875,
+      "KmLongitudGuardada": 515.1646728515625,
+      "InicioCell": 4043,
+      "FinCell": 2820
+    },
+    {
+      "i": 5,
+      "Nombre": "Aetherionese path",
+      "Grupo": "trails",
+      "LongitudGuardada": 45.371360778808594,
+      "KmLongitudGuardada": 136.11408233642578,
+      "InicioCell": 1151,
+      "FinCell": 1002
+    },
+    {
+      "i": 6,
+      "Nombre": "Krâthor trail",
+      "Grupo": "trails",
+      "LongitudGuardada": 42.09065246582031,
+      "KmLongitudGuardada": 126.27195739746094,
+      "InicioCell": 4447,
+      "FinCell": 4043
+    },
+    {
+      "i": 7,
+      "Nombre": "Berkan pass",
+      "Grupo": "roads",
+      "LongitudGuardada": 157.36251831054688,
+      "KmLongitudGuardada": 472.0875549316406,
+      "InicioCell": 1658,
+      "FinCell": 2400
+    },
+    {
+      "i": 9,
+      "Nombre": "Stardust route",
+      "Grupo": "searoutes",
+      "LongitudGuardada": 87.65433502197266,
+      "KmLongitudGuardada": 262.96300506591797,
+      "InicioCell": 5120,
+      "FinCell": 4447
+    },
+    {
+      "i": 10,
+      "Nombre": "Lanrean path",
+      "Grupo": "roads",
+      "LongitudGuardada": 29.08606719970703,
+      "KmLongitudGuardada": 87.2582015991211,
+      "InicioCell": 1281,
+      "FinCell": 993
+    },
+    {
+      "i": 11,
+      "Nombre": "Levitan trail",
+      "Grupo": "trails",
+      "LongitudGuardada": 47.89176940917969,
+      "KmLongitudGuardada": 143.67530822753906,
+      "InicioCell": 5434,
+      "FinCell": 5697
+    },
+    {
+      "i": 12,
+      "Nombre": "Ruinas de Morvath trail",
+      "Grupo": "trails",
+      "LongitudGuardada": 15.206744194030762,
+      "KmLongitudGuardada": 45.620232582092285,
+      "InicioCell": 5434,
+      "FinCell": 5334
+    },
+    {
+      "i": 13,
+      "Nombre": "Tömörsagean Port Road",
+      "Grupo": "roads",
+      "LongitudGuardada": 46.14049530029297,
+      "KmLongitudGuardada": 138.4214859008789,
+      "InicioCell": 5120,
+      "FinCell": 5434
+    },
+    {
+      "i": 14,
+      "Nombre": "Varsakean Port Road",
+      "Grupo": "roads",
+      "LongitudGuardada": 81.12289428710938,
+      "KmLongitudGuardada": 243.36868286132812,
+      "InicioCell": 4447,
+      "FinCell": 5120
+    },
+    {
+      "i": 15,
+      "Nombre": "The Serpentine Varsak trail",
+      "Grupo": "trails",
+      "LongitudGuardada": 95.64097595214844,
+      "KmLongitudGuardada": 286.9229278564453,
+      "InicioCell": 4447,
+      "FinCell": 4305
+    },
+    {
+      "i": 16,
+      "Nombre": "Berk road",
+      "Grupo": "roads",
+      "LongitudGuardada": 179.1298828125,
+      "KmLongitudGuardada": 537.3896484375,
+      "InicioCell": 3061,
+      "FinCell": 2400
+    },
+    {
+      "i": 17,
+      "Nombre": "Khalanan trail",
+      "Grupo": "trails",
+      "LongitudGuardada": 29.935951232910156,
+      "KmLongitudGuardada": 89.80785369873047,
+      "InicioCell": 3064,
+      "FinCell": 3062
+    },
+    {
+      "i": 18,
+      "Nombre": "Khalan pass",
+      "Grupo": "trails",
+      "LongitudGuardada": 18.356590270996094,
+      "KmLongitudGuardada": 55.06977081298828,
+      "InicioCell": 2924,
+      "FinCell": 3064
+    },
+    {
+      "i": 20,
+      "Nombre": "Marrenese trail",
+      "Grupo": "trails",
+      "LongitudGuardada": 166.38272094726562,
+      "KmLongitudGuardada": 499.1481628417969,
+      "InicioCell": 2948,
+      "FinCell": 1658
+    }
+  ],
+  "VecinosLacustres": [
+    {
+      "Ciudad": "Kelen",
+      "CeldaVecina": 3197,
+      "LagoID": 13,
+      "NombreLago": "Yeowey"
+    },
+    {
+      "Ciudad": "Kelen",
+      "CeldaVecina": 3057,
+      "LagoID": 13,
+      "NombreLago": "Yeowey"
+    },
+    {
+      "Ciudad": "Khalan",
+      "CeldaVecina": 3205,
+      "LagoID": 11,
+      "NombreLago": "Noniz'ruhn"
+    },
+    {
+      "Ciudad": "Khalan",
+      "CeldaVecina": 2927,
+      "LagoID": 11,
+      "NombreLago": "Noniz'ruhn"
+    },
+    {
+      "Ciudad": "Khalan",
+      "CeldaVecina": 3066,
+      "LagoID": 11,
+      "NombreLago": "Noniz'ruhn"
+    }
+  ],
+  "Estados": [
+    {
+      "i": 0,
+      "name": "Neutrals",
+      "form": null,
+      "formName": null,
+      "removed": null
+    },
+    {
+      "i": 1,
+      "name": "Aethragar",
+      "form": "Theocracy",
+      "formName": "Brotherhood",
+      "removed": null
+    },
+    {
+      "i": 2,
+      "name": "Itharia",
+      "form": "Republic",
+      "formName": "Republic",
+      "removed": null
+    },
+    {
+      "i": 3,
+      "name": "Berk",
+      "form": "Union",
+      "formName": "Confederation",
+      "removed": null
+    },
+    {
+      "i": 4,
+      "name": null,
+      "form": null,
+      "formName": null,
+      "removed": true
+    },
+    {
+      "i": 5,
+      "name": "Halden",
+      "form": "Republic",
+      "formName": "Free City",
+      "removed": null
+    },
+    {
+      "i": 6,
+      "name": "Velthar",
+      "form": "Anarchy",
+      "formName": "Community",
+      "removed": null
+    },
+    {
+      "i": 7,
+      "name": "Zephyr",
+      "form": "Monarchy",
+      "formName": "Cónclave",
+      "removed": null
+    }
+  ]
+}

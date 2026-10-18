@@ -1,0 +1,85 @@
+{
+  "archivo_externo": "D:\\Sarten\\Juegos de Rol\\D&D 5.5e - Romanance\\Romanance\\Transliterador Aureliano.html",
+  "sha256": "6f59d78f720488a1e211159f1d2c69bf553607ef05e05a767f09b115e810ba4f",
+  "tipo_revision": "Lectura estática de HTML y JavaScript; no ejecutado en navegador",
+  "diferencias_geometricas": [
+    {
+      "letra": "V",
+      "html": [
+        180,
+        330
+      ],
+      "canon": [
+        0,
+        60
+      ]
+    },
+    {
+      "letra": "W",
+      "html": [
+        210,
+        0
+      ],
+      "canon": [
+        180,
+        330
+      ]
+    },
+    {
+      "letra": "X",
+      "html": [
+        240,
+        30
+      ],
+      "canon": [
+        210,
+        0
+      ]
+    },
+    {
+      "letra": "Y",
+      "html": [
+        270,
+        60
+      ],
+      "canon": [
+        240,
+        30
+      ]
+    },
+    {
+      "letra": "Z",
+      "html": [
+        300,
+        90
+      ],
+      "canon": [
+        270,
+        60
+      ]
+    },
+    {
+      "letra": "CH",
+      "html": [
+        330,
+        120
+      ],
+      "canon": [
+        300,
+        90
+      ]
+    },
+    {
+      "letra": "LL",
+      "html": [
+        0,
+        60
+      ],
+      "canon": [
+        330,
+        120
+      ]
+    }
+  ],
+  "fuente_editada": false
+}

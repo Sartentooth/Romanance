@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fuente-01",
+    "archivo": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\cronica del enigma de las 4 estatuas.pdf",
+    "sha256": "883ca9048cca879e40e7051ee664d0b7d245bed15bf68a52da2a8217e8b66710",
+    "bytes": 30320,
+    "unidades": 4,
+    "tipo_unidad": "paginas",
+    "caracteres": 5333
+  },
+  {
+    "id": "fuente-02",
+    "archivo": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\cronica del enigma de las 4 estatuas_vision de jugadores.pdf",
+    "sha256": "f60d62bd2e717b78c65ae1afac164e0c3662e264d363921a504bb214fb8dae22",
+    "bytes": 86964,
+    "unidades": 3,
+    "tipo_unidad": "paginas",
+    "caracteres": 11433
+  },
+  {
+    "id": "fuente-03",
+    "archivo": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\el 5to jurament_cronica de jugadores_Las Profundidades del Mineral Azul y los Faroles.pdf",
+    "sha256": "3d5ff83dc5e8a64bec8420ea4285b1054e62a481cfa2eab88a9b88ef41852045",
+    "bytes": 1800976,
+    "unidades": 6,
+    "tipo_unidad": "paginas",
+    "caracteres": 15228
+  },
+  {
+    "id": "fuente-04",
+    "archivo": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\Lore Romanance para el Quinto Juramento.docx",
+    "sha256": "4126a557b7fa0a9057c9dfd41e828027fad43f1387de11d227bbe2d4a729e7f7",
+    "bytes": 13368,
+    "unidades": 113,
+    "tipo_unidad": "parrafos",
+    "caracteres": 6377,
+    "partes_auxiliares": [],
+    "cambios_seguidos": 0
+  },
+  {
+    "id": "fuente-05",
+    "archivo": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\Oneshot_Las_Cuatro_Estatuas_notas DM.docx",
+    "sha256": "8afe2f388ca0887dca3b5e66be5cc6537472f396f3e02084b24eb07e792f27fd",
+    "bytes": 28965,
+    "unidades": 20,
+    "tipo_unidad": "parrafos",
+    "caracteres": 3355,
+    "partes_auxiliares": [],
+    "cambios_seguidos": 0
+  },
+  {
+    "id": "fuente-06",
+    "archivo": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\Oneshot_Quinto_Juramento_notas DM.docx",
+    "sha256": "a07f0a1a54affb0c386a89089e7f7bdc9567cbf6036abe7a10ec48749df00fb6",
+    "bytes": 17711,
+    "unidades": 159,
+    "tipo_unidad": "parrafos",
+    "caracteres": 12089,
+    "partes_auxiliares": [],
+    "cambios_seguidos": 0
+  }
+]

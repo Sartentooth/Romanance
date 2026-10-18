@@ -1,0 +1,40 @@
+{
+  "archivos_originales_verificados": 857,
+  "archivos_movidos": 820,
+  "imagenes_inspeccionadas_en_contactos": 752,
+  "carpetas": {
+    "arte\\referencias\\01-personajes\\indumentaria-y-textiles": 37,
+    "arte\\referencias\\01-personajes\\siluetas-y-actitudes": 132,
+    "arte\\referencias\\02-paisajes\\cotidiano-y-ciencia-ficcion": 123,
+    "arte\\referencias\\02-paisajes\\exploracion-fantastica": 55,
+    "arte\\referencias\\02-paisajes\\geografia-argentina": 18,
+    "arte\\referencias\\02-paisajes\\naturaleza-y-atmosfera": 28,
+    "arte\\referencias\\03-arquitectura\\anclas-nombradas": 9,
+    "arte\\referencias\\03-arquitectura\\escala-y-arcano": 67,
+    "arte\\referencias\\03-arquitectura\\vida-cotidiana-y-asentamientos": 58,
+    "arte\\referencias\\04-magia\\glifos-y-diagramas": 17,
+    "arte\\referencias\\05-objetos\\artefactos-y-vestuario": 79,
+    "arte\\referencias\\05-objetos\\botanica-y-equipo": 31,
+    "arte\\referencias\\06-recursos\\cartografia-y-marcos": 19,
+    "arte\\referencias\\06-recursos\\paletas": 6,
+    "arte\\referencias\\90-captura-web": 1,
+    "arte\\referencias\\90-captura-web\\Pinterest_files": 140
+  },
+  "laminas": {
+    "01-pnj-y-razas.png": {
+      "width": 1536,
+      "height": 1024,
+      "sha256": "584909f241c1cd92b88d3ab724ce4983c915c10f43f9c7a9b24fd8b9eb505ae7"
+    },
+    "02-paisajes.png": {
+      "width": 1536,
+      "height": 1024,
+      "sha256": "e54e686f9a3a86a7c494449c3b75cb071ed00bbf00c957172cd2d3ae7477508c"
+    },
+    "03-edificios.png": {
+      "width": 1536,
+      "height": 1024,
+      "sha256": "697f0929b0b6ce90fcd2e4b77a55ca03dc1e417592a26d6c34192d41a9497556"
+    }
+  }
+}

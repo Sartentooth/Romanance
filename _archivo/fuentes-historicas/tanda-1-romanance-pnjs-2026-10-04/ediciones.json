@@ -1,0 +1,159 @@
+{
+  "fecha": "2026-10-04",
+  "alcance": "Tanda 1: Romanance y PNJs. Sin movimientos ni borrados de fuentes.",
+  "fuentes": [
+    {
+      "name": "Romanance_Historia_y_Descripcion.md",
+      "path": "data\\archivos md\\Romanance_Historia_y_Descripcion.md",
+      "sha256": "77835EFD90BDF0883EAED463003E8E0D2D92CFE87608C69E650E2CA3FB5CC4C1"
+    },
+    {
+      "name": "PNJs_Principales_Romanance.md",
+      "path": "data\\archivos md\\PNJs_Principales_Romanance.md",
+      "sha256": "139D612D727540FE30D4A6851DD83C7B397F2D47A876E6CC163D57DAA3F4E57A"
+    },
+    {
+      "name": "Aldren_el_Precavido_-_Canon_Fundacional_Romanance.md",
+      "path": "data\\archivos md\\Aldren_el_Precavido_-_Canon_Fundacional_Romanance.md",
+      "sha256": "25A6483E497F0124236A1654A5FEB00ECB2EDBE22A19EEC538048E34C303EE6C"
+    },
+    {
+      "name": "Anexo_Homebrew_PNJs_Romanance.md",
+      "path": "data\\archivos md\\Anexo_Homebrew_PNJs_Romanance.md",
+      "sha256": "82886D0EB62A401AEBEC6B1B53EB7DCFCA1E60144BE75892CB644F4E61642E24"
+    },
+    {
+      "name": "Reglas_Forja_Mercadeo_Pociones.md",
+      "path": "data\\archivos md\\Reglas_Forja_Mercadeo_Pociones.md",
+      "sha256": "1E5C36847AB706E3DC6415593B6C189515E65FCA270A0C8078A822661668C17C"
+    }
+  ],
+  "destinos": [
+    "canon/lore/romanance.md",
+    "canon/pnjs/pnjs-principales.md",
+    "canon/pnjs/anexo-mecanico-pnjs.md",
+    "canon/pnjs/forja-mercadeo-y-pociones.md"
+  ],
+  "cambios": [
+    {
+      "file": "canon/lore/romanance.md",
+      "reason": "Remisiones a destinos existentes; distinguir reglamento pendiente y secretos",
+      "from": "Para el detalle mecánico de gremios ver `Gremios_de_Romanance.md`, y para los PNJs principales ver `PNJs_Principales_Romanance.md`.",
+      "to": "Para el reglamento de gremios —todavía en revisión— ver [la fuente de gremios](<../../data/archivos md/Gremios_de_Romanance.md>). El registro narrativo y mecánico reservado al Director está en [PNJs principales](../pnjs/pnjs-principales.md)."
+    },
+    {
+      "file": "canon/lore/romanance.md",
+      "reason": "Gobierno por acuerdos según decisión explícita",
+      "from": "sostenida por un gobierno de libre mercado que deja hacer y confía en que la ciudad se sostiene sola.",
+      "to": "sostenida por acuerdos entre el Alcalde, el Consejo, los gremios y la comunidad."
+    },
+    {
+      "file": "canon/lore/romanance.md",
+      "reason": "Separar referencia del Preludio y presente de campaña",
+      "from": "Romanance fue fundada hace **434 años**",
+      "to": "Romanance fue fundada en **0 D.R.**; al cierre del Preludio tiene **434 años**, y la Campaña I comienza en **435 D.R.**. Fue fundada"
+    },
+    {
+      "file": "canon/lore/romanance.md",
+      "reason": "Llegada de Jarsag corregida; no fundador",
+      "from": "La ciudad alcanzó su forma actual hace un siglo aproximado, cuando **Jarsag**, un explorador minotauro llegado de fuera, decidió quedarse.",
+      "to": "La ciudad alcanzó su forma actual con la llegada de **Jarsag**, un explorador minotauro que decidió quedarse hace aproximadamente **50 años**."
+    },
+    {
+      "file": "canon/lore/romanance.md",
+      "reason": "Descripción cívica aprobada",
+      "from": "Romanance tiene alcalde (**Jarsag**), un Consejo, y guardias — pero funciona con una lógica de libre mercado: prioriza la estabilidad antes que el control estricto.",
+      "to": "Romanance es una **ciudad libre gobernada por acuerdos**. Tiene alcalde (**Jarsag**), un Consejo y guardias; prioriza la estabilidad y la cooperación."
+    },
+    {
+      "file": "canon/lore/romanance.md",
+      "reason": "Existencia de gremios conservada; reglamento no cerrado",
+      "from": ", cada uno con su propio sistema de afiliación por carnet y niveles:",
+      "to": ":"
+    },
+    {
+      "file": "canon/lore/romanance.md",
+      "reason": "Estado documental real y versión de edición nueva",
+      "from": "**Versión:** 1.0\n**Estado:** Aprobado — apto para compartir con jugadores.",
+      "to": "**Versión documental:** 1.1\n**Estado:** CANON EN CONSOLIDACIÓN — texto orientado a jugadores; descripción geográfica heredada por revisar y reglamento de gremios pendiente."
+    },
+    {
+      "file": "canon/pnjs/pnjs-principales.md",
+      "reason": "Encabezado concordante con fichas sin alterar niveles",
+      "from": "Todos de nivel avanzado (16-20).",
+      "to": "Niveles según cada ficha: Temay es nivel 10; Deren y Batai, 16; Ethen, 17; Tömörbaatar, 18; Jarsag, 19; Kharag y Aldren, 20."
+    },
+    {
+      "file": "canon/pnjs/pnjs-principales.md",
+      "reason": "Aplicar nota editorial ya incorporada",
+      "from": "> **Regla nueva — agregar a \"Criterio general para PNJs\":**",
+      "to": "> **Criterio vigente de diseño propio para PNJs:**"
+    },
+    {
+      "file": "canon/pnjs/pnjs-principales.md",
+      "reason": "Registrar criterio del proyecto sin emitir interpretación jurídica",
+      "from": "La licencia del SRD lo permite explícitamente.",
+      "to": "Este es el criterio de diseño propio registrado por el autor; las excepciones se conservan como reglas de campaña."
+    },
+    {
+      "file": "canon/pnjs/pnjs-principales.md",
+      "reason": "Mantener fecha histórica y separar presente",
+      "from": "cuando la ciudad ya tenía 384 años de vida (hoy 434 D.R., por lo que lleva unos 50 años en la ciudad).",
+      "to": "cuando la ciudad ya tenía 384 años de vida (referencia de la ficha en 434 D.R.: unos 50 años en la ciudad; presente de Campaña I: 435 D.R.)."
+    },
+    {
+      "file": "canon/pnjs/pnjs-principales.md",
+      "reason": "Conservar íntegro pasaje conflictivo fuera de afirmación cerrada",
+      "from": "Es uno de los dos únicos personajes (junto con Kharag) que conocen la verdad completa sobre el cristal azul y los Aurelianos, fundadores de la ciudad. En una visión mostrada a los PJ, se lo vio junto a los 5 fundadores.",
+      "to": "\n\n> **Pasaje detenido para conciliación (C07; no se establece como resolución canónica):** «Es uno de los dos únicos personajes (junto con Kharag) que conocen la verdad completa sobre el cristal azul y los Aurelianos, fundadores de la ciudad. En una visión mostrada a los PJ, se lo vio junto a los 5 fundadores.» La fuente urbana atribuye la fundación a discípulos/herederos culturales y Jarsag no fue fundador. Falta precisar el contenido de esa visión; no se inventa una explicación."
+    },
+    {
+      "file": "canon/pnjs/pnjs-principales.md",
+      "reason": "Especie explícitamente corregida en fuente y canon fundacional",
+      "from": "**Descripción:** Elfo (Linaje del Lago, Terenor), 160 años",
+      "to": "**Descripción:** Semielfo (Linaje del Lago, Terenor), 160 años"
+    },
+    {
+      "file": "canon/pnjs/pnjs-principales.md",
+      "reason": "Remisión operativa y conflictos internos visibles",
+      "from": ">ver _Anexo Homebrew PNJs Romanance_ para detalles completos de la subclase",
+      "to": "> Ver [anexo mecánico de PNJs](./anexo-mecanico-pnjs.md) para el detalle de la subclase. C06 mantiene pendiente la relación subraza/linaje y la duración de los Sellos; no se altera la mecánica."
+    },
+    {
+      "file": "canon/pnjs/pnjs-principales.md",
+      "reason": "No decidir excepción narrativa vs receta general",
+      "from": "**Crafteo — Rocío de Ethen:**",
+      "to": "**Crafteo — Rocío de Ethen (C08: regla pendiente de conciliar):**"
+    },
+    {
+      "file": "canon/pnjs/pnjs-principales.md",
+      "reason": "Conservar detalles únicos del fundacional sin generar lore",
+      "from": "**Pendientes de desarrollo (arrastrados del canon fundacional):**",
+      "to": "**Complemento conservado del canon fundacional v1:**\n\nLa región de Los Lagos de Terenor es antigua y desarrollada, con siglos o milenios de historia, distinta de la joven región austral de Romanance. La ciudad natal, aún sin nombre, resulta de generaciones de convivencia entre humanos y elfos del bosque y es un centro importante de estudio y comercio. Para la mayoría de los habitantes del sur, el Gran Oeste sigue siendo lejano y poco conocido. Para Aldren, la magia verdaderamente poderosa continúa funcionando mucho después de que su creador haya desaparecido. Su vestimenta base es práctica y elegante, diferente a una túnica exagerada. Estos detalles proceden de [Canon Fundacional v1](<../../data/archivos md/Aldren_el_Precavido_-_Canon_Fundacional_Romanance.md>).\n\n**Pendientes de desarrollo (arrastrados del canon fundacional):**"
+    },
+    {
+      "file": "canon/pnjs/pnjs-principales.md",
+      "reason": "Actualizar pendiente general de Cónclave a lo efectivamente abierto",
+      "from": "El Cónclave de Magos\n",
+      "to": "La relación concreta de Aldren con el Cónclave Zephyr, ubicado en Lyren. Nombre y ubicación ya están definidos; Lyren no es su ciudad natal según el consolidado general. El mago histórico Zephyr se conserva solo como dato anecdótico, sin conexiones nuevas.\n"
+    },
+    {
+      "file": "canon/pnjs/pnjs-principales.md",
+      "reason": "Pendientes documentales reales y conservación del diseño propio",
+      "from": "Sin pendientes abiertos en este documento — forja de Tömörbaatar, mercadeo de Temay y el cruce con equipment.md/magic-items.md (pociones) quedaron resueltos en Reglas_Forja_Mercadeo_Pociones.md.",
+      "to": "Forja de Tömörbaatar, mercadeo de Temay y el cruce con las pociones quedaron documentados en [Forja, mercadeo y pociones](./forja-mercadeo-y-pociones.md). Los pendientes internos no se consideran cerrados por esa declaración histórica:\n\n- **C06:** semielfo y Linaje del Lago; duración de los Sellos en el anexo.\n- **C07:** fundación y visión de Jarsag.\n- **C08:** Rocío de Ethen narrativo frente a receta general de 1 día/25 PO.\n- **C09:** el anexo omite el detalle reutilizable de Estirpe de Forja y Fe; se conserva completo en la ficha de Batai. La notación de aumentos de Escriba difiere entre fuentes; no se cambia ninguna cifra.\n- **C11:** ubicación actual de Aldren en campaña pendiente; no se confunde con origen.\n\nLa diferencia de rasgos de Ethen respecto del SRD (C22 de la auditoría) se conserva como diseño propio del PNJ, conforme al criterio del autor. No es por sí sola un error ni se rebalancea en esta tanda."
+    },
+    {
+      "file": "canon/pnjs/anexo-mecanico-pnjs.md",
+      "reason": "Mismo criterio de proyecto, sin dictamen jurídico",
+      "from": "La licencia del SRD lo permite explícitamente.",
+      "to": "Este es el criterio de diseño propio registrado por el autor; las excepciones se conservan como reglas de campaña."
+    },
+    {
+      "file": "canon/pnjs/anexo-mecanico-pnjs.md",
+      "reason": "Retirar tareas históricas resueltas y registrar conflictos sin tocar reglas",
+      "from": "1. Habilidades especiales de forja de Tömörbaatar sin desarrollar.\n2. Reglas de mercadeo específicas de Temay sin detallar.\n3. Cruce con `equipment.md`/`magic-items.md`: la Poción de Curación estándar del SRD queda no disponible en Romanance salvo excepción extraplanar — falta reflejarlo formalmente en esos documentos de reglas cuando se trabaje esa categoría.",
+      "to": "1. Forja de Tömörbaatar, mercadeo de Temay y cruce con pociones: documentados en [Forja, mercadeo y pociones](./forja-mercadeo-y-pociones.md). Las reglas propias se registran por separado del paquete SRD.\n2. **C06:** se conserva la redacción original de subraza/linaje y de duración de Sellos; falta resolver sus contradicciones internas.\n3. **C08–C09:** receta general de brebajes frente al caso Ethen y notación de aumentos de Escriba pendientes. Estirpe de Forja y Fe se mantiene completa en Batai; no se diseña una ampliación aquí."
+    }
+  ]
+}

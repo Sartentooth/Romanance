@@ -1,0 +1,151 @@
+{
+  "status": "ARCHIVADO; 8 fuentes íntegras; enlaces activos actualizados",
+  "items": [
+    {
+      "source": "data/archivos md/Romanance_Historia_y_Descripcion.md",
+      "destination": "_archivo/fuentes-historicas/consolidados-2026-10-14/Romanance_Historia_y_Descripcion.md",
+      "active": "canon/lore/romanance.md",
+      "sha256": "77835efd90bdf0883eaed463003e8e0d2d92cfe87608c69e650e2ca3fb5cc4c1",
+      "literal_normalized": false,
+      "source_lines_not_literal_in_active": [
+        "> Documento pensado para compartir con los jugadores — introducción general a la ciudad. Para el detalle mecánico de gremios ver `Gremios_de_Romanance.md`, y para los PNJs principales ver `PNJs_Principales_Romanance.md`.",
+        "Es un verdadero caldero de razas y especies — nadie es forastero por mucho tiempo en Romanance. Vive del comercio, la agricultura, la ganadería y la minería, sostenida por un gobierno de libre mercado que deja hacer y confía en que la ciudad se sostiene sola.",
+        "Romanance fue fundada hace **434 años** por discípulos y herederos culturales de un pueblo antiguo ya extinto. No fueron ellos quienes construyeron la ciudad desde una gran civilización propia — llegaron como aprendices de una sabiduría más vieja, y con el tiempo esa herencia se transformó en la identidad de la ciudad: la búsqueda del conocimiento, el servicio y la memoria compartida.",
+        "La ciudad alcanzó su forma actual hace un siglo aproximado, cuando **Jarsag**, un explorador minotauro llegado de fuera, decidió quedarse. No fue su fundador, pero adoptó los valores de Romanance y los potenció — hoy es su alcalde, y una de las figuras más respetadas de la ciudad.",
+        "Romanance tiene alcalde (**Jarsag**), un Consejo, y guardias — pero funciona con una lógica de libre mercado: prioriza la estabilidad antes que el control estricto. El Consejo se reúne una vez al mes con la Alcaldía, muchas veces con participación abierta de la ciudadanía. Los gremios de la ciudad (ver más abajo) también tienen voz formal en esas reuniones.",
+        "La moneda oficial es **la Luz** — fichas hexagonales de madera de ébano, en tres denominaciones: Aurora, Zenith y Ocaso.",
+        "La vida económica de Romanance gira en buena parte en torno a sus **nueve gremios**, cada uno con su propio sistema de afiliación por carnet y niveles: Aventureros, Minero, Agropecuario, Artesanos y Constructores, Comercio y Caravanas, Pescadores y Navegantes, Bibliotecarios y Eruditos, Sanadores, y Cazadores y Guardabosques. Cualquier viajero o recién llegado puede afiliarse — es una de las formas más naturales de integrarse a la vida de la ciudad.",
+        "**Versión:** 1.0",
+        "**Estado:** Aprobado — apto para compartir con jugadores. No incluye lore reservado de campaña (trasfondos secretos, tramas del Culto Lunar, ni información sobre el cristal azul más allá de lo que cualquier habitante podría saber)."
+      ],
+      "treatment": "Gobierno por acuerdos, Jarsag ~50 años, fundadores, 434/435 y excepciones gremiales según autor.",
+      "sha256_after": "77835efd90bdf0883eaed463003e8e0d2d92cfe87608c69e650e2ca3fb5cc4c1"
+    },
+    {
+      "source": "data/archivos md/Reglas_Forja_Mercadeo_Pociones.md",
+      "destination": "_archivo/fuentes-historicas/consolidados-2026-10-14/Reglas_Forja_Mercadeo_Pociones.md",
+      "active": "canon/pnjs/forja-mercadeo-y-pociones.md",
+      "sha256": "1e5c36847ab706e3dc6415593b6c189515e65fca270a0c8078a822661668c17c",
+      "literal_normalized": false,
+      "source_lines_not_literal_in_active": [
+        "- Si aparece una *Potion of Healing* en juego, es de **origen extraplanar** y sufre una alteración al entrar al mundo: en vez de restaurar Puntos de Golpe, otorga un **bono temporal a una tirada** (a definir por el DJ según contexto: Medicina, Supervivencia, un conjuro de curación, etc.), representando que armoniza mente, emociones y concentración en vez de sanar directamente.",
+        "- **Reemplazo local:** cualquier personaje con competencia en Kit de Herbolario (Ethen y otros herboristas) puede elaborar un **brebaje-bonus** usando la misma estructura mecánica que la receta oficial (Kit de Herbolario, 25 PO, 1 día), pero con el efecto de bono a tirada descrito arriba.",
+        "Esta nota debe consultarse junto con `equipment.md` y `magic-items.md` cada vez que se genere una tienda, botín o recompensa que incluya pociones de curación estándar."
+      ],
+      "treatment": "Rocío: decisión del 2026-10-14, +1d4, usos definidos, una hora, 7 días/25 PO y receta; cruce SRD como recordatorio.",
+      "sha256_after": "1e5c36847ab706e3dc6415593b6c189515e65fca270a0c8078a822661668c17c"
+    },
+    {
+      "source": "data/archivos md/Cosmologia_Lumenor.md",
+      "destination": "_archivo/fuentes-historicas/consolidados-2026-10-14/Cosmologia_Lumenor.md",
+      "active": "canon/lore/cosmologia.md",
+      "sha256": "697b4c345403730ff9a243574389654af5e4b0834431e885f0b004fae0a1ec90",
+      "literal_normalized": false,
+      "source_lines_not_literal_in_active": [
+        "# Cosmología — Lumenor (CANON)",
+        "El mundo completo (ambos continentes, Terenor y Aldenor) se llama **Lumenor**. Nombre derivado de \"La Luz\" / \"La Fuente de toda verdad\", el eje filosófico central del mundo (poloteísmo por principios, sin panteón divino). Sigue el patrón fonético \"-nor\" ya usado en Terenor y Aldenor.",
+        "Solenor/Selunar reflejan la misma tensión que ya está jugada en mesa: La Luz (verdad, orden, lo que Romanance y los Aurelianos custodian) frente a lo lunar (lo oculto, el Culto Lunar, el peligro asociado a Lunargenta). No son deidades — son cuerpos celestes con peso simbólico, coherente con la cosmología sin panteón del mundo."
+      ],
+      "treatment": "C05: sin panteón propio desarrollado; deidades D&D admitidas; Luz filosófica, no dios.",
+      "sha256_after": "697b4c345403730ff9a243574389654af5e4b0834431e885f0b004fae0a1ec90"
+    },
+    {
+      "source": "data/archivos md/El_Silente_Canon_Romanance-2.md",
+      "destination": "_archivo/fuentes-historicas/consolidados-2026-10-14/El_Silente_Canon_Romanance-2.md",
+      "active": "canon/lore/el-silente.md",
+      "sha256": "9ffa3c18e6b5a9ec48948fd3d157eb9349ab3544f91a07b8ff1127cad63f5bbf",
+      "literal_normalized": false,
+      "source_lines_not_literal_in_active": [
+        "## Estado del documento",
+        "**Versión:** 1.0",
+        "**Estado:** Canon aprobado — reemplaza el stub anterior de `El_Silente_Canon_Romanance.md` y el documento de notas sueltas `El_Silente_canon_y_enfoque_en_el_mundo`, ambos ahora obsoletos como archivos independientes."
+      ],
+      "treatment": "Desarrollo temático conservado; cambia únicamente la declaración histórica de reemplazo y metadatos.",
+      "sha256_after": "9ffa3c18e6b5a9ec48948fd3d157eb9349ab3544f91a07b8ff1127cad63f5bbf"
+    },
+    {
+      "source": "data/archivos md/Economia_inmobiliaria_Romanance.md",
+      "destination": "_archivo/fuentes-historicas/consolidados-2026-10-14/Economia_inmobiliaria_Romanance.md",
+      "active": "herramientas-campana/economia-inmobiliaria.md",
+      "sha256": "fac450eb898cbca477d010a120927447efb4857993bf979da3c75f902b3d6913",
+      "literal_normalized": false,
+      "source_lines_not_literal_in_active": [
+        "Estos gastos son independientes de la compra de una propiedad. citeturn0search0turn0search2",
+        "Para construir desde cero, utilizar aproximadamente entre **50% y 70% del precio de compra**, compensando el ahorro con tiempo de construcción."
+      ],
+      "treatment": "C21: conservar cifras y tiempos, sin descuento automático 50–70%; se retiran marcadores de cita de chat no resolubles.",
+      "sha256_after": "fac450eb898cbca477d010a120927447efb4857993bf979da3c75f902b3d6913"
+    },
+    {
+      "source": "data/archivos md/Moneda_de_romanance_la_luz.md",
+      "destination": "_archivo/fuentes-historicas/consolidados-2026-10-14/Moneda_de_romanance_la_luz.md",
+      "active": "canon/lore/moneda-la-luz.md",
+      "sha256": "914921fb316d6aa210348ce92c35e71caf27f56769d3371e8a4b1db8038e87cd",
+      "literal_normalized": true,
+      "source_lines_not_literal_in_active": [],
+      "treatment": "Fuente íntegra incluida literalmente tras normalizar espacios; equivalencias y simbología sin cambios.",
+      "sha256_after": "914921fb316d6aa210348ce92c35e71caf27f56769d3371e8a4b1db8038e87cd"
+    },
+    {
+      "source": "data/archivos md/Anexo_Oficial_Romanance_Inteligencias_Hierofante.md",
+      "destination": "_archivo/fuentes-historicas/consolidados-2026-10-14/Anexo_Oficial_Romanance_Inteligencias_Hierofante.md",
+      "active": "canon/lore/inteligencias-encarnadas-y-hierofante.md",
+      "sha256": "318622b946aa2549bf4cdb9bc6a68cfcd33b6c7a7bca68894b9b1e1e0781c7b4",
+      "literal_normalized": true,
+      "source_lines_not_literal_in_active": [],
+      "treatment": "Anexo v1.2 íntegro incluido literalmente tras normalizar espacios; C18 diferido y base provisional ya aprobada.",
+      "sha256_after": "318622b946aa2549bf4cdb9bc6a68cfcd33b6c7a7bca68894b9b1e1e0781c7b4"
+    },
+    {
+      "source": "data/archivos md/Hierofante de la Luz.md",
+      "destination": "_archivo/canon-obsoleto/hierofante-2026-10-14/Hierofante de la Luz.md",
+      "active": "canon/lore/inteligencias-encarnadas-y-hierofante.md",
+      "sha256": "6d879b0c1b2a50f212b31f8a1f9575bcf0eee27cc77a2afef1a8f3908c158cf1",
+      "literal_normalized": false,
+      "source_lines_not_literal_in_active": [
+        "| ----- | ------------------------------- | ------ | ------------------ | ----------- |",
+        "| 3     |  Resonancia de Linaje           | 2      | 4                  | 4           |",
+        "| 6     | Rasgo del sendero               | 3      | 7                  | 5           |",
+        "| 7     | Mente inquebrantable            | 3      | 8                  | 6           |",
+        "| 13    | Rasgo del sendero               | 4      | 13                 | 9           |",
+        "| 15    | Resonancia perfecta             | 4      | 14                 | 10          |",
+        "| 18    | Rasgo del sendero               | 4      | 15                 | 11          |",
+        "Como acción adicional, gastas 1 Resonancia y eliges una criatura a 9 m:",
+        "# Nivel 3:  Resonancia de Linaje",
+        "Elige uno de los siguientes senderos.",
+        "## Custodio de la Luz",
+        "Protector de memorias y juramentos.",
+        "### Nivel 3",
+        "- Competencia con armaduras medias.",
+        "- Cuando una criatura a 3 m falle una salvación contra hechizado o asustado, puedes gastar 1 Resonancia para permitirle repetirla.",
+        "Maestro de la mente compartida.",
+        "### Nivel 3",
+        "- Telepatía a 18 m con criaturas que veas.",
+        "- Ventaja en Perspicacia contra criaturas con las que te hayas comunicado telepáticamente.",
+        "## Errante de la Luz",
+        "Explorador de la experiencia mortal.",
+        "### Nivel 3",
+        "- Velocidad +3 m.",
+        "- Ignoras terreno difícil no mágico durante tu turno.",
+        "# Nivel 7: Mente inquebrantable",
+        "Tienes resistencia al daño psíquico.",
+        "# Nivel 15: Resonancia perfecta",
+        "Tu Resonancia básica usa **1d8**."
+      ],
+      "treatment": "Reemplazo explícito por Anexo Oficial v1.2 y cotejo completo en REVISION_INTELIGENCIAS_Y_HIEROFANTE.md; rasgos retirados solo históricos.",
+      "sha256_after": "6d879b0c1b2a50f212b31f8a1f9575bcf0eee27cc77a2afef1a8f3908c158cf1"
+    }
+  ],
+  "updated_link_files": [
+    "CONSOLIDACION_TANDA_1.md",
+    "CONSOLIDACION_TANDA_3.md",
+    "INDICE_CANON.md",
+    "herramientas-campana\\economia-inmobiliaria.md",
+    "canon\\lore\\cosmologia.md",
+    "canon\\lore\\el-silente.md",
+    "canon\\lore\\inteligencias-encarnadas-y-hierofante.md",
+    "canon\\lore\\moneda-la-luz.md",
+    "canon\\lore\\romanance.md",
+    "canon\\pnjs\\forja-mercadeo-y-pociones.md"
+  ]
+}

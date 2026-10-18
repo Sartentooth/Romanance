@@ -1,0 +1,56 @@
+# Historia de Trasfondo: Janne Glowbend (Jantry Emberflame)
+
+**Nombre real:** Janne Glowbend  
+**Alias actual:** Jantry Emberflame  
+**Edad:** 18–19 años  
+**Clase / Rol:** Pícaro / Investigadora  
+**Origen:** Berk (Aldea destruida)  
+**Residencia:** Levit (Biblioteca)  
+**Armas favoritas:** Ballesta y daga corta  
+**Debilidad:** Acrofobia (Lugares altos)  
+
+---
+
+## I. El legado de Berk
+
+Nací hace casi diecinueve años en Berk, una pequeña y apartada aldea donde, al menos en apariencia, todos podían vivir en paz. Para mantener esa tranquilidad existía un único pacto sagrado: los aldeanos debían proteger y mantener a salvo al director del pueblo. Ese hombre era mi padre, Armaros Glowbend, y cargaba sobre sus hombros con una misión tan pesada como crucial: recuperar un cristal arcano perteneciente a los elfos, heredarme su poder y liberar por fin al mundo de los males desatados por esa estirpe.
+
+Crecí a solas con mi padre. Durante toda mi infancia no supe prácticamente nada sobre mi madre. Papá dedicó cada uno de mis primeros años a entrenarme: me enseñó a moverme en sombras, a ser ágil, atenta y analítica. Su objetivo era moldear en mí a la pícara más valiente y preparada de la aldea, capaz de defenderse de cualquier amenaza. Mi mente investigadora y mi puntería con la ballesta eran implacables; jamás fallaba en eso. Sin embargo, si algo se me daba francamente mal, era escalar montañas o desenvolverme en lugares desmedidamente altos: las grandes alturas siempre me han paralizado.
+
+---
+
+## II. La noche del silencio
+
+Mi infancia terminó a los once años. Recuerdo que mi padre afilaba su hacha a mi lado cuando, de pronto, un silencio helado e innatural envolvió la aldea. Berk jamás era un lugar silencioso, por lo que aquel vacío me causó una profunda corazonada de peligro. Intuyendo lo peor, papá me ordenó resguardarme en mi habitación y salió al centro del pueblo a investigar.
+
+Al llegar a la plaza, no encontró a nadie; la aldea estaba completamente desierta. De repente, un ruido crujió tras de él. Antes de que pudiera reaccionar, golpearon violentamente a mi padre, dejándolo de cara contra el suelo. Aquel no fue un simple impacto: la sacudida y algún tipo de toxina o magia sigilosa le adormecieron el cuerpo, nublándole la vista y dejándolo incapaz de moverse.
+
+Cuando recobró el conocimiento, estaba atado a una silla en la sala de nuestra propia casa. Al recuperar progresivamente la visión, lo primero que vio fue mi figura al otro lado del recinto. Yo estaba allí, parada, petrificada por un terror que jamás había sentido, con las lágrimas rodándome por las mejillas. Papá intentó zafarse con desesperación, pero las cuerdas no cedieron.
+
+De los rincones oscuros de la sala emergió una sombra de figura estilizada. Portaba un arco tensado, apuntando directo a la cabeza de mi padre. En cuanto él reconoció la naturaleza de su agresor y supo que se trataba de un elfo, una mezcla de furia y profunda tristeza atravesó su rostro: comprendió que eran los últimos minutos que le quedaban junto a mí.
+
+> *«Mi madre no estaba muerta; permanecía cautiva por los mismos elfos debido al inconmensurable poder que poseía. Mi deber era sobrevivir, huir y encontrarla...»*
+
+Sin dudarlo un segundo, comenzó a gritarme la verdad sobre mi madre. Reveló que no estaba muerta, sino cautiva por esos mismos elfos debido al inmenso poder que albergaba, y me exigió que huyera y no descansara hasta encontrarla.
+
+El elfo, al ver que mi padre revelaba el secreto, perdió la paciencia. Lo amenazó tensando la cuerda hacia su ojo, pero mi padre jamás guardó silencio. Aprovechando la distracción, me las ingenié para cortar mis ataduras con una pequeña daga escondida. Desplazándome con el sigilo que él mismo me enseñó, busqué una vía de escape. Quería abalanzarme para salvarlo, pero mi instinto y la mirada de mi padre me ordenaban sobrevivir. Antes de cruzar la puerta, nuestras miradas se cruzaron: le dediqué un leve asentimiento de cabeza y él me devolvió el mismo gesto, una despedida silenciosa entre padre e hija.
+
+Apenas crucé el umbral hacia la noche, un grito desgarrador resonó dentro de la casa. En ese instante supe que mi padre había muerto y que me había quedado completamente sola en el mundo.
+
+---
+
+## III. El camino a las sombras
+
+Corrí a ciegas, ahogada en llanto y tratando de procesar la pesadilla. Sin rumbo fijo, tropecé con una piedra en un camino en pendiente y rodé por la cuesta abajo. Al final del trayecto, un anciano compasivo me encontró malherida. Me acogió en su choza y cuidó de mí durante varios días. Le conté la verdad de forma resumida: que mi padre había muerto, que sus asesinos me perseguían y que necesitaba irme muy lejos, a un poblado apartado donde pudiera esconderme.
+
+El anciano consultó mapas antiguos y recientes hasta dar con el refugio ideal: una aldea lejana llamada **Levit**. Nos preparamos y emprendimos un viaje a caballo que nos tomó tres días y medio. Al llegar a las afueras, el anciano se despidió aconsejándome que me mantuviera siempre alerta, que aprendiera a camuflarme entre la gente y que no me dejara ver hasta estar segura.
+
+Decidí sepultar mi antigua identidad para sobrevivir. Usando mi daga, me corté el cabello a la altura de los hombros, reajusté mis prendas para alterar mi aspecto y adopté el nombre de **Jantry Emberflame**. A partir de ese día, Janne Glowbend dejó de existir.
+
+---
+
+## IV. La biblioteca de Levit
+
+Levit se convirtió en mi nuevo hogar y el lugar donde aprendí a valerme por mi cuenta. Durante años dormí en la biblioteca del pueblo a cambio de trabajar allí como archivista. Aproveché cada noche para devorar tomos sobre picardía, arcanos, estrategias de combate e historia de las razas.
+
+Llevo ya cinco años viviendo aquí. Con el paso del tiempo, conocí a un grupo de compañeros de aventuras —un poco disparatados y torpes a veces, pero de gran corazón—. Junto a ellos he encontrado finalmente mi lugar en el mundo. Hoy, bajo el nombre de Jantry Emberflame, aguardo el momento indicado para cumplir el último mandato de mi padre y descubrir el paradero de mi madre.

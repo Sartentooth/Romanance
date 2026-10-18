@@ -1,0 +1,52 @@
+[
+  {
+    "archivo": "data\\Json del mapa de Azgaar\\Mundo Sebas Full 2026-10-09-18-07.json",
+    "bytes": 6537874,
+    "sha256": "7b74dba6bf42d26d4976c84e7f35cb40ff9d7bd1a352a1799381c6587ea8924a"
+  },
+  {
+    "archivo": "data\\Json del mapa de Azgaar\\Mundo Sebas 2026-10-04-00-21.map",
+    "bytes": 3359228,
+    "sha256": "5b4998944e5a787cd37e497d849716dcae3edc1fd3e9a68e7ab73abd3cf512df"
+  },
+  {
+    "archivo": "data\\archivos md\\manuales D&D 2024\\armaduras PHG.pdf",
+    "bytes": 322686,
+    "sha256": "6381937d78915135144c77fba4b3bc70f6e38faf009e5b2949e03dbfd890c6df"
+  },
+  {
+    "archivo": "data\\archivos md\\manuales D&D 2024\\armas PHG.pdf",
+    "bytes": 273358,
+    "sha256": "1185ac70c85113ab071d935a9a51127b003f54609307fec6267e43c63377884b"
+  },
+  {
+    "archivo": "data\\archivos md\\manuales D&D 2024\\equipo aventurero PHG.pdf",
+    "bytes": 232840,
+    "sha256": "8a8ca14d6453324305e0328efa01c305484e1e56ecc3e837691d9360bf6b6df3"
+  },
+  {
+    "archivo": "data\\archivos md\\manuales D&D 2024\\herramientas PHG.pdf",
+    "bytes": 644979,
+    "sha256": "4c5b2623b4970df9ec573e1e78dcb79ec21f7709b001b8718ff7a8aefcb88cd4"
+  },
+  {
+    "archivo": "data\\archivos md\\manuales D&D 2024\\Manual del Jugador 2024.pdf",
+    "bytes": 83657635,
+    "sha256": "d6437f13872ae63ed8bb9525f98558e4d903c2147f5c8df00bc48baa78721040"
+  },
+  {
+    "archivo": "data\\archivos md\\manuales D&D 2024\\Manual Dungeon Master 2024 - Español.pdf",
+    "bytes": 87020058,
+    "sha256": "c26def5f1513df84f30c7714abc46833bed6ed176e8efc7bf24dda87fc76ecff"
+  },
+  {
+    "archivo": "data\\archivos md\\manuales D&D 2024\\objetos magicos aleatorios DMG.pdf",
+    "bytes": 1773831,
+    "sha256": "57ca13f1a849937d4d513c9381b82b33bc0ad5e1ccd0b557379e0ed8d19f2d35"
+  },
+  {
+    "archivo": "data\\archivos md\\manuales D&D 2024\\SP_SRD_CC_v5.2.1.pdf",
+    "bytes": 9157374,
+    "sha256": "9ecc1b980016b104004424a4323a65cdd6b396fce4f12b49bc524ebbab8088b5"
+  }
+]

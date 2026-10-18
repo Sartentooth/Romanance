@@ -1,0 +1,20 @@
+{
+  "fecha": "2026-10-04",
+  "decision": "C05 resuelto por el autor",
+  "fuentes_verificadas": 56,
+  "fuentes_alteradas": 0,
+  "contenido_cosmologia_coincide_con_consolidacion": true,
+  "enlaces_locales_verificados": 187,
+  "enlaces_rotos": [],
+  "fuentes_cosmologia": [
+    {
+      "sha256": "697B4C345403730FF9A243574389654AF5E4B0834431E885F0B004FAE0A1EC90",
+      "archivo": "Cosmologia_Lumenor.md"
+    },
+    {
+      "sha256": "7350A53EC64DB446156FDB85CD415437692E846D084D66D2D6FB6906A70EB9C9",
+      "archivo": "Biblia_de_Romanance_Canon_Base.md"
+    }
+  ],
+  "movimientos_de_fuentes": false
+}

@@ -1,0 +1,11 @@
+{
+  "fuente": "C:\\Users\\Sarten\\Downloads\\Romanance preludio del viaje.m4a",
+  "modelo": "small",
+  "motor": "faster-whisper",
+  "idioma": "es",
+  "duracion_segundos": 9145.6203125,
+  "estado": "AUTOMÁTICA SIN COTEJAR",
+  "diarizacion": false,
+  "completada": true,
+  "tiempo_proceso_segundos": 1554.0
+}

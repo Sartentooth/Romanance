@@ -1,0 +1,101 @@
+{
+  "fecha": "2026-10-04",
+  "sources": [
+    {
+      "name": "trasfondos_personajes_romanance.md",
+      "path": "data\\archivos md\\trasfondos_personajes_romanance.md",
+      "sha256": "3955F1AD956D87147B453A80E715AF176C5635FA85AEE42E81B5D9996633CFE6"
+    },
+    {
+      "name": "Historia_Jantry_Emberflame.md",
+      "path": "data\\archivos md\\Historia_Jantry_Emberflame.md",
+      "sha256": "7E140D7AFD978816687894D8F28929CD3C397A82D3071713680852BBDF3E1AF0"
+    }
+  ],
+  "ediciones": [
+    {
+      "source": "data\\archivos md\\trasfondos_personajes_romanance.md",
+      "from": "- Edad: 18–19 años",
+      "to": "- Edad: 17–18 años (rango vigente confirmado por el autor)",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    },
+    {
+      "source": "data\\archivos md\\trasfondos_personajes_romanance.md",
+      "from": "- Clase: Paladín (Legal Bueno)",
+      "to": "- Clase: Paladín (Legal Bueno)\n- Edad: 200 años\n- Llegada a Levit: 429 D.R., unos días antes que Jantry",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    },
+    {
+      "source": "data\\archivos md\\trasfondos_personajes_romanance.md",
+      "from": "Su viaje lo llevó finalmente a Levit, donde encontró compañeros de aventuras y una nueva familia.",
+      "to": "Su viaje lo llevó finalmente a Levit en 429 D.R., unos días antes que Jantry. Allí encontró compañeros de aventuras y una nueva familia.",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    },
+    {
+      "source": "data\\archivos md\\trasfondos_personajes_romanance.md",
+      "from": "- Origen: Berk (aldea destruida)",
+      "to": "- Origen: Berk (aldea destruida), en el Gran Oeste de Terenor, entre Kelen, Khalan y Marren\n- Llegada a Levit: 429 D.R.",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    },
+    {
+      "source": "data\\archivos md\\trasfondos_personajes_romanance.md",
+      "from": "Nació hace casi diecinueve años en Berk,",
+      "to": "Nació en Berk,",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    },
+    {
+      "source": "data\\archivos md\\trasfondos_personajes_romanance.md",
+      "from": "Malherida tras huir a ciegas, fue recogida por un anciano que la refugió y, tras consultar mapas, la guio hasta **Levit**, un poblado lejano donde esconderse.",
+      "to": "Malherida tras huir a ciegas, fue recogida por un anciano que la refugió y, tras consultar mapas, la guio hasta **Levit**, un poblado lejano donde esconderse. Berk está en el Gran Oeste de Terenor, entre Kelen, Khalan y Marren: el recorrido hasta Levit supera los 3000 km. La duración antigua de tres días y medio queda reemplazada; el viaje pudo haber tardado meses, sin una duración exacta fijada. Llegó en 429 D.R.",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    },
+    {
+      "source": "data\\archivos md\\trasfondos_personajes_romanance.md",
+      "from": "Durante cinco años durmió en la biblioteca de Levit",
+      "to": "Durante los cinco años transcurridos entre su llegada en 429 D.R. y el Preludio de 434 D.R., durmió en la biblioteca de Levit",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    },
+    {
+      "source": "data\\archivos md\\trasfondos_personajes_romanance.md",
+      "from": "**Versión:** 1.6\n**Estado:** Canon aprobado.",
+      "to": "**Versión de la fuente:** 1.6 (historial conservado).\n**Versión documental activa:** 1.0 de consolidación local.\n**Estado:** CANON EN CONSOLIDACIÓN.",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    },
+    {
+      "source": "data\\archivos md\\Historia_Jantry_Emberflame.md",
+      "from": "**Edad:** 18–19 años",
+      "to": "**Edad:** 17–18 años (rango vigente confirmado por el autor)",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    },
+    {
+      "source": "data\\archivos md\\Historia_Jantry_Emberflame.md",
+      "from": "**Origen:** Berk (Aldea destruida)",
+      "to": "**Origen:** Berk (aldea destruida), Gran Oeste de Terenor, entre Kelen, Khalan y Marren",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    },
+    {
+      "source": "data\\archivos md\\Historia_Jantry_Emberflame.md",
+      "from": "**Residencia:** Levit (Biblioteca)",
+      "to": "**Residencia:** Levit (Biblioteca)  \n**Llegada a Levit:** 429 D.R.",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    },
+    {
+      "source": "data\\archivos md\\Historia_Jantry_Emberflame.md",
+      "from": "Nací hace casi diecinueve años en Berk,",
+      "to": "Nací en Berk,",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    },
+    {
+      "source": "data\\archivos md\\Historia_Jantry_Emberflame.md",
+      "from": "Nos preparamos y emprendimos un viaje a caballo que nos tomó tres días y medio.",
+      "to": "Nos preparamos y emprendimos un largo viaje a caballo desde el Gran Oeste de Terenor hasta Levit.",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    },
+    {
+      "source": "data\\archivos md\\Historia_Jantry_Emberflame.md",
+      "from": "Llevo ya cinco años viviendo aquí.",
+      "to": "En 434 D.R., al comienzo del Preludio, llevaba cinco años viviendo aquí desde mi llegada en 429 D.R.",
+      "authority": "Decisión directa del autor sobre Jantry/Elián y cronología 429/434/435"
+    }
+  ]
+}

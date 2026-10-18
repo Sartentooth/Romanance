@@ -1,0 +1,9 @@
+{
+  "fuentes_sha256": {
+    "Moneda_de_romanance_la_luz.md": "914921fb316d6aa210348ce92c35e71caf27f56769d3371e8a4b1db8038e87cd",
+    "Gremios_de_Romanance.md": "22dcafb0e3184d03d80b3ac012e158c5abc1ef03fc5ec328491aa404ea1a857a"
+  },
+  "fuentes_intactas": true,
+  "moneda_literal_preservada": true,
+  "porcentajes": "Pendiente quién recibe; no calculados como regla"
+}

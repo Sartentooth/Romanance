@@ -1,0 +1,14 @@
+{
+  "fuente": "data\\Json del mapa de Azgaar\\Mundo Sebas Full 2026-10-09-18-07.json",
+  "sha256": "7b74dba6bf42d26d4976c84e7f35cb40ff9d7bd1a352a1799381c6587ea8924a",
+  "directa_km_aproximados_autor": 560,
+  "varsak_confluencia_km_captura_autor": 168,
+  "romanance_levit_tomorsag_km_calculados": 282.09679412841797,
+  "tomorsag_varsak_mar_km_calculados": 262.96300506591797,
+  "opcion_via_tomorsag_total_km_estimados": 713.0597991943359,
+  "opcion_via_tomorsag_total_a_pie_km_estimados": 450.09679412841797,
+  "comprobacion_geometrica_celdas_km": 504.03388710993994,
+  "celda_referencia_aproximada": 4444,
+  "limite_calculo_celdas": "Camino geométrico mínimo por centros de celdas terrestres. Ignora terreno, puentes, cruces fluviales, caminos transitables y desvíos: no es una ruta jugable validada ni sustituye los 560 km aproximados del autor.",
+  "eleccion_de_ruta": "Corresponde a la party. Se comparan opciones; ninguna fue elegida por esta revisión."
+}

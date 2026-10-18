@@ -1,0 +1,153 @@
+{
+  "info_actual": {
+    "version": "1.154.0",
+    "description": "Azgaar's Fantasy Map Generator output: azgaar.github.io/Fantasy-map-generator",
+    "exportedAt": "2026-10-09T21:07:52.927Z",
+    "mapName": "Mundo Sebas",
+    "width": 2000,
+    "height": 1000,
+    "seed": "241435358",
+    "mapId": 1788848626792
+  },
+  "info_anterior_auditoria": {
+    "version": "1.153.1",
+    "description": "Azgaar's Fantasy Map Generator output: azgaar.github.io/Fantasy-map-generator",
+    "exportedAt": "2026-10-04T03:22:41.822Z",
+    "mapName": "Mundo Sebas",
+    "width": 2000,
+    "height": 1000,
+    "seed": "241435358",
+    "mapId": 1788848626792
+  },
+  "escala_actual": 3,
+  "cabecera_map": "1.154.0|File can be loaded in azgaar.github.io/Fantasy-Map-Generator|2026-10-9|241435358|2000|1000|1788848626792",
+  "coincidencias_exactas_map_json_por_seccion": {
+    "features": [
+      167
+    ],
+    "burgs": [
+      170
+    ],
+    "states": [
+      169
+    ],
+    "cultures": [
+      168
+    ],
+    "rivers": [
+      187
+    ],
+    "routes": [
+      192
+    ]
+  },
+  "lagos": [
+    {
+      "id": 11,
+      "nombre": "Hucatai"
+    },
+    {
+      "id": 13,
+      "nombre": "Coënquelián"
+    }
+  ],
+  "berk_bioma": 13,
+  "rutas_actuales": [
+    {
+      "id": 0,
+      "nombre": "Romanancean road",
+      "km": 2213.5087280273438
+    },
+    {
+      "id": 1,
+      "nombre": "Santuarion trail",
+      "km": 135.14194107055664
+    },
+    {
+      "id": 2,
+      "nombre": "Haldenan path",
+      "km": 291.5841522216797
+    },
+    {
+      "id": 3,
+      "nombre": "Marrenean pass",
+      "km": 149.67395782470703
+    },
+    {
+      "id": 4,
+      "nombre": "Krâthor path",
+      "km": 515.1646728515625
+    },
+    {
+      "id": 5,
+      "nombre": "Aetherionese path",
+      "km": 136.11408233642578
+    },
+    {
+      "id": 6,
+      "nombre": "Krâthor trail",
+      "km": 126.27195739746094
+    },
+    {
+      "id": 7,
+      "nombre": "Berkan pass",
+      "km": 472.0875549316406
+    },
+    {
+      "id": 9,
+      "nombre": "Stardust route",
+      "km": 262.96300506591797
+    },
+    {
+      "id": 10,
+      "nombre": "Lanrean path",
+      "km": 87.2582015991211
+    },
+    {
+      "id": 11,
+      "nombre": "Levitan trail",
+      "km": 143.67530822753906
+    },
+    {
+      "id": 12,
+      "nombre": "Ruinas de Morvath trail",
+      "km": 45.620232582092285
+    },
+    {
+      "id": 13,
+      "nombre": "Tömörsagean Port Road",
+      "km": 138.4214859008789
+    },
+    {
+      "id": 14,
+      "nombre": "Varsakean Port Road",
+      "km": 243.36868286132812
+    },
+    {
+      "id": 15,
+      "nombre": "The Serpentine Varsak trail",
+      "km": 286.9229278564453
+    },
+    {
+      "id": 16,
+      "nombre": "Berk road",
+      "km": 537.3896484375
+    },
+    {
+      "id": 17,
+      "nombre": "Khalanan trail",
+      "km": 89.80785369873047
+    },
+    {
+      "id": 18,
+      "nombre": "Khalan pass",
+      "km": 55.06977081298828
+    },
+    {
+      "id": 20,
+      "nombre": "Marrenese trail",
+      "km": 499.1481628417969
+    }
+  ],
+  "limite": "JSON anterior ausente del directorio y sin seguimiento en Git; comparación histórica limitada a auditoría disponible."
+}

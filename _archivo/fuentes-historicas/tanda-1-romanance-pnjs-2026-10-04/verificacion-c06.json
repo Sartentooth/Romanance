@@ -1,0 +1,28 @@
+{
+  "fecha": "2026-10-04",
+  "alcance": "C06: distinción final de sellos puntuales e imbuiciones reutilizables",
+  "enlacesRevisados": 95,
+  "enlacesRotos": [],
+  "fuentes": [
+    {
+      "archivo": "data\\archivos md\\Romanance_Historia_y_Descripcion.md",
+      "sinCambios": true
+    },
+    {
+      "archivo": "data\\archivos md\\PNJs_Principales_Romanance.md",
+      "sinCambios": true
+    },
+    {
+      "archivo": "data\\archivos md\\Aldren_el_Precavido_-_Canon_Fundacional_Romanance.md",
+      "sinCambios": true
+    },
+    {
+      "archivo": "data\\archivos md\\Anexo_Homebrew_PNJs_Romanance.md",
+      "sinCambios": true
+    },
+    {
+      "archivo": "data\\archivos md\\Reglas_Forja_Mercadeo_Pociones.md",
+      "sinCambios": true
+    }
+  ]
+}

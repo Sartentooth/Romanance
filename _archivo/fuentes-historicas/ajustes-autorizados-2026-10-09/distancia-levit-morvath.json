@@ -1,0 +1,25 @@
+{
+  "instruccion": "46 km; reemplazar medidas anteriores sin conservarlas. No se guarda contenido previo.",
+  "cambios": [
+    {
+      "archivo": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\Tabla_Viaje_Continental_Romanance.md",
+      "sha256_resultante": "2a6f41e70363d7d0470c444264c3711a42eda65c4508a1b46146e6f82fc1e14f"
+    },
+    {
+      "archivo": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+      "sha256_resultante": "cc83bb4cd2c2d75f5f32ee89d5a7768a18f3ab2e247ff8889511fd4a18dc83c6"
+    },
+    {
+      "archivo": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\Romanance_Consolidacion_Direccion_Visual.md",
+      "sha256_resultante": "86defdb31024d79f349fbf3a1ebf0f417fa114182be1f2120f230e3f3d29414a"
+    },
+    {
+      "archivo": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\PLAN_MIGRACION_FASE_1.md",
+      "sha256_resultante": "cc63b35c12d08994ef0b8fe70506ffe2e49158aa3a747980be3108e53673a2fc"
+    },
+    {
+      "archivo": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\INDICE_CANON.md",
+      "sha256_resultante": "c23381805bf04fe8a6edd1582ba1fb2b5c16dbf012d1d775f5350f941661232c"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "fecha": "2026-10-04",
+  "autoridad": "Respuesta directa del autor en esta sesión",
+  "cambios": [
+    {
+      "file": "canon/pnjs/pnjs-principales.md",
+      "reason": "Aclaración directa del autor en esta sesión: visita posterior a llegada, visión como disparador, círculo reservado reducido",
+      "from": "> **Pasaje detenido para conciliación (C07; no se establece como resolución canónica):** «Es uno de los dos únicos personajes (junto con Kharag) que conocen la verdad completa sobre el cristal azul y los Aurelianos, fundadores de la ciudad. En una visión mostrada a los PJ, se lo vio junto a los 5 fundadores.» La fuente urbana atribuye la fundación a discípulos/herederos culturales y Jarsag no fue fundador. Falta precisar el contenido de esa visión; no se inventa una explicación.",
+      "to": "**Conocimiento reservado y Cámara del Quinto Juramento:** Después de llegar a Romanance, su experiencia como explorador, su conocimiento del lore y su amistad con Kharag lo llevaron a la Cámara del Quinto Juramento. Conoce la verdad sobre la Lunargenta, el Silente y los Juramentos. El mineral es de uso común; la propiedad de sellado y lo referente a los Aurelianos son conocimiento reservado a Jarsag, Kharag y un puñado más, todavía sin identificar.\n\n**Visión jugada:** La party lo vio junto a los cinco fundadores en una visión de los comienzos de lo que después sería Romanance. La visión funcionó en mesa como disparador para investigar lo ocurrido en el Preludio: Morvath, las Cuatro Estatuas y el Quinto Juramento. Su aparición no lo convierte en fundador ni modifica su llegada aproximada de hace 50 años. No se define aquí un mecanismo temporal o mágico adicional para la visión.\n\nEsta aclaración procede de la decisión directa del autor registrada en [decisiones de esta tanda](../../_archivo/fuentes-historicas/tanda-1-romanance-pnjs-2026-10-04/decisiones-autor.md)."
+    },
+    {
+      "file": "canon/pnjs/pnjs-principales.md",
+      "reason": "Autor amplía conocimiento reservado a Jarsag/Kharag y puñado no identificado",
+      "from": "Junto con Jarsag, es el único que conoce todo lo referente al cristal azul.",
+      "to": "Junto con Jarsag y un círculo reducido todavía sin identificar, conoce la verdad reservada sobre la Lunargenta, su propiedad de sellado y lo referente a los Aurelianos."
+    }
+  ]
+}

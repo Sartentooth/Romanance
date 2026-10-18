@@ -1,0 +1,63 @@
+{
+  "fecha": "2026-10-04",
+  "ordenCanon": [
+    "Verdad",
+    "Deber",
+    "Compasión",
+    "Humildad",
+    "Custodia"
+  ],
+  "correspondencias": [
+    {
+      "farol": "Camino (blanco)",
+      "correspondenciasConservadas": true
+    },
+    {
+      "farol": "Velo (azul)",
+      "correspondenciasConservadas": true
+    },
+    {
+      "farol": "Piedra (verde)",
+      "correspondenciasConservadas": true
+    },
+    {
+      "farol": "Silencio (gris)",
+      "correspondenciasConservadas": true
+    },
+    {
+      "farol": "Memoria (rojo)",
+      "correspondenciasConservadas": true
+    }
+  ],
+  "formulaciones": [
+    {
+      "formulacion": "Que mi palabra refleje la luz y no mi deseo.",
+      "enFuente": true,
+      "conservada": true
+    },
+    {
+      "formulacion": "La luz recibida debe convertirse en servicio.",
+      "enFuente": true,
+      "conservada": true
+    },
+    {
+      "formulacion": "Toda verdad que niega la vida es oscuridad disfrazada.",
+      "enFuente": true,
+      "conservada": true
+    },
+    {
+      "formulacion": "La luz no pertenece a quien la contempla.",
+      "enFuente": true,
+      "conservada": true
+    },
+    {
+      "formulacion": "Guardaré la verdad aunque el olvido sea mi único legado.",
+      "enFuente": true,
+      "conservada": true
+    }
+  ],
+  "fuentesVerificadas": 56,
+  "fuentesAlteradas": [],
+  "enlacesRevisados": 78,
+  "enlacesRotos": []
+}

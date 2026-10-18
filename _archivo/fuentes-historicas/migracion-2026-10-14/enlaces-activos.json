@@ -1,0 +1,77 @@
+{
+  "documents": 86,
+  "links_checked": 937,
+  "missing": [],
+  "integrity": [
+    {
+      "source": "data/archivos md/Romanance_Historia_y_Descripcion.md",
+      "archived": "_archivo/fuentes-historicas/consolidados-2026-10-14/Romanance_Historia_y_Descripcion.md",
+      "ok": true
+    },
+    {
+      "source": "data/archivos md/Reglas_Forja_Mercadeo_Pociones.md",
+      "archived": "_archivo/fuentes-historicas/consolidados-2026-10-14/Reglas_Forja_Mercadeo_Pociones.md",
+      "ok": true
+    },
+    {
+      "source": "data/archivos md/Cosmologia_Lumenor.md",
+      "archived": "_archivo/fuentes-historicas/consolidados-2026-10-14/Cosmologia_Lumenor.md",
+      "ok": true
+    },
+    {
+      "source": "data/archivos md/El_Silente_Canon_Romanance-2.md",
+      "archived": "_archivo/fuentes-historicas/consolidados-2026-10-14/El_Silente_Canon_Romanance-2.md",
+      "ok": true
+    },
+    {
+      "source": "data/archivos md/Economia_inmobiliaria_Romanance.md",
+      "archived": "_archivo/fuentes-historicas/consolidados-2026-10-14/Economia_inmobiliaria_Romanance.md",
+      "ok": true
+    },
+    {
+      "source": "data/archivos md/Moneda_de_romanance_la_luz.md",
+      "archived": "_archivo/fuentes-historicas/consolidados-2026-10-14/Moneda_de_romanance_la_luz.md",
+      "ok": true
+    },
+    {
+      "source": "data/archivos md/Anexo_Oficial_Romanance_Inteligencias_Hierofante.md",
+      "archived": "_archivo/fuentes-historicas/consolidados-2026-10-14/Anexo_Oficial_Romanance_Inteligencias_Hierofante.md",
+      "ok": true
+    },
+    {
+      "source": "data/archivos md/Hierofante de la Luz.md",
+      "archived": "_archivo/canon-obsoleto/hierofante-2026-10-14/Hierofante de la Luz.md",
+      "ok": true
+    },
+    {
+      "source": "data/archivos md/PNJs_Principales_Romanance.md",
+      "archived": "_archivo/fuentes-historicas/consolidados-2026-10-14/PNJs_Principales_Romanance.md",
+      "ok": true
+    },
+    {
+      "source": "data/archivos md/Aldren_el_Precavido_-_Canon_Fundacional_Romanance.md",
+      "archived": "_archivo/fuentes-historicas/consolidados-2026-10-14/Aldren_el_Precavido_-_Canon_Fundacional_Romanance.md",
+      "ok": true
+    },
+    {
+      "source": "data/archivos md/Anexo_Homebrew_PNJs_Romanance.md",
+      "archived": "_archivo/fuentes-historicas/consolidados-2026-10-14/Anexo_Homebrew_PNJs_Romanance.md",
+      "ok": true
+    },
+    {
+      "source": "data/archivos md/trasfondos_personajes_romanance.md",
+      "archived": "_archivo/fuentes-historicas/consolidados-2026-10-14/trasfondos_personajes_romanance.md",
+      "ok": true
+    },
+    {
+      "source": "data/archivos md/Historia_Jantry_Emberflame.md",
+      "archived": "_archivo/fuentes-historicas/consolidados-2026-10-14/Historia_Jantry_Emberflame.md",
+      "ok": true
+    },
+    {
+      "source": "data/archivos md/Anexo_Aureliano_Romanance.md",
+      "archived": "_archivo/fuentes-historicas/consolidados-2026-10-14/Anexo_Aureliano_Romanance.md",
+      "ok": true
+    }
+  ]
+}

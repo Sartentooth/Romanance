@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-10-04",
+  "sources": [
+    {
+      "name": "Cosmologia_Lumenor.md",
+      "path": "data\\archivos md\\Cosmologia_Lumenor.md",
+      "sha256": "697B4C345403730FF9A243574389654AF5E4B0834431E885F0B004FAE0A1EC90"
+    },
+    {
+      "name": "Biblia_de_Romanance_Canon_Base.md",
+      "path": "data\\archivos md\\Biblia_de_Romanance_Canon_Base.md",
+      "sha256": "7350A53EC64DB446156FDB85CD415437692E846D084D66D2D6FB6906A70EB9C9"
+    }
+  ],
+  "ediciones": [
+    {
+      "from": "# Cosmología — Lumenor (CANON)",
+      "to": "# Cosmología — Lumenor"
+    },
+    {
+      "from": "el eje filosófico central del mundo (poloteísmo por principios, sin panteón divino).",
+      "to": "el eje filosófico central del mundo. No se ha desarrollado un panteón propio general; esto no excluye las deidades de D&D admitidas por el autor como referencia para la campaña."
+    },
+    {
+      "from": "No son deidades — son cuerpos celestes con peso simbólico, coherente con la cosmología sin panteón del mundo.",
+      "to": "No son deidades: son cuerpos celestes con peso simbólico. La ausencia de un panteón propio desarrollado no implica que Lumenor carezca de deidades o religiones particulares."
+    }
+  ],
+  "cierreFuente": {
+    "from": "Esto no cierra la puerta a otras fuerzas del mundo — Romanance es politeísta y sin panteón desarrollado — sino que define específicamente cómo funciona el poder ligado a la Luz.",
+    "to": "Esto define específicamente cómo funciona el poder ligado a la Luz. No se ha desarrollado un panteón propio general; las deidades de D&D que el autor toma de su referencia SRD están disponibles para la campaña, sin que esta consolidación deba enumerarlas o crear un panteón nuevo."
+  }
+}

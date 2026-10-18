@@ -1,0 +1,32 @@
+{
+  "documents": 95,
+  "local_links_checked": 995,
+  "missing": [],
+  "hash_checks": [
+    {
+      "file": "_archivo/fuentes-historicas/escritura-2026-10-14/Alfabeto_Aureliano.md",
+      "sha256": "3d3bc458821d17f607cdc35eb220740a10aea59f4e3c61d709d0a216df1bd569",
+      "matches": true
+    },
+    {
+      "file": "_archivo/fuentes-historicas/mazo-drix-2026-10-14/mazo_de_drix.md",
+      "sha256": "5aee6cdfee1b43251791014a9290a94dbb9816df9c3a11d96f9029bfa52ecb6c",
+      "matches": true
+    },
+    {
+      "file": "_archivo/fuentes-historicas/viajes-2026-10-14/Sistema Universal de Viajes para D&D 5.5e — Versión 1.2.md",
+      "sha256": "e39d96d6d4ce02815977c44a970cb025fff118cae3ff97b84da590e7e5689c63",
+      "matches": true
+    },
+    {
+      "file": "herramientas-campana/armas-legendarias/consolidado-de-trabajo.md",
+      "sha256": "39107b1c84ed1ddf32306f2d7ba1f859e9da5119379c7cf22a78fa99607d3290",
+      "matches": true
+    },
+    {
+      "file": "herramientas-campana/consolidado-de-trabajo-viajes-y-drix.md",
+      "sha256": "b4a45377cc7465ef5b85a065d661b0209bbe4986b98108242a5b979dfc38617f",
+      "matches": true
+    }
+  ]
+}

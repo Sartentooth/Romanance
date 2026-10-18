@@ -164,3 +164,14 @@ Se guarda la consulta actual por contexto y se incluye en respaldo, con migraci�
 Pruebas: `check-encounters.cjs`, `check-lists.cjs` y `check-v2.cjs` pasan. Casos de presupuesto: cuatro PJ de nivel 1, baja 200 PX; cinco de nivel 3, moderada 1125; seis de nivel 15, alta 46800. Se comprueban VD fraccionarios, XP de guarida, 240 generaciones, máximo de criaturas, referencias ausentes, botín sin excedente, restauración y monstruos homebrew. En navegador se reprodujo el ejemplo de dos druidas y nueve estirges para cinco PJ de nivel 3: 1125 PX. Se corrigió la actualización del presupuesto durante edición numérica, sin depender de abandonar el campo. Probados botín, guardado en Loot, filtros de Biblioteca, alta manual de una variante de Bandit y persistencia de la consulta. Sin errores de consola en el recorrido. Móvil 390 × 844 sin desborde horizontal del documento.
 
 [Encuentros en escritorio](./capturas/encuentros-0.2.png) · [Encuentros en móvil](./capturas/encuentros-mobile-0.2.png). Las fichas/consultas de prueba HTTP no constituyen canon ni se inyectan en el almacenamiento del usuario al abrir por archivo.
+
+
+## Revisión: tablas en fichas — 2026-10-18
+
+Se corrige el aplanado de las tablas del SRD durante la importación. `descriptionTables` conserva celdas y posiciones en el texto; `sheet-view.js` renderiza valores escapados y comprueba que coincidan con la descripción vigente antes de usarlos. Las seis características se presentan como filas con puntuación, modificador y salvación diferenciados, sin recalcular valores. Los datos de referencia reconocidos pasan a tablas clave/valor y las tablas internas del SRD mantienen sus columnas y spans. El texto sigue siendo la referencia para búsqueda, edición y exportación TXT. La traducción completa continúa diferida.
+
+El renderizador se comparte entre las fichas de Biblioteca, Encuentros, Crafteo, resultados y referencia original. Tablas anchas con desplazamiento local, sin límite de altura que corte la ficha. No se alteran las reglas de generación ni el guardado del usuario.
+
+Pasan `check-sheets.cjs` (330 criaturas, tablas generales, valores distintos de modificador/salvación, edición y escape), `check-v2.cjs`, `check-lists.cjs` y `check-encounters.cjs`. Navegador: Aboleth en escritorio y 390 × 844; Wizard en móvil con tablas anchas contenidas; sin errores de consola observados. [Escritorio](./capturas/fichas-tablas-0.2.png) · [Móvil](./capturas/fichas-tablas-mobile-0.2.png).
+
+El autor ya publicó la alpha mediante Pages main/root. Esta revisión queda local hasta su commit y push; el asistente no realizó esas acciones.

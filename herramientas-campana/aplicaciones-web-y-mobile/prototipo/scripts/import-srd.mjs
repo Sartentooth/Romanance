@@ -4,7 +4,21 @@ import {fileURLToPath} from 'node:url';
 const root=path.resolve(path.dirname(fileURLToPath(import.meta.url)),'../../../..');
 const source=path.join(root,'data/archivos md/dnd-5e-srd-markdown-master');
 const clean=s=>s.replace(/<[^>]+>/g,' ').replace(/&nbsp;/g,' ').replace(/&amp;/g,'&').replace(/\s+/g,' ').trim();
-const text=s=>s.replace(/<\/tr>/g,'\n').replace(/<\/t[dh]>/g,' · ').replace(/<[^>]+>/g,'').replace(/\*\*|__/g,'').trim();
+const plainText=s=>s.replace(/<\/tr>/g,'\n').replace(/<\/t[dh]>/g,' · ').replace(/<[^>]+>/g,'').replace(/\*\*|__/g,'').trim();
+// Conservar celdas y posiciones además del texto plano para TXT, búsqueda y edición.
+// La vista reconstruye las tablas con valores escapados; nunca inserta HTML fuente.
+const sourceTables=new Map();
+const text=s=>{
+ const plain=plainText(s),tables=[];let cursor=0;
+ for(const match of s.matchAll(/<table\b[^>]*>[\s\S]*?<\/table>/g)){
+  const value=plainText(match[0]),start=plain.indexOf(value,cursor);
+  if(start<0)throw Error('No se pudo localizar una tabla del SRD en su texto plano.');
+  const rows=[...match[0].matchAll(/<tr\b[^>]*>([\s\S]*?)<\/tr>/g)].map(row=>[...row[1].matchAll(/<(td|th)\b([^>]*)>([\s\S]*?)<\/\1>/g)].map(cell=>({text:clean(plainText(cell[3])).replace(/&minus;/g,'−'),header:cell[1]==='th',colspan:Number(cell[2].match(/colspan=["']?(\d+)/i)?.[1]||1),rowspan:Number(cell[2].match(/rowspan=["']?(\d+)/i)?.[1]||1)}))).filter(row=>row.length);
+  tables.push({start,end:start+value.length,plain:value,rows});cursor=start+value.length;
+ }
+ if(tables.length)sourceTables.set(plain,tables);
+ return plain;
+};
 const equipment=fs.readFileSync(path.join(source,'equipment.md'),'utf8');
 const names={'Dagger':'Daga','Longsword':'Espada larga','Shortsword':'Espada corta','Greatsword':'Espadón','Battleaxe':'Hacha de batalla','Handaxe':'Hacha de mano','Light Hammer':'Martillo ligero','Warhammer':'Martillo de guerra','Shortbow':'Arco corto','Longbow':'Arco largo','Light Crossbow':'Ballesta ligera','Heavy Crossbow':'Ballesta pesada','Shield':'Escudo','Plate Armor':'Armadura de placas','Plate':'Armadura de placas','Leather Armor':'Armadura de cuero','Leather':'Armadura de cuero','Chain Mail':'Cota de malla','Rope':'Cuerda','Backpack':'Mochila','Rations':'Raciones','Torch':'Antorcha','Tinderbox':'Yesquero','Tent':'Tienda','Potion of Healing':'Poción de curación','Healing Word':'Palabra de curación','Cure Wounds':'Curar heridas','Fireball':'Bola de fuego','Magic Missile':'Proyectil mágico','Shield [Spell]':'Escudo','Alarm':'Alarma','Guidance':'Guía','Light':'Luz','Mage Hand':'Mano de mago','Detect Magic':'Detectar magia','Identify':'Identificar','Advantage':'Ventaja','Disadvantage':'Desventaja','Concentration':'Concentración','Grappled':'Agarrado','Prone':'Derribado','Restrained':'Apresado','Incapacitated':'Incapacitado','Long Rest':'Descanso largo','Short Rest':'Descanso corto','Attack':'Atacar','Help':'Ayudar','Dodge':'Esquivar'};
 const sections=[...equipment.matchAll(/^## (Weapons|Armor|Tools|Adventuring Gear|Mounts and Vehicles)\s*\r?\n([\s\S]*?)(?=^## |$(?![\s\S]))/gm)];
@@ -82,6 +96,7 @@ for(const m of classes.matchAll(/^## (.+)\r?\n([\s\S]*?)(?=^## |$(?![\s\S]))/gm)
 }
 for(const entry of records.filter(r=>r.type==='item'&&r.craftMode==='common'))entry.tool=metal.has(entry.english)?'Herramientas de herrero':'';
 for(const entry of records.filter(r=>r.type==='item'&&r.english.startsWith('Spell Scroll'))){entry.magic=true;entry.rarity='Común';}
+for(const entry of records){const tables=sourceTables.get(entry.description);if(tables)entry.descriptionTables=tables;}
 fs.mkdirSync(path.join(root,'herramientas-campana/aplicaciones-web-y-mobile/prototipo/dist'),{recursive:true});
 fs.writeFileSync(path.join(root,'herramientas-campana/aplicaciones-web-y-mobile/prototipo/dist/srd-data.js'),'/* Extractos de fuentes locales SRD 5.2.1; ver créditos. No contiene textos del DMG. */\nwindow.SRD_DATA='+JSON.stringify(records)+';\n');
 console.log(JSON.stringify({items:records.filter(r=>r.type==='item').length,spells:records.filter(r=>r.type==='spell').length,rules:records.filter(r=>r.type==='rule').length}));

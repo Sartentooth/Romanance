@@ -25,3 +25,21 @@ h2+.tag,h2+.tag+.tag{margin-top:8px;margin-bottom:8px}.tag+.tag{margin-left:6px}
 @media(max-width:600px){.list-builder{grid-template-columns:1fr}.transfer-panel:first-child{order:3}.transfer-middle{order:1}.transfer-panel:last-child{order:2}.transfer-sources{max-height:160px}.transfer-arrows{display:flex}.transfer-arrows button{flex:1}.pick-scroll{height:270px}.tools-row label{min-width:0;flex:1}}
 .price-action-row{display:flex;align-items:flex-end;gap:10px}.price-action-row>label{flex:1;min-width:0}.price-action-row button{min-height:35px;white-space:nowrap}
 @media(max-width:500px){.price-action-row{gap:6px}.price-action-row button{white-space:normal;max-width:150px;font-size:10px;padding:6px}.price-action-row label{font-size:10px}}
+
+/* Tablas de referencia: la ficha mantiene su ancho también en móvil. */
+.description.sheet{white-space:normal;max-height:none;overflow:visible;min-width:0}
+.sheet-prose{white-space:pre-wrap;margin:8px 0;overflow-wrap:anywhere}
+.sheet-heading{font-size:12px;margin:14px 0 6px;color:var(--green)}
+.sheet-table-scroll{max-width:100%;overflow-x:auto;margin:10px 0;overscroll-behavior-x:contain}
+.sheet-table-scroll:focus-visible{outline:2px solid var(--green);outline-offset:2px}
+.sheet-table{border-collapse:collapse;width:100%;font-size:11px;line-height:1.5;text-align:left}
+.sheet-table caption{text-align:left;color:var(--muted);font-size:10px;padding:0 0 5px}
+.sheet-table th,.sheet-table td{border:1px solid var(--border);padding:6px 9px;vertical-align:top;white-space:normal;min-width:55px;overflow-wrap:normal}
+.sheet-table th{color:var(--green);background:var(--panel2);font-weight:600}
+.sheet-table td{color:var(--text)}
+.ability-table{max-width:640px;table-layout:fixed}
+.ability-table th:first-child{width:40%}
+.ability-table td,.ability-table tr:first-child th:not(:first-child){text-align:center;font-variant-numeric:tabular-nums}
+@media(max-width:500px){.sheet-table th,.sheet-table td{padding:5px;font-size:10px}.ability-table th:first-child{width:38%}.ability-table tr:first-child th{font-size:9px}.entry-body{min-width:0}}
+
+.sheet-fields{max-width:640px}.sheet-fields th{width:40%}.sheet-prose em{color:var(--text)}

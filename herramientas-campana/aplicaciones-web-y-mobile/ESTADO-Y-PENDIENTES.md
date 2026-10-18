@@ -1,6 +1,6 @@
 # Estado de la herramienta y pendientes
 
-**Versión documental:** 1.2 · **Corte:** 2026-10-18.  
+**Versión documental:** 1.3 · **Corte:** 2026-10-18.
 **Producto:** prototipo local 0.2, funcional para pruebas; aplicación integral todavía en desarrollo.  
 **Procedencia:** decisiones y pruebas de este chat. No incorpora lore ni reglas nuevas al canon.
 
@@ -80,7 +80,7 @@ Las fichas/listas identificadas como pruebas o ejemplos no son canon. Abrir por 
 | Viajes y Mazo de Drix | Integraciones futuras; respetar el estado de testing y los documentos vigentes de cada sistema. |
 | Resistencia y portabilidad | Ampliar pruebas entre navegadores/dispositivos, paquetes grandes, errores de almacenamiento y flujos de recuperación. El guardado actual depende del navegador, con respaldo exportable. |
 | Bilingüe | Diferido por decisión del autor hasta pulir las funciones. Hace falta revisar traducciones y definir la presentación en ambos idiomas. |
-| Alpha web | GitHub Pages elegido por el autor para compartir pruebas con otros DM. Preparar un paquete público separado del repositorio de Romanance; todavía no publicado. Ver revisión de publicación al final de este documento. |
+| Alpha web | GitHub Pages elegido por el autor para compartir pruebas con otros DM, usando el repositorio existente Sartentooth/Romanance. Alpha publicada por el autor desde main/root; paquete limitado a la app todavía pendiente. Ver revisión de publicación al final de este documento. |
 | Publicación y venta | Plataforma comercial y modelo pendientes. Separar el material distribuible, revisar procedencias y cerrar avisos de derechos/atribución. El uso local del DMG no declara distribuible su texto. |
 
 ## Orden de continuación sugerido
@@ -91,13 +91,13 @@ No abrir ahora un gestor de campañas ni una simulación económica completa par
 
 ## Alpha web: GitHub Pages — 2026-10-18
 
-El autor elige GitHub Pages para la alpha compartida con sus amigos DM. No se decide todavía el alojamiento del producto comercial. La publicación deberá usar un repositorio propio de la herramienta, separado del repositorio de Romanance.
+El autor elige GitHub Pages para la alpha compartida con sus amigos DM y solicita reutilizar https://github.com/Sartentooth/Romanance. La revisión por el conector confirma que el repositorio es público, usa `main` y ya contiene `prototipo/dist/`. No es necesario crear otro repositorio. Se propone desplegar mediante GitHub Actions un paquete limitado a la app, sin convertir la raíz documental en el sitio. No se decide todavía el alojamiento del producto comercial.
 
 Revisión inicial: `prototipo/dist/` no es todavía un paquete público. `catalog-data.js` integra descripciones del DMG y contenido de Romanance; `dmg-source.json` contiene la extracción del manual. Además hay referencias a fuentes locales y valores iniciales propios de Romanance. No subir esa carpeta completa sin preparar el perfil distribuible.
 
 Preparación pendiente: generar desde las fuentes SRD permitidas y el código propio; conservar atribución y licencia; resolver explícitamente qué tablas y fichas están disponibles en la alpha, sin presentar sorteos propios como tablas del DMG; excluir fuentes privadas y datos de pruebas; comprobar navegación, generación, respaldos e importación en una URL de proyecto de Pages. Se mantiene un único producto con un paquete de publicación controlado, no una segunda implementación.
 
-Cada visitante tendrá sus datos en su navegador, sin cuenta ni sincronización entre amigos. Respaldar mediante JSON seguirá siendo necesario para trasladarlos. Elegir Pages no crea todavía una URL pública: no se ha creado repositorio externo ni realizado commit, push o despliegue.
+Cada visitante tendrá sus datos en su navegador, sin cuenta ni sincronización entre amigos. Respaldar mediante JSON seguirá siendo necesario para trasladarlos. El asistente no ha realizado commit, push ni despliegue. La revisión remota confirma que `catalog-data.js` y `dmg-source.json` ya están en el repositorio público; excluirlos del sitio no cambia su visibilidad en GitHub. No se modificó ni eliminó contenido remoto.
 
 
 ## Actualización: Encuentros y bestiario — 2026-10-17
@@ -107,3 +107,12 @@ A pedido del autor se incorpora Encuentros y el bestiario íntegro del SRD local
 El botín empieza en «Sin botín». Puede generarse personal por VD/cantidad o acumulado por el VD más alto, elegidos por el DM, y guardarse explícitamente en Loot. Cambiar los enemigos o parámetros invalida la vista previa de botín. Se conserva la consulta actual por contexto en el respaldo, sin crear historia de encuentros, iniciativa, seguimiento de PG ni gestión de sesiones.
 
 Pruebas de lógica: 330 bloques contabilizados contra las fuentes, fracciones de VD, guaridas, ejemplos de presupuestos del SRD, 240 generaciones, límites, fichas no disponibles, botín exacto, respaldo y monstruos homebrew. En navegador: cinco PJ de nivel 3 y dos druidas + nueve estirges suman 1125 PX, exactamente el presupuesto moderado; botín generado y guardado, filtro de VD, alta manual, persistencia de la consulta y móvil sin desborde horizontal. No se observan errores de consola en el recorrido. Los textos del bestiario están en inglés, con cotejo español pendiente.
+
+
+## Fichas legibles y alpha publicada — 2026-10-18
+
+El autor activó Pages desde `main / (root)`. El asistente verificó la pantalla de Loot en [la alpha web](https://sartentooth.github.io/Romanance/herramientas-campana/aplicaciones-web-y-mobile/prototipo/dist/index.html). No se implementó todavía el despliegue exclusivo de la carpeta de la app; la revisión del material distribuible sigue pendiente.
+
+Ajuste local posterior: se preservan las tablas HTML del SRD como datos de celdas y se reconstruyen con contenido escapado. Las características de las 330 criaturas se muestran en seis filas con puntuación, modificador y salvación; CA, iniciativa, PG, velocidad y demás datos reconocidos usan tablas de referencia. Se conservan las tablas internas de clases, conjuros y demás fichas SRD, y encabezados de sección. La vista compartida se usa en Biblioteca, consulta de Encuentros, Crafteo y referencias, además de fichas de resultados que tengan esos datos. El texto plano sigue disponible para edición, búsqueda y TXT; no se calculan ni alteran estadísticas. Si se modifica el texto de una tabla, no se muestra su representación anterior.
+
+Pruebas: `check-sheets.cjs`, `check-v2.cjs`, `check-lists.cjs` y `check-encounters.cjs`. Se comprobaron Aboleth en escritorio/móvil y tablas de Wizard en móvil: columnas alineadas, desplazamiento propio de las tablas anchas, sin desborde del documento ni errores de consola en ese recorrido. [Escritorio](./prototipo/capturas/fichas-tablas-0.2.png) · [Móvil](./prototipo/capturas/fichas-tablas-mobile-0.2.png). Estos cambios quedan locales para commit y push del autor; aún no se verificaron en la URL pública.

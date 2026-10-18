@@ -175,3 +175,14 @@ El renderizador se comparte entre las fichas de Biblioteca, Encuentros, Crafteo,
 Pasan `check-sheets.cjs` (330 criaturas, tablas generales, valores distintos de modificador/salvación, edición y escape), `check-v2.cjs`, `check-lists.cjs` y `check-encounters.cjs`. Navegador: Aboleth en escritorio y 390 × 844; Wizard en móvil con tablas anchas contenidas; sin errores de consola observados. [Escritorio](./capturas/fichas-tablas-0.2.png) · [Móvil](./capturas/fichas-tablas-mobile-0.2.png).
 
 El autor ya publicó la alpha mediante Pages main/root. Esta revisión queda local hasta su commit y push; el asistente no realizó esas acciones.
+
+
+## Revisión: párrafos OCR y caché de Pages — 2026-10-18
+
+Confirmado mediante API que `d68a002` se publicó con éxito; cinco recursos de Pages coinciden con los archivos locales de ese commit. Se distingue caché de recursos, pestaña abierta y snapshots de loot, que conservan las descripciones antiguas por diseño.
+
+`format-ocr.mjs` separa la primera ficha al detectar otra categoría/rareza, recompone palabras cortadas y párrafos sin introducir reglas, preserva sintonización partida entre renglones y reconstruye tablas reconocibles de conjuros/cargas. Los valores ilegibles se señalan para cotejo. Ojo de imitación cotejado visualmente contra p. 298 y corregido para no contener Vecna. Tabla del Bastón de poder cotejada contra p. 249: se corrigen las cargas OCR, manteniendo pendiente el resto de la ficha. No se modifica el PDF ni el OCR original; subsiste el pendiente de revisión editorial del catálogo.
+
+`asset-versions.mjs` calcula hashes de contenido para las URLs locales de JS/CSS; `build-data.mjs` genera el index con esas versiones. Antes de cada commit de código/datos/estilos, regenerar el paquete. El hash normaliza CRLF/LF para que no dependa de los saltos del checkout. No cambia el guardado del usuario.
+
+Pruebas: `check-formatting.mjs`, `check-sheets.cjs`, `check-v2.cjs`, `check-lists.cjs`, `check-encounters.cjs` aprobadas. Casos nuevos: fichas adyacentes, continuación de prosa con «armadura», párrafos, requisitos de sintonización, tabla con OCR ilegible, tabla cotejada y versiones coherentes con el contenido. Verificación visual en escritorio y 390 × 844, sin desborde ni errores de consola observados. [Escritorio](./capturas/textos-ocr-corregidos-0.2.png) · [Móvil](./capturas/textos-tablas-mobile-0.2.png). Sin commit ni push del asistente.

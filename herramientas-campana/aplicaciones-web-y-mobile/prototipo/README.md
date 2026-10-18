@@ -12,6 +12,18 @@ Exportar respaldo antes de cambiar de navegador o de apertura como archivo a HTT
 
 Encuentros calcula por nivel/cantidad de PJ y PX según VD, con botín opcional. Biblioteca incluye los 330 bloques de monstruos y animales del SRD local y permite crear criaturas homebrew. Biblioteca organiza el catálogo compartido por listas y muestra por separado las veinte tablas aleatorias del DMG. «Mis listas» permite selección múltiple y transferencia entre columnas, guardar por contexto o globalmente, e importar/exportar JSON con las dependencias de homebrew. El respaldo completo también conserva estas listas. El catálogo local suma 1503 fichas; los textos OCR del DMG mantienen su indicación de cotejo pendiente. Más detalle y pruebas en la entrega.
 
+## Actualizar la alpha web
+
+La alpha está en GitHub Pages. Después de cambiar JS, CSS o datos, ejecutar desde la raíz del repositorio:
+
+```powershell
+node herramientas-campana/aplicaciones-web-y-mobile/prototipo/scripts/build-data.mjs
+node herramientas-campana/aplicaciones-web-y-mobile/prototipo/scripts/check-formatting.mjs
+node herramientas-campana/aplicaciones-web-y-mobile/prototipo/scripts/check-sheets.cjs
+```
+
+El generador actualiza los catálogos y las versiones de los recursos en `dist/index.html`; incluir los cambios de `dist/` y los archivos nuevos junto a las fuentes en el commit/push. Revisar el despliegue en Actions y recargar la app. Ctrl+F5 fuerza una actualización si el navegador retiene archivos anteriores. Los botines guardados mantienen su texto histórico; consultar Biblioteca o generar un resultado nuevo para ver el catálogo corregido. No hace falta borrar datos del navegador.
+
 ---
 
 ## Registro anterior: prototipo 0.1

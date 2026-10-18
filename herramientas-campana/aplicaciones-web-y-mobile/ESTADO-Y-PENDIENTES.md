@@ -1,6 +1,6 @@
 # Estado de la herramienta y pendientes
 
-**Versión documental:** 1.3 · **Corte:** 2026-10-18.
+**Versión documental:** 1.4 · **Corte:** 2026-10-18.
 **Producto:** prototipo local 0.2, funcional para pruebas; aplicación integral todavía en desarrollo.  
 **Procedencia:** decisiones y pruebas de este chat. No incorpora lore ni reglas nuevas al canon.
 
@@ -116,3 +116,14 @@ El autor activó Pages desde `main / (root)`. El asistente verificó la pantalla
 Ajuste local posterior: se preservan las tablas HTML del SRD como datos de celdas y se reconstruyen con contenido escapado. Las características de las 330 criaturas se muestran en seis filas con puntuación, modificador y salvación; CA, iniciativa, PG, velocidad y demás datos reconocidos usan tablas de referencia. Se conservan las tablas internas de clases, conjuros y demás fichas SRD, y encabezados de sección. La vista compartida se usa en Biblioteca, consulta de Encuentros, Crafteo y referencias, además de fichas de resultados que tengan esos datos. El texto plano sigue disponible para edición, búsqueda y TXT; no se calculan ni alteran estadísticas. Si se modifica el texto de una tabla, no se muestra su representación anterior.
 
 Pruebas: `check-sheets.cjs`, `check-v2.cjs`, `check-lists.cjs` y `check-encounters.cjs`. Se comprobaron Aboleth en escritorio/móvil y tablas de Wizard en móvil: columnas alineadas, desplazamiento propio de las tablas anchas, sin desborde del documento ni errores de consola en ese recorrido. [Escritorio](./prototipo/capturas/fichas-tablas-0.2.png) · [Móvil](./prototipo/capturas/fichas-tablas-mobile-0.2.png). Estos cambios quedan locales para commit y push del autor; aún no se verificaron en la URL pública.
+
+
+## Textos OCR y actualización web — 2026-10-18
+
+El push `d68a002` del autor está en `main`; el despliegue Pages terminó correctamente. Se compararon por HTTP `index.html`, `app-v2.js`, `sheet-view.js`, `compact.css` y `catalog-data.js`: coinciden con esa versión local, normalizando saltos CRLF/LF. Una pestaña ya abierta puede conservar recursos previos; recargar con Ctrl+F5. Los resultados de loot guardados contienen una copia del texto anterior: no se sobrescriben al actualizar el catálogo ni se debe borrar el almacenamiento para actualizar la interfaz.
+
+Nueva revisión local: reconstrucción de párrafos OCR sin los cortes de renglón del PDF; separación preventiva al detectar la ficha siguiente; propiedades iniciales destacadas; tablas de conjuros/cargas reconocibles como tablas. Cifras ilegibles quedan pendientes, sin inferirlas. La separación automática no equivale al cotejo editorial de cada ficha. Se verificaron visualmente Ojo de imitación (p. 298, contaminado por Ojo y Mano de Vecna) y la tabla de conjuros/cargas del Bastón de poder (p. 249); la tabla cotejada no cambia el estado de revisión del resto de esa ficha. El PDF y `dmg-source.json` se preservan intactos.
+
+`build-data.mjs` agrega versiones por contenido a las URLs de JS y CSS de `dist/index.html`, reproducibles entre Windows y el servidor. Ejecutarlo después de cambiar datos, scripts o estilos y antes del commit. Una pestaña abierta sigue necesitando recarga para leer el HTML nuevo. No se agrega ningún borrado ni migración del almacenamiento.
+
+Pasan las pruebas de formato/URLs (`check-formatting.mjs`), fichas, loot, listas y encuentros. Navegador: Ojo de imitación correcto, Bastón de poder con párrafos y tabla cotejada, móvil sin desborde y sin errores de consola observados. [Textos en escritorio](./prototipo/capturas/textos-ocr-corregidos-0.2.png) · [Tabla en móvil](./prototipo/capturas/textos-tablas-mobile-0.2.png). Revisión local lista para commit/push del autor; no publicada por el asistente.

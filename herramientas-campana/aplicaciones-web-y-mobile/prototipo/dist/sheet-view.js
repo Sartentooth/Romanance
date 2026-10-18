@@ -5,6 +5,7 @@
  const fields={AC:'Clase de armadura',HP:'Puntos de golpe',Initiative:'Iniciativa',Speed:'Velocidad',Skills:'Habilidades',Senses:'Sentidos',Languages:'Idiomas',CR:'VD / PX',Resistances:'Resistencias',Immunities:'Inmunidades',Vulnerabilities:'Vulnerabilidades',Gear:'Equipo',Name:'Nombre',Damage:'Daño',Properties:'Propiedades',Mastery:'Maestría',Weight:'Peso',Cost:'Costo',Casting:'Lanzamiento','Casting Time':'Tiempo de lanzamiento',Range:'Alcance',Components:'Componentes',Duration:'Duración'};
  const fieldPattern=new RegExp('^('+Object.keys(fields).sort((a,b)=>b.length-a.length).join('|')+')(?::\\s*|\\s+)(.+)$');
  const inline=s=>esc(String(s).replace(/&emsp;/g,'  ').replace(/&nbsp;/g,' ').replace(/&amp;/g,'&')).replace(/_([^_\n]+)_/g,'<em>$1</em>');
+ const paragraph=s=>inline(s).replace(/^<em>([^<]{1,90}[.:])<\/em>\s*/, '<strong>$1</strong> ').replace(/^([A-ZÁÉÍÓÚÑ][^<.!?:\n]{1,45}[.:])\s+/, '<strong>$1</strong> ');
  function tableHTML(rows,caption,stats=false){
   return `<div class="sheet-table-scroll" tabindex="0" role="region" aria-label="${esc(caption)}"><table class="sheet-table${stats?' ability-table':rows.every(r=>r.length===2&&r[0].header&&!r[1].header)?' sheet-fields':''}"><caption>${esc(caption)}</caption>${rows.map((row,i)=>`<tr>${row.map((cell,j)=>{const th=cell.header,tag=th?'th':'td',span=(key)=>Number.isInteger(cell[key])&&cell[key]>1&&cell[key]<=30?` ${key}="${cell[key]}"`:'';return `<${tag}${th?` scope="${i===0&&row.every(c=>c.header)?'col':'row'}"`:''}${span('colspan')}${span('rowspan')}>${esc(cell.text)}</${tag}>`;}).join('')}</tr>`).join('')}</table></div>`;
  }
@@ -14,12 +15,12 @@
    const rows=[[...['Característica','Puntuación','Modificador','Salvación'].map(text=>({text,header:true}))],...stats.map(r=>[{text:abilities[r[0]]+' ('+r[0]+')',header:true},...r.slice(1).map(text=>({text}))])];
    return tableHTML(rows,'Características',true);
   }
-  return tableHTML(t.rows,'Tabla · '+name);
+  return tableHTML(t.rows,t.caption||'Tabla · '+name);
  }
  function textHTML(text){
   const lines=String(text).trim().split(/\r?\n/),out=[];let pairs=[],prose=[];
   const flushPairs=()=>{if(pairs.length){out.push(tableHTML(pairs,'Datos de referencia'));pairs=[];}};
-  const flushProse=()=>{if(prose.length){out.push(`<p class="sheet-prose">${inline(prose.join('\n').trim())}</p>`);prose=[];}};
+  const flushProse=()=>{if(prose.length){out.push(`<p class="sheet-prose">${paragraph(prose.join('\n').trim())}</p>`);prose=[];}};
   for(const line of lines){
    const value=line.trim(),heading=value.match(/^#{1,6}\s+(.+)/),field=value.match(fieldPattern),key=field?.[1];
    if(field&&Object.hasOwn(fields,key)){

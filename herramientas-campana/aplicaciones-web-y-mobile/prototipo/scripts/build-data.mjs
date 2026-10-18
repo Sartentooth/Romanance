@@ -1,6 +1,7 @@
 import './import-srd.mjs';
 import './import-encounter-rules.mjs';
 import enrich from './enrich-catalog.mjs';
+import {versionAssets} from './asset-versions.mjs';
 import fs from 'node:fs';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
@@ -51,4 +52,4 @@ const equipment=data.equipment.map((r,i)=>({...r,start:i+1,end:i+1}));
 fs.writeFileSync(path.join(dest,'catalog-data.js'),'/* Fuentes preservadas. Uso local; cotejo completo y paquete comercial pendientes. */\nwindow.CATALOG_DATA='+JSON.stringify(base)+';\nwindow.TABLE_DATA='+JSON.stringify({tables,equipment,armament:data.armament,tools:data.tools})+';\n');
 console.log(JSON.stringify({entries:base.length,magicTables:Object.keys(tables).length,equipment:equipment.length}));
 
-fs.copyFileSync(path.join(area,'prototipo/scripts/index.template.html'),path.join(dest,'index.html'));
+fs.writeFileSync(path.join(dest,'index.html'),versionAssets(fs.readFileSync(path.join(area,'prototipo/scripts/index.template.html'),'utf8'),dest));

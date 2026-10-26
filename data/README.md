@@ -8,3 +8,7 @@ Esta carpeta conserva material de entrada y bibliotecas de referencia. **El cano
 - Las crónicas de jugadores son fuentes de hechos de mesa, con las aclaraciones del autor; las notas del DM pueden incluir encuentros o recompensas que no ocurrieron.
 
 Las fuentes ya cubiertas se preservan en `_archivo/`, con enlaces desde sus destinos y verificación de integridad. [Migración del 2026-10-14](../REVISION_MIGRACION_FUENTES_2026-10-14.md). No se declara reemplazada toda esta carpeta ni se borran sus adjuntos.
+
+**2026-10-26 — asentamientos:** los cinco documentos de esta entrega se integraron y movieron íntegros al [archivo de fuentes](../_archivo/fuentes-historicas/asentamientos-2026-10-26/README.md), con cobertura y hashes. La entrada activa es [asentamientos de Terenor](../canon/lore/asentamientos-de-terenor.md). El documento mixto cultural anterior sigue aquí para completar su cobertura de otros ámbitos.
+
+**2026-10-26 — plots del Arco I:** ambos compilados se consolidaron y [archivaron con cobertura](../REVISION_PLOTS_ARCO_I_2026-10-26.md). Las crónicas originales y los compilados generales siguen aquí para su tratamiento propio.

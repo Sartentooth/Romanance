@@ -8,7 +8,7 @@ Mazo físico propio para campamentos. Cada carta resuelve su efecto directamente
 
 - [Bases de testing v1.6](./bases-testing.md): decisiones de presentación, resolución y alcance; contexto de viajes reafirmado tras la prueba urbana.
 - [Lote de doce cartas v0.3](./lote-12-cartas-testing.md): mismos efectos de v0.2, con feedback y propuesta de marca para Extraordinarias.
-- [Sistema de Viajes v1.3](../viajes/sistema-universal-v1.3-testing.md): fogón al cierre de las etapas; uso fuera del fogón a criterio del DM.
+- [Sistema de Viajes v1.4](<../viajes/sistema-universal-v1.4-testing.md>): fogón al cierre de las etapas; uso fuera del fogón a criterio del DM.
 
 ## Pendiente real
 

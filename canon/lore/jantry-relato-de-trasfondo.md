@@ -1,6 +1,6 @@
-# Historia de Trasfondo: Janne Glowbend (Jantry Emberflame)
+# Historia de trasfondo: Janne Glowbend — Elemence (antes Jantry Emberflame)
 
-**Versión documental:** 1.2 de consolidación local · **Fecha:** 2026-10-09 · **Estado:** CANON EN CONSOLIDACIÓN.
+**Versión documental:** 1.3 de consolidación local · **Fecha:** 2026-10-26 · **Estado:** CANON EN CONSOLIDACIÓN.
 
 **Procedencia:** [Historia_Jantry_Emberflame.md](<../../_archivo/fuentes-historicas/consolidados-2026-10-14/Historia_Jantry_Emberflame.md>). Fuente conservada íntegra en su ruta original. Esta edición aplica la aclaración directa del autor sobre Jantry y Elián; no fija fechas de nacimiento ni etapas nuevas del viaje.
 
@@ -8,7 +8,8 @@
 
 
 **Nombre real:** Janne Glowbend  
-**Alias actual:** Jantry Emberflame  
+**Alias actual:** Elemence<br>
+**Alias anterior:** Jantry Emberflame<br>
 **Edad:** 17–18 años (rango vigente confirmado por el autor)  
 **Clase / Rol:** Pícaro / Investigadora  
 **Origen:** Berk, Gran Oeste de Terenor, entre Kelen, Khalan y Marren  
@@ -79,3 +80,7 @@ En 434 D.R., al comienzo del Preludio, llevaba cinco años viviendo aquí desde 
 ## Archivo de fuentes — 2026-10-14
 
 La fuente original consolidada está preservada íntegra en el archivo histórico; los enlaces de procedencia apuntan a su destino actual. [Cobertura y verificación de esta migración](../../REVISION_MIGRACION_FUENTES_2026-10-14.md). Los pendientes de desarrollo futuro no reabren la cobertura completada. Esta revisión no cambia mecánicas, lore ni cifras; registra el archivo de importaciones.
+
+## Alias y reserva — 2026-10-26
+
+El cambio actual a Elemence forma parte de sus cambios periódicos de nombre para dificultar que los elfos la encuentren. El relato conserva la adopción histórica de Jantry. La información sobre su madre procede de la revelación paterna narrada por ella; no se convierte en certeza independiente o conocimiento público. La hipótesis sobre los agresores sigue [en suspenso](../../ideas-nuevas/terenor-hipotesis-reservadas.md) hasta recibir detalles de la jugadora. [Cobertura](../../REVISION_ASENTAMIENTOS_TERENOR_2026-10-26.md).

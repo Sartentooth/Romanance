@@ -1,0 +1,49 @@
+{
+  "fecha": "2026-10-24",
+  "revision_vigente": "1.4.2",
+  "decision": "La Motivación compartida puede gastarse en acciones del grupo **o propias de los roles de viaje**, aunque la prueba la realice un solo personaje. No se gasta en pruebas estrictamente personales, como una prueba de Historia ajena a esas tareas, ni **durante un combate**.",
+  "d02": "RESUELTO",
+  "snapshot_sha256": "856b8175c8f294ade3612986c77d8ff0b7061b9e51b986a628e7feccc5ed587b",
+  "archivos": [
+    {
+      "ruta": "herramientas-campana/viajes/sistema-universal-v1.4-testing.md",
+      "antes": "856b8175c8f294ade3612986c77d8ff0b7061b9e51b986a628e7feccc5ed587b",
+      "despues": "07918a38ec74edd693a5567aae35827b261573047fbdc0b513cf3e545d692384"
+    },
+    {
+      "ruta": "herramientas-campana/viajes/README.md",
+      "antes": "66235e75a1ac0716d503060e2a03e019840f7dd9c73a0fec8870e310bd74bfce",
+      "despues": "8c5c40f41fa20ad83f52b9df8364bfaa7281a4efee44977606b54109fe708cad"
+    },
+    {
+      "ruta": "herramientas-campana/viajes/CAMBIOS_V1.4.md",
+      "antes": "f193fcd0bdd2409431d46be019dcc2e033a9ad07c514f46565fb7b78959d0783",
+      "despues": "4b12982d4f0a194caa0554dea0b1a0f61e1536d022f51fdc787a6f97ce9e6c8c"
+    },
+    {
+      "ruta": "herramientas-campana/viajes/revision-playtest-viaje-2026-10-23.md",
+      "antes": "aeb2013775173ac406e4d8fb02709bc8976770d6926b99e45b83de1aea3b33dc",
+      "despues": "fa2bffce59e54e9d33428d5cb756845dde959edd1f97066baed5e09a9ba3d7a0"
+    },
+    {
+      "ruta": "herramientas-campana/viajes/playtest-2026-10-23/ANALISIS_PLAYTEST_VIAJE_2026-10-23.md",
+      "antes": "5e1a1e57e679a2548d7303433fbb32f9614b11073a1e91e4f02789b229263bf4",
+      "despues": "e20fc729cd7ea60f4838f53bce720b80b14e56356c161282883cde6ccfe766c3"
+    },
+    {
+      "ruta": "INDICE_CANON.md",
+      "antes": "64fa01d49272c65a39e0ce17ba1d67ab35b507ba871f0d97beecbf8d0e42941c",
+      "despues": "d311d8e99c00729a668edf45ff3b3e1af7929e5b7e01db91f5064507208409f5"
+    },
+    {
+      "ruta": "ESTADO_FASE_1.md",
+      "antes": "b52e6d3414fdd26c1a61276ddf55cf6f1e0d6d779fa2988264925c22d55bf9a7",
+      "despues": "ef8b1de704c8eff3de2c1cff2885cc818eefe317c50ea964a9530f61bc7a17b6"
+    },
+    {
+      "ruta": "PLAN_MIGRACION_FASE_1.md",
+      "antes": "6bc0d8dd6b5b47390d49ce2717ebd23a7847fc514135a843bc0704217043f7a4",
+      "despues": "be71c6d3a694236269feec343e895469907dd3edcc399507e6fc39e11a04a859"
+    }
+  ]
+}

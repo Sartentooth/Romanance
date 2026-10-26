@@ -26,7 +26,7 @@ La fiesta se celebra al inicio de primavera, ya registrado en [Biblia, sección 
 
 De los **seis cultistas** que atacaron al grupo, **cinco murieron**: cuatro abatidos y uno que se suicidó mediante **Voto de Silencio**. El suicida está incluido entre los cinco muertos. **Solo el Vigía/líder escapó con vida.**
 
-Confirmado directamente por el autor. Esta precisión reemplaza la lectura ambigua del recuento en [Plots y Arcos](<../../data/archivos md/Plots_y_Arcos_Arco_I_Aurelianos.md>) y en el [consolidado de plots y sesiones](<../../data/archivos md/Romanance_Consolidado_Plots_Sesiones_Arco_I.md>), sin añadir atacantes ni bajas. No decide otros resultados pendientes de la sesión 2 (C23).
+Confirmado directamente por el autor. Esta precisión reemplaza la lectura ambigua del recuento en [Plots y Arcos](<../../_archivo/fuentes-historicas/plots-arco-i-2026-10-26/Plots_y_Arcos_Arco_I_Aurelianos.md>) y en el [consolidado de plots y sesiones](<../../_archivo/fuentes-historicas/plots-arco-i-2026-10-26/Romanance_Consolidado_Plots_Sesiones_Arco_I.md>), sin añadir atacantes ni bajas. No decide otros resultados pendientes de la sesión 2 (C23).
 
 ## Estudio de Alba de Hierro
 

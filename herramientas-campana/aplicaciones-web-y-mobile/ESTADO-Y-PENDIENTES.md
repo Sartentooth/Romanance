@@ -1,6 +1,6 @@
 # Estado de la herramienta y pendientes
 
-**Versión documental:** 1.4 · **Corte:** 2026-10-18.
+**Versión documental:** 1.5 · **Corte:** 2026-10-18.
 **Producto:** prototipo local 0.2, funcional para pruebas; aplicación integral todavía en desarrollo.  
 **Procedencia:** decisiones y pruebas de este chat. No incorpora lore ni reglas nuevas al canon.
 
@@ -127,3 +127,15 @@ Nueva revisión local: reconstrucción de párrafos OCR sin los cortes de rengl�
 `build-data.mjs` agrega versiones por contenido a las URLs de JS y CSS de `dist/index.html`, reproducibles entre Windows y el servidor. Ejecutarlo después de cambiar datos, scripts o estilos y antes del commit. Una pestaña abierta sigue necesitando recarga para leer el HTML nuevo. No se agrega ningún borrado ni migración del almacenamiento.
 
 Pasan las pruebas de formato/URLs (`check-formatting.mjs`), fichas, loot, listas y encuentros. Navegador: Ojo de imitación correcto, Bastón de poder con párrafos y tabla cotejada, móvil sin desborde y sin errores de consola observados. [Textos en escritorio](./prototipo/capturas/textos-ocr-corregidos-0.2.png) · [Tabla en móvil](./prototipo/capturas/textos-tablas-mobile-0.2.png). Revisión local lista para commit/push del autor; no publicada por el asistente.
+
+
+## Pendiente para la próxima sesión: presentación y revisión editorial — 2026-10-18
+
+**Pedido explícito del autor: dejar pendiente, no implementar hoy.** Revisar juntos en la próxima sesión.
+
+- Mejorar las descripciones de conjuros y aplicar el mismo criterio a objetos: párrafos, separación clara de efectos, condiciones y cantidades. No exigir tablas donde baste una lista o texto bien organizado; mantener la interfaz minimalista.
+- Caso de reproducción aportado: Biblioteca → Poción de curación. Las variantes, PG recuperados y rarezas aparecen concatenados. Organizar cada variante y sus datos por separado, cotejando la fuente sin deducir valores del OCR.
+- En esa ficha aparecen «CURACIÓN», «N DE ALIENTO» y «GO» como texto suelto. Investigar su procedencia y separar residuos de ilustraciones, títulos o fichas vecinas del efecto real. No asignarles significado de regla ni eliminarlos globalmente sin cotejo. Captura aportada: `C:/Users/Sarten/AppData/Local/Temp/codex-clipboard-19719665-4fde-4a64-b494-4fe0caab6e31.png`.
+- Evaluar una opción «A revisión» por ficha con listado/log consultable, identificador y nota del problema. El autor propone también un editor in situ; son alternativas a diseñar, no funciones ya aprobadas o implementadas. Aclarar cómo distinguir corrección editorial de homebrew, conservar procedencia y originales y trasladar las observaciones/correcciones mediante respaldo o exportación, sin depender de internet ni convertir la herramienta en gestor de campañas.
+
+Propuesta para conversar: empezar con marca de revisión y nota, y definir después si la edición directa guarda una corrección local diferenciada de las reglas caseras. No ejecutar ninguna de estas opciones hasta retomar con el autor.

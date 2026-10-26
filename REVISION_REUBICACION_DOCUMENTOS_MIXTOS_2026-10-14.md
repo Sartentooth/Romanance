@@ -16,7 +16,7 @@ Se distinguen fuentes antiguas reemplazadas y consolidados de trabajo que siguen
 
 - Alfabeto: [base vigente](./canon/lore/alfabeto-aureliano.md), [dirección ornamental](./canon/arte/escritura-aureliana.md) y [cierre del alcance](./REVISION_CIERRE_ESCRITURA_AURELIANA.md). SVG e imágenes permanecen sin mover; la lámina vectorial sigue siendo autoridad geométrica.
 - Drix: [bases](./herramientas-campana/mazo-de-drix/bases-testing.md), [doce cartas](./herramientas-campana/mazo-de-drix/lote-12-cartas-testing.md) y [decisiones de continuidad](./herramientas-campana/viajes/cotejo-expediciones-y-decisiones.md). Los ejemplos anteriores se preservan en la fuente como propuestas históricas, no se suman al lote vigente ni se reactivan tiradas.
-- Viajes: [reglamento vigente](./herramientas-campana/viajes/sistema-universal-v1.3-testing.md), cinco incorporaciones posteriores y [cotejo del folio](./herramientas-campana/viajes/cotejo-expediciones-y-decisiones.md). El criterio anterior de viajes de aproximadamente tres días se conserva como orientación heredada, no como restricción universal ni límite de días por etapa. La presentación de v1.1/v1.2 y su índice permanecen históricos.
+- Viajes: [reglamento vigente](<_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/sistema-universal-v1.3-testing.md>), cinco incorporaciones posteriores y [cotejo del folio](./herramientas-campana/viajes/cotejo-expediciones-y-decisiones.md). El criterio anterior de viajes de aproximadamente tres días se conserva como orientación heredada, no como restricción universal ni límite de días por etapa. La presentación de v1.1/v1.2 y su índice permanecen históricos.
 
 ## Fuentes que no se archivan como reemplazadas
 

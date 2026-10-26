@@ -1,6 +1,6 @@
 # Trasfondos de Personajes Jugadores — Romanance / Levit
 
-**Versión documental:** 1.5 de consolidación local · **Fecha:** 2026-10-09 · **Estado:** CANON EN CONSOLIDACIÓN.
+**Versión documental:** 1.6 de consolidación local · **Fecha:** 2026-10-26 · **Estado:** CANON EN CONSOLIDACIÓN.
 
 **Procedencia:** [trasfondos_personajes_romanance.md](<../../_archivo/fuentes-historicas/consolidados-2026-10-14/trasfondos_personajes_romanance.md>). Fuente conservada íntegra en su ruta original. Esta edición aplica la aclaración directa del autor sobre Jantry y Elián; no fija fechas de nacimiento ni etapas nuevas del viaje.
 
@@ -14,7 +14,7 @@ Versión en limpio basada en las historias revisadas junto al director de juego.
 
 # Estado actual de Levit
 
-Levit es una villa pequeña de aproximadamente 600 a 900 habitantes, ubicada a 3 días de viaje al norte de Romanance. Cuenta con biblioteca, talleres artesanales, herrería, armería, tabernas, obras de construcción y un consejo local encabezado por el alcalde. Los personajes jugadores residen de forma permanente en la villa y son considerados vecinos además de aventureros.
+Levit es una villa pequeña de alrededor de 900 habitantes, ubicada a 3 días de viaje al norte de Romanance. Cuenta con biblioteca, talleres artesanales, herrería, armería, tabernas, obras de construcción y un consejo local encabezado por el alcalde. Varios personajes han hecho de la villa su hogar; no todos tienen residencia permanente. La descripción actual del asentamiento se consulta en [Levit](./levit.md).
 
 ---
 
@@ -142,12 +142,13 @@ Reside en una casa cómoda situada en las cercanías del bosque de Levit. Recibe
 
 ---
 
-# Jantry Emberflame — Pícara e Investigadora
+# Elemence — Pícara e Investigadora (antes Jantry Emberflame)
 
 ## Datos básicos
 
 - Nombre real: Janne Glowbend
-- Alias actual: Jantry Emberflame
+- Alias actual: Elemence
+- Alias anterior: Jantry Emberflame; nombre real: Janne Glowbend. Cambia de nombre periódicamente para dificultar que la encuentren los elfos.
 - Edad: 17–18 años (rango vigente confirmado por el autor)
 - Raza: Humana
 - Clase: Pícaro (Asesino)
@@ -246,7 +247,7 @@ Itinerante — no tiene residencia fija en Romanance/Levit todavía. Provisiones
 | Corwin | Luthier | Modesto estable | Muy alta |
 | Anic | Constructor aprendiz | Humilde | Alta |
 | Elián | Bibliotecario | Cómodo | Alta |
-| Jantry | Archivista (bajo alias) | Modesta | Alta en apariencia, doble vida en el fondo |
+| Elemence (antes Jantry) | Archivista (bajo alias) | Modesta | Alta en apariencia, doble vida en el fondo |
 | Spriggan | Protector itinerante (sin oficio civil) | Sin residencia fija | Alta por su rol, sin integración económica |
 
 ---
@@ -300,3 +301,11 @@ Fin del documento.
 ## Archivo de fuentes — 2026-10-14
 
 La fuente original consolidada está preservada íntegra en el archivo histórico; los enlaces de procedencia apuntan a su destino actual. [Cobertura y verificación de esta migración](../../REVISION_MIGRACION_FUENTES_2026-10-14.md). Los pendientes de desarrollo futuro no reabren la cobertura completada. Esta revisión no cambia mecánicas, lore ni cifras; registra el archivo de importaciones.
+
+## Actualización de residencias y alias — 2026-10-26
+
+Elemence es el alias actual de Janne Glowbend, antes Jantry Emberflame. Las menciones a Jantry en relatos y sesiones conservan el nombre usado entonces. Llegó a Levit en 429 D.R., unos días después de Elián: alrededor de seis años al presente de 435 D.R.
+
+Corwin y Anic residen en Levit desde hace alrededor de un año y medio, sin fecha exacta de llegada fijada. Corwin trabaja como luthier y Anic en construcción. Spriggan es itinerante, procede de Aldenor y no recibe residencia fija por esta integración. El autor confirmó que «Spriggam» era una errata: se conserva **Spriggan**. Arryn tiene posible procedencia o residencia cercana a Levit, sin historia aportada que permita fijarla.
+
+La biografía de Corwin conserva sus placas y herencia familiar; no se convierte una hipótesis aureliana en genealogía demostrada. [Culturas y asentamientos](./asentamientos-de-terenor.md) · [Registro de integración](../../REVISION_ASENTAMIENTOS_TERENOR_2026-10-26.md).

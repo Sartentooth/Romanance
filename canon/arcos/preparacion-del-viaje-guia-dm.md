@@ -1,6 +1,6 @@
 # Preparación del viaje — guía del Director
 
-**Versión:** 0.7 · **Fecha:** 2026-10-12 · **Estado:** GUÍA DE PREPARACIÓN CON FEEDBACK DE PLAYTESTING. Las escenas propuestas no se dan por jugadas por estar incluidas en esta guía; la sesión tiene un registro separado.
+**Versión:** 0.8 · **Fecha:** 2026-10-24 · **Estado:** GUÍA DE PREPARACIÓN CON FEEDBACK DE PLAYTESTING. Las escenas propuestas no se dan por jugadas por estar incluidas en esta guía; la sesión tiene un registro separado.
 
 ## Punto de partida
 
@@ -20,7 +20,7 @@ Explicar a los jugadores que los roles dan un foco de participación, que pueden
 
 ## 2. Elegir roles provisionales
 
-Repartir los roles del [sistema de Viajes](../../herramientas-campana/viajes/sistema-universal-v1.3-testing.md) antes de los preparativos individuales. Cada jugador puede pensar qué necesita averiguar o conseguir desde esa responsabilidad. Los roles se pueden revisar después de investigar o entre etapas; no determinan qué personaje tiene permiso para hablar o aportar ideas.
+Repartir los roles del [sistema de Viajes](<../../herramientas-campana/viajes/sistema-universal-v1.4-testing.md>) antes de los preparativos individuales. Cada jugador puede pensar qué necesita averiguar o conseguir desde esa responsabilidad. Los roles se pueden revisar después de investigar o entre etapas; no determinan qué personaje tiene permiso para hablar o aportar ideas.
 
 ## 3. Un aporte de preparación por personaje
 
@@ -92,7 +92,7 @@ El autor contempla probar el mazo **antes de partir**; ese uso queda a decisión
 
 El autor confirma **primavera**, tiempo después de la Fiesta de las Luces, y los biomas del recorrido previsto: **Bosque templado caducifolio → Pastizales → Sabana → Bosque tropical estacional**. No se deduce que cada bioma equivalga a una etapa ni se fija la distancia de cada tramo o una ruta ya elegida por los jugadores.
 
-Revisar clima e intensidad entre etapas y cuando el trayecto o un suceso lo justifique. Dentro de una etapa puede cambiar a criterio del DM, con chequeo simple opcional: par cambia, impar se mantiene. Sin frecuencia fija en kilómetros ni tirada obligatoria por fase. Usar la sección 5 del [sistema de testing, revisión documental 1.3.2](../../herramientas-campana/viajes/sistema-universal-v1.3-testing.md).
+Revisar clima e intensidad entre etapas y cuando el trayecto o un suceso lo justifique. Dentro de una etapa puede cambiar a criterio del DM, con chequeo simple opcional: par cambia, impar se mantiene. Sin frecuencia fija en kilómetros ni tirada obligatoria por fase. Usar la sección 5 del [sistema de testing v1.4, revisión 1.4.0](<../../herramientas-campana/viajes/sistema-universal-v1.4-testing.md>).
 
 ## Hojas de mesa y fichas de rol
 
@@ -108,4 +108,9 @@ Usar la [hoja simplificada v0.2](../../output/pdf/viajes-hoja-de-decisiones-v0.2
 
 Solo Jantry se afilió a un gremio. No se deduce cuál ni se requiere afiliación del grupo para continuar. Drix fue probado en una taberna: El camino prestado los devolvió a El Orco Sabio sin reacción significativa. Su contexto principal sigue siendo el viaje; la posibilidad previa de probarlo en ciudad queda como antecedente, sin recomendarla como evaluación representativa. Una idea de cartas para sucesos urbanos se registra para desarrollo futuro.
 
-[Revisión de preparación v0.2](../../herramientas-campana/viajes/revision-playtest-preparacion-2026-10-12.md). Las reglas de Viajes continúan en v1.3, revisión documental 1.3.3; no se cambian aquí CD ni Motivación.
+[Revisión de preparación v0.2](../../herramientas-campana/viajes/revision-playtest-preparacion-2026-10-12.md). La referencia operativa es Viajes v1.4, revisión 1.4.0. La revisión de preparación enlazada conserva el ensayo anterior; sus observaciones no reemplazan las reglas actuales.
+
+
+## Enfoque adoptado para preparar y jugar etapas — v1.4
+
+Preparar entorno, oportunidades de decisión y evento principal sin revelar acontecimientos desconocidos. Las etapas abarcan varios días y pueden tener ritmos distintos; pocos eventos, opcionales salvo necesidad de dirección o relevancia. Roles visibles como tareas, sin ronda obligatoria de dados; recuperar objetivo y pista al llegar. El recuento de recursos pertenece a los jugadores y puede cerrarse después si quedó pendiente. No se convierte preparación en hechos ni se fijan aquí ruta o distancia nuevas.

@@ -1,0 +1,15 @@
+{
+  "fuente": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\sesión del viaje de Rheem.m4a",
+  "fecha_sesion_segun_autor": "2026-10-23",
+  "modelo": "small",
+  "motor": "faster-whisper",
+  "idioma": "es",
+  "duracion_segundos": 23143.972381,
+  "estado": "COMPLETA; AUTOMÁTICA SIN COTEJAR",
+  "completada": true,
+  "diarizacion": false,
+  "bloque_segundos": 1200,
+  "bloques_completados": 20,
+  "audio_procesado_segundos": 23143.886,
+  "tiempo_proceso_segundos": 2707.8
+}

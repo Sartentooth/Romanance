@@ -40,7 +40,7 @@ El bloque de [Crónicas](<../../_archivo/canon-obsoleto/biblia-y-cronicas-2026-1
 
 No se adopta como hecho cerrado la propuesta antigua de que los cinco custodios fueron los últimos supervivientes de todas las ramas aurelianas. La situación vigente es la descrita arriba.
 
-**Fuentes conservadas:** [Biblia, §9](<../../_archivo/canon-obsoleto/biblia-y-cronicas-2026-10-11/Biblia_de_Romanance_Canon_Base.md>), [Anexo Aureliano, §IX](<../../_archivo/fuentes-historicas/consolidados-2026-10-14/Anexo_Aureliano_Romanance.md>), [consolidado general](<../../data/archivos md/Romanance_Consolidacion_Canon_2026-10-04.md>) y [consolidado de plots](<../../data/archivos md/Romanance_Consolidado_Plots_Sesiones_Arco_I.md>). La decisión directa del autor prevalece ante formulaciones incompatibles.
+**Fuentes conservadas:** [Biblia, §9](<../../_archivo/canon-obsoleto/biblia-y-cronicas-2026-10-11/Biblia_de_Romanance_Canon_Base.md>), [Anexo Aureliano, §IX](<../../_archivo/fuentes-historicas/consolidados-2026-10-14/Anexo_Aureliano_Romanance.md>), [consolidado general](<../../data/archivos md/Romanance_Consolidacion_Canon_2026-10-04.md>) y [consolidado de plots](<../../_archivo/fuentes-historicas/plots-arco-i-2026-10-26/Romanance_Consolidado_Plots_Sesiones_Arco_I.md>). La decisión directa del autor prevalece ante formulaciones incompatibles.
 
 [Manifiesto](../../INDICE_CANON.md) · [Juramentos](./juramentos.md) · [Romanance — introducción pública](./romanance.md).
 

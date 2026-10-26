@@ -1,0 +1,28 @@
+{
+  "fecha": "2026-10-24",
+  "decision_autor": "1–2 puntos: éxito; 3–5: éxito con complicaciones o consecuencias a criterio del DM",
+  "revision_vigente": "1.3.5",
+  "snapshot_sha256": "919fee0d3c88885a627bdf903acb482c916f65af0d393c179823b4d6814f17d4",
+  "archivos": [
+    {
+      "ruta": "herramientas-campana/viajes/sistema-universal-v1.3-testing.md",
+      "antes": "919fee0d3c88885a627bdf903acb482c916f65af0d393c179823b4d6814f17d4",
+      "despues": "eeeca9d8e63ac5f83c04d8cf1aad77de0c363796432c25e41895a96df2d18208"
+    },
+    {
+      "ruta": "herramientas-campana/viajes/README.md",
+      "antes": "50663dd28cd07976ece2d918b1b7f7158ef4120f6797512b95b6031617c71ed3",
+      "despues": "2824b33946698d383f0b481b448f6813662ecedafda893269b0296ec470460ba"
+    },
+    {
+      "ruta": "INDICE_CANON.md",
+      "antes": "350d4c1621e31244c67f0cb40f6bb6eaedd4f0092e32a49807e772071d568d59",
+      "despues": "b2645842d473ed05fb7243f89512efc3573260a469a3ebae2cf6bcfe1cb026ca"
+    },
+    {
+      "ruta": "ESTADO_FASE_1.md",
+      "antes": "801516d2f2cd1f2618f9cbe5c37889e8efc7de52afcdec3a18b13763d54f564f",
+      "despues": "7370acaef24d7134b1968631ea2fb3920802a88155255be01e2b21c3e920a5fc"
+    }
+  ]
+}

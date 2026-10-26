@@ -1,0 +1,567 @@
+{
+  "scope": "Dos compilados generales; síntesis de 53 y 12 apartados y 18 transcripciones. No auditoría completa de fuentes mixtas ni chats originales.",
+  "sources": [
+    {
+      "path": "data/archivos md/Romanance_Consolidacion_Canon_2026-10-04.md",
+      "sha256": "8e4318029ff66922185e2403560a020068e347c2b26de63dd59f3c32e2f4ceeb",
+      "lines": 1711
+    },
+    {
+      "path": "data/archivos md/Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+      "sha256": "cc83bb4cd2c2d75f5f32ee89d5a7768a18f3ab2e247ff8889511fd4a18dc83c6",
+      "lines": 5193
+    }
+  ],
+  "sections": [
+    {
+      "number": 1,
+      "title": "Criterio editorial vigente",
+      "status": "C",
+      "destination": "AGENTS.md",
+      "treatment": "Prioridad de canon, categorías y límites operativos vigentes."
+    },
+    {
+      "number": 2,
+      "title": "Leyenda de estados usada en esta consolidación",
+      "status": "H",
+      "destination": "INDICE_CANON.md",
+      "treatment": "Leyenda del corte; se conservan estados documentales y precedencia posterior."
+    },
+    {
+      "number": 3,
+      "title": "Identidad general del proyecto",
+      "status": "T",
+      "destination": "README.md",
+      "treatment": "Identidad y nombres cubiertos; convenciones de títulos individuales y ausencia de Volumen pendientes de trasladar: T01."
+    },
+    {
+      "number": 4,
+      "title": "Cronología marco",
+      "status": "S",
+      "destination": "canon/arcos/cronologia-preludio-campana-i.md",
+      "treatment": "434/435 y estudio de la Orden; cargos antiguos corregidos."
+    },
+    {
+      "number": 5,
+      "title": "Núcleo metafísico y filosófico",
+      "status": "C",
+      "destination": "canon/lore/luz-y-filosofia.md",
+      "treatment": "Luz, cadena filosófica, custodia y frases doctrinales."
+    },
+    {
+      "number": 6,
+      "title": "Aurelianos",
+      "status": "S",
+      "destination": "canon/lore/aurelianos.md",
+      "treatment": "Cultura, arquitectura y símbolos conservados; supervivencia por ramas precisada por el autor."
+    },
+    {
+      "number": 7,
+      "title": "Lengua y escritura aureliana",
+      "status": "S",
+      "destination": "canon/lore/alfabeto-aureliano.md",
+      "treatment": "Base gráfica cerrada después; léxico en Aurelianos, lengua completa diferida."
+    },
+    {
+      "number": 8,
+      "title": "Los Cinco Juramentos",
+      "status": "S",
+      "destination": "canon/lore/juramentos.md",
+      "treatment": "Orden de Biblia confirmado; orden del puzzle como interpretación de fundadores."
+    },
+    {
+      "number": 9,
+      "title": "Nhal'Sereth — El Silente",
+      "status": "C",
+      "destination": "canon/lore/el-silente.md",
+      "treatment": "Naturaleza, despertar y peligro ontológico; no deidad."
+    },
+    {
+      "number": 10,
+      "title": "Lunargenta",
+      "status": "C",
+      "destination": "canon/lore/el-silente.md",
+      "treatment": "Lunargenta, uso corriente y peligro del estudio profundo; sin nuevas vetas."
+    },
+    {
+      "number": 11,
+      "title": "La Luna fragmentada",
+      "status": "C",
+      "destination": "canon/lore/el-silente.md",
+      "treatment": "Fractura y anclas; no se generaliza toda pieza a ancla."
+    },
+    {
+      "number": 12,
+      "title": "El Guardián del Quinto Juramento y el Heredero",
+      "status": "S",
+      "destination": "canon/arcos/arco-i.md",
+      "treatment": "Guardián y renovación cubiertos; Heredero de esta mesa suspendido por Maximus, sin reemplazo."
+    },
+    {
+      "number": 13,
+      "title": "Morvath y la Orden de Bibliotecarios",
+      "status": "S",
+      "destination": "canon/lore/orden-de-bibliotecarios.md",
+      "treatment": "Decisión posterior: Morvath destruyó la Orden; no rige la prohibición antigua de esa formulación."
+    },
+    {
+      "number": 14,
+      "title": "Culto Lunar",
+      "status": "C",
+      "destination": "canon/lore/el-silente.md",
+      "treatment": "Culto, fundador y filosofía; emboscada en Arco I; no fijar geas como causa única."
+    },
+    {
+      "number": 15,
+      "title": "Preludio de campaña",
+      "status": "S",
+      "destination": "canon/oneshots/quinto-juramento.md",
+      "treatment": "Preludio cubierto entre resúmenes y cronología; hechos y alternativas separados por revisiones posteriores."
+    },
+    {
+      "number": 16,
+      "title": "Estructura de Campaña I y arcos",
+      "status": "S",
+      "destination": "canon/arcos/estructura-de-campana.md",
+      "treatment": "Dos trilogías y Aldenor; cinco bloques antiguos preservados como planificación, sin sesiones fijas."
+    },
+    {
+      "number": 17,
+      "title": "Arco I — campaña específica vigente",
+      "status": "S",
+      "destination": "canon/plots-y-subplots/arco-i-registro-y-pendientes.md",
+      "treatment": "Suicida incluido entre cinco bajas; S2 real reemplaza preparación, sin revelar Orden/Culto a la party."
+    },
+    {
+      "number": 18,
+      "title": "Corrientes aurelianas del Arco I",
+      "status": "C",
+      "destination": "canon/lore/aurelianos.md",
+      "treatment": "Tres corrientes, antigüedad y calendarios ya integrados con sus límites."
+    },
+    {
+      "number": 19,
+      "title": "Romanance — ciudad",
+      "status": "C",
+      "destination": "canon/lore/romanance.md",
+      "treatment": "Ciudad, población aproximada, gobierno y economía; moneda en documento propio."
+    },
+    {
+      "number": 20,
+      "title": "Levit",
+      "status": "C",
+      "destination": "canon/lore/trasfondos-personajes-jugadores.md",
+      "treatment": "Levit independiente y biblioteca local; no confundir con El Orco Sabio."
+    },
+    {
+      "number": 21,
+      "title": "Geografía general de Terenor y Aldenor",
+      "status": "S",
+      "destination": "mundo/mapas/revision-cartografica.md",
+      "treatment": "Mapa posterior y alcance suficiente para esta fase; Biomas no queda validado en bloque."
+    },
+    {
+      "number": 22,
+      "title": "Estado actual del mapa Azgaar revisado",
+      "status": "S",
+      "destination": "canon/lore/geografia-berk-kelen-khalan.md",
+      "treatment": "Berk y dos lagos resueltos; residuos del export antiguo no justifican borrar el JSON actual."
+    },
+    {
+      "number": 23,
+      "title": "Asentamientos y culturas — decisiones vigentes",
+      "status": "T",
+      "destination": "canon/lore/geografia-berk-kelen-khalan.md",
+      "treatment": "Berk/lagos cubiertos; matices culturales, Lyren y puertos requieren traslado controlado: T02–T04."
+    },
+    {
+      "number": 24,
+      "title": "Cosmología",
+      "status": "C",
+      "destination": "canon/lore/cosmologia.md",
+      "treatment": "Nombres astrales y simbolismo cubiertos; ampliación no necesaria ahora."
+    },
+    {
+      "number": 25,
+      "title": "Jarsag",
+      "status": "S",
+      "destination": "canon/pnjs/pnjs-principales.md",
+      "treatment": "Alcalde, llegada, conocimientos y visión simbólica del Quinto Juramento precisados."
+    },
+    {
+      "number": 26,
+      "title": "Kharag",
+      "status": "C",
+      "destination": "canon/pnjs/pnjs-principales.md",
+      "treatment": "Kharag y Gran Farol; Alba +1 en puente de Spriggan; no último erudito de la Orden."
+    },
+    {
+      "number": 27,
+      "title": "Deren",
+      "status": "S",
+      "destination": "canon/pnjs/anexo-mecanico-pnjs.md",
+      "treatment": "Deren nivel 16, INT 20 confirmados; ficha baja solo antecedente."
+    },
+    {
+      "number": 28,
+      "title": "Aldren el Precavido",
+      "status": "S",
+      "destination": "canon/pnjs/pnjs-principales.md",
+      "treatment": "Elfo/subraza Semielfo; Linaje del Lago exclusivo de Aldren convive con Erudito. Sellos según aclaraciones."
+    },
+    {
+      "number": 29,
+      "title": "Otros PNJs principales",
+      "status": "C",
+      "destination": "canon/pnjs/pnjs-principales.md",
+      "treatment": "Batai, Tömörbaatar, Temay y Ethen; encabezado no fuerza todos los niveles a 16–20."
+    },
+    {
+      "number": 30,
+      "title": "Curación y crafteo — reglas de mundo registradas en PNJs",
+      "status": "S",
+      "destination": "canon/pnjs/forja-mercadeo-y-pociones.md",
+      "treatment": "Rocío: +1d4 a Medicina/Supervivencia/conjuro curativo, una hora/un uso, 7 días/25 PO, receta."
+    },
+    {
+      "number": 31,
+      "title": "Gremios de Romanance",
+      "status": "S",
+      "destination": "canon/lore/gremios.md",
+      "treatment": "Nueve fichas conservadas; funcional 0.1 aprobada para mesa el 19/10; no sigue como borrador sin revisar."
+    },
+    {
+      "number": 32,
+      "title": "Trasfondos de personajes jugadores",
+      "status": "S",
+      "destination": "canon/lore/trasfondos-personajes-jugadores.md",
+      "treatment": "Renombres y trayectorias cubiertos; Jantry, Elián y Spriggan precisados después."
+    },
+    {
+      "number": 33,
+      "title": "Aethragar",
+      "status": "C",
+      "destination": "canon/lore/trasfondos-personajes-jugadores.md",
+      "treatment": "Aethragar, Hermandad y religión local conservados."
+    },
+    {
+      "number": 34,
+      "title": "Aetherion",
+      "status": "C",
+      "destination": "canon/lore/trasfondos-personajes-jugadores.md",
+      "treatment": "Aetherion, Elián y Aurelion Vaelthar; estado de ruinas, sin población nueva."
+    },
+    {
+      "number": 35,
+      "title": "Especie original — Inteligencias Encarnadas",
+      "status": "C",
+      "destination": "canon/lore/inteligencias-encarnadas-y-hierofante.md",
+      "treatment": "Especie original y linajes preservados, sin identificar automáticamente con todo aureliano."
+    },
+    {
+      "number": 36,
+      "title": "Clase original — Hierofante de la Luz",
+      "status": "S",
+      "destination": "canon/lore/inteligencias-encarnadas-y-hierofante.md",
+      "treatment": "Base 1.2 preservada; lanzamiento con base de mago 1–9, sin sus trucos; pulido diferido."
+    },
+    {
+      "number": 37,
+      "title": "Sistema Universal de Viajes",
+      "status": "S",
+      "destination": "herramientas-campana/viajes/sistema-universal-v1.3-testing.md",
+      "treatment": "1.3 vigente, etapas flexibles, clima DM, Motivación máx. 5; testing restante explícito."
+    },
+    {
+      "number": 38,
+      "title": "Tabla de Viaje Continental de Romanance",
+      "status": "H",
+      "destination": "mundo/mapas/revision-cartografica.md",
+      "treatment": "Tablas de métodos antiguos son antecedentes; no se restaura una tabla final ni medidas retiradas."
+    },
+    {
+      "number": 39,
+      "title": "Mazo de Drix",
+      "status": "S",
+      "destination": "herramientas-campana/mazo-de-drix/bases-testing.md",
+      "treatment": "Siete categorías conservadas; lote de doce automático, Capricho y preguntas fuera del mazo según autor."
+    },
+    {
+      "number": 40,
+      "title": "Sistema provisional inspirado en Armas de Leyenda / Weapons of Legacy",
+      "status": "S",
+      "destination": "herramientas-campana/armas-legendarias/README.md",
+      "treatment": "Diseño recuperado y piloto Alba; sin nombre definitivo ni reglas nuevas."
+    },
+    {
+      "number": 41,
+      "title": "Economía inmobiliaria",
+      "status": "C",
+      "destination": "herramientas-campana/economia-inmobiliaria.md",
+      "treatment": "Herramienta propia y coste confirmado por el autor; no precios oficiales universales."
+    },
+    {
+      "number": 42,
+      "title": "Arte e identidad visual",
+      "status": "T",
+      "destination": "arte/direccion-visual/2026-10-09/Analisis-y-decisiones-de-arte-Lumenor.md",
+      "treatment": "Referencia posterior disponible; el consolidado visual de chat conserva su cotejo propio pendiente. Sin inspección nueva de imágenes."
+    },
+    {
+      "number": 43,
+      "title": "Documentos y estados",
+      "status": "H",
+      "destination": "INDICE_CANON.md",
+      "treatment": "Inventario del 4/10 superado por manifiesto vigente; ausencias no equivalen a pérdida."
+    },
+    {
+      "number": 44,
+      "title": "Versiones reemplazadas / nombres obsoletos",
+      "status": "S",
+      "destination": "canon/lore/trasfondos-personajes-jugadores.md",
+      "treatment": "Renombres cubiertos; dos tablas continentales no son duplicados exactos."
+    },
+    {
+      "number": 45,
+      "title": "Contradicciones abiertas que NO deben resolverse automáticamente",
+      "status": "S",
+      "destination": "ESTADO_FASE_1.md",
+      "treatment": "Los veinte desajustes se remiten a decisiones y revisiones posteriores, no se reabren en bloque."
+    },
+    {
+      "number": 46,
+      "title": "Propuestas discutidas pero NO aprobadas como canon final",
+      "status": "H",
+      "destination": "ESTADO_FASE_1.md",
+      "treatment": "Propuestas no aprobadas conservan ese carácter salvo cierres posteriores explícitos: escritura y lagos, por ejemplo."
+    },
+    {
+      "number": 47,
+      "title": "Pendientes concretos",
+      "status": "S",
+      "destination": "ESTADO_FASE_1.md",
+      "treatment": "Pendientes antiguos sustituidos por cierres y desarrollo diferido; no inventar para terminarlos."
+    },
+    {
+      "number": 48,
+      "title": "Estructura de repositorio aprobada",
+      "status": "C",
+      "destination": "INDICE_CANON.md",
+      "treatment": "Estructura y manifiesto existentes; categorías sin expansión nueva."
+    },
+    {
+      "number": 49,
+      "title": "Flujo operativo local aprobado",
+      "status": "C",
+      "destination": "AGENTS.md",
+      "treatment": "Trabajo local, sin commits/push; continuidad mediante documentos."
+    },
+    {
+      "number": 50,
+      "title": "Fuentes revisadas para esta consolidación",
+      "status": "H",
+      "destination": "RECEPCION_SEIS_CONSOLIDADOS.md",
+      "treatment": "Inventario/procedencia del corte preservados, no validación presente de todos los adjuntos."
+    },
+    {
+      "number": 51,
+      "title": "Material que NO pudo revisarse de forma completa",
+      "status": "H",
+      "destination": "REVISION_CHATS_FASE_1.md",
+      "treatment": "Límites históricos del acceso a chats y arte preservados; no afirmar recuperar conversaciones completas."
+    },
+    {
+      "number": 52,
+      "title": "Recomendación de uso de este archivo",
+      "status": "C",
+      "destination": "AGENTS.md",
+      "treatment": "Consolidar/verificar antes de archivar; no borrar fuentes."
+    },
+    {
+      "number": 53,
+      "title": "Resumen ejecutivo de lo ya cerrado",
+      "status": "S",
+      "destination": "ESTADO_FASE_1.md",
+      "treatment": "Resumen del corte cubierto por documentos actuales con las precisiones anteriores."
+    }
+  ],
+  "embedded_blocks": [
+    {
+      "source_name": "Aldren_el_Precavido_-_Canon_Fundacional_Romanance.md",
+      "line_start": 452,
+      "embedded_sha256_normalized": "781f37b0055970865f5645da86201c748a837ce8cfaef978879565c0c7b223b1",
+      "chars": 5454,
+      "match": "_archivo/fuentes-historicas/consolidados-2026-10-14/Aldren_el_Precavido_-_Canon_Fundacional_Romanance.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    },
+    {
+      "source_name": "Anexo_Aureliano_Romanance.md",
+      "line_start": 685,
+      "embedded_sha256_normalized": "32532599d0447cc692d41e21a8997717e7f16de8beac0dd35a8618f82dac37d8",
+      "chars": 6323,
+      "match": "_archivo/fuentes-historicas/consolidados-2026-10-14/Anexo_Aureliano_Romanance.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    },
+    {
+      "source_name": "Anexo_Oficial_Romanance_Inteligencias_Hierofante.md",
+      "line_start": 973,
+      "embedded_sha256_normalized": "737ad51bd7f4ec94e3bd5ac1268efe8716f0a0d0134e28661dc57cf742a605ee",
+      "chars": 12946,
+      "match": "_archivo/fuentes-historicas/consolidados-2026-10-14/Anexo_Oficial_Romanance_Inteligencias_Hierofante.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    },
+    {
+      "source_name": "Biblia_de_Romanance_Canon_Base.md",
+      "line_start": 1325,
+      "embedded_sha256_normalized": "978e7ff88404ffd8ff8437c52fbed6f3cc0038e01d5d8b8783ec48bd9b01358e",
+      "chars": 57165,
+      "match": "_archivo/canon-obsoleto/biblia-y-cronicas-2026-10-11/Biblia_de_Romanance_Canon_Base.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    },
+    {
+      "source_name": "Biomas_Continentales_Romanance.md",
+      "line_start": 2315,
+      "embedded_sha256_normalized": "e22f3320fe9f38dd3ed5a397b635f3af492c73c00f1a997e1c4457c29dbfc6af",
+      "chars": 4572,
+      "match": "data/archivos md/Biomas_Continentales_Romanance.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    },
+    {
+      "source_name": "Cosmologia_Lumenor.md",
+      "line_start": 2385,
+      "embedded_sha256_normalized": "cebe957e2392490d3ef13c08807b628c4f2f262ce5226e477034d2ff8effb1a4",
+      "chars": 1405,
+      "match": "_archivo/fuentes-historicas/consolidados-2026-10-14/Cosmologia_Lumenor.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    },
+    {
+      "source_name": "CRÓNICAS DE ROMANANCE.md",
+      "line_start": 2413,
+      "embedded_sha256_normalized": "37f0387df565e05c82059d24da0aae697b1f88d535203c9080651514ecf5d635",
+      "chars": 5673,
+      "match": "_archivo/canon-obsoleto/biblia-y-cronicas-2026-10-11/CRÓNICAS DE ROMANANCE.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    },
+    {
+      "source_name": "Economia_inmobiliaria_Romanance.md",
+      "line_start": 2683,
+      "embedded_sha256_normalized": "95d269b17e15445f3257d482d5d2660895e68d5ae96af663164d7fcc65de5f56",
+      "chars": 5262,
+      "match": "_archivo/fuentes-historicas/consolidados-2026-10-14/Economia_inmobiliaria_Romanance.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    },
+    {
+      "source_name": "Gremios_de_Romanance.md",
+      "line_start": 2847,
+      "embedded_sha256_normalized": "4f74d9457c1e4fce7714221419774f5e43cb99bf6f623e9dfefe1a899851759e",
+      "chars": 8810,
+      "match": "_archivo/borradores/gremios-2026-10-14/Gremios_de_Romanance.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    },
+    {
+      "source_name": "Hierofante de la Luz.md",
+      "line_start": 3059,
+      "embedded_sha256_normalized": "5868c8f086fd7df4caef4d31f1db6641dea6d0c38bc5cdc89ef77ff3554ee44b",
+      "chars": 7692,
+      "match": "_archivo/canon-obsoleto/hierofante-2026-10-14/Hierofante de la Luz.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    },
+    {
+      "source_name": "instrucciones-proyecto.md",
+      "line_start": 3336,
+      "embedded_sha256_normalized": "70f6159eb70f56039a7bf1686ab29628b33f20d0d8057f89a358f0cd4167a993",
+      "chars": 2040,
+      "match": "data/archivos md/instrucciones-proyecto.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    },
+    {
+      "source_name": "mazo_de_drix.md",
+      "line_start": 3383,
+      "embedded_sha256_normalized": "858315268ac0d6a291d2ff882307781d592066b0b2e1dd1ae9dad0226b52398b",
+      "chars": 3536,
+      "match": "_archivo/fuentes-historicas/mazo-drix-2026-10-14/mazo_de_drix.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    },
+    {
+      "source_name": "Plots_y_Arcos_Arco_I_Aurelianos.md",
+      "line_start": 3509,
+      "embedded_sha256_normalized": "45d23a37491e54af44fef38308537199b4d75496caed6cdcc2c6b8ad6c53f6e8",
+      "chars": 21106,
+      "match": "data/archivos md/Plots_y_Arcos_Arco_I_Aurelianos.md",
+      "identical_after_trim_and_newlines": false,
+      "ratio": 0.41037
+    },
+    {
+      "source_name": "PNJs_Principales_Romanance.md",
+      "line_start": 3766,
+      "embedded_sha256_normalized": "139d612d727540fe30d4a6851dd83c7b397f2d47a876e6cc163d57daa3f4e57a",
+      "chars": 23723,
+      "match": "_archivo/fuentes-historicas/consolidados-2026-10-14/PNJs_Principales_Romanance.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    },
+    {
+      "source_name": "Sistema Universal de Viajes para D&D 5.5e — Versión 1.1(1).md",
+      "line_start": 4060,
+      "embedded_sha256_normalized": "a532c65119c57789cb5be253de617c4502da08e0f8a38ba30f1912d6807f665b",
+      "chars": 15651,
+      "match": "_archivo/fuentes-historicas/viajes-2026-10-14/Sistema Universal de Viajes para D&D 5.5e — Versión 1.2.md",
+      "identical_after_trim_and_newlines": false,
+      "ratio": 0.61524
+    },
+    {
+      "source_name": "Tabla_Viaje_Continental_Romanance (2).md",
+      "line_start": 4662,
+      "embedded_sha256_normalized": "87966428373e6cf3bf070786145c9349f382c516a026a22b4bab56a0eae0c791",
+      "chars": 5878,
+      "match": "data/archivos md/Tabla_Viaje_Continental_Romanance.md",
+      "identical_after_trim_and_newlines": false,
+      "ratio": 0.99
+    },
+    {
+      "source_name": "Tabla_Viaje_Continental_Romanance.md",
+      "line_start": 4772,
+      "embedded_sha256_normalized": "5f7ac94c08a48ea9c0ed51f3d75df9bd17086c65bf93a42b6628df0b071b8208",
+      "chars": 5976,
+      "match": "data/archivos md/Tabla_Viaje_Continental_Romanance.md",
+      "identical_after_trim_and_newlines": false,
+      "ratio": 0.80203
+    },
+    {
+      "source_name": "trasfondos_personajes_romanance.md",
+      "line_start": 4879,
+      "embedded_sha256_normalized": "023055a9a281ef8eb640d4e6ea8ea8ceb0e6147c1b875bf3ef748913471173d2",
+      "chars": 17352,
+      "match": "_archivo/fuentes-historicas/consolidados-2026-10-14/trasfondos_personajes_romanance.md",
+      "identical_after_trim_and_newlines": true,
+      "ratio": 1.0
+    }
+  ],
+  "normalization": "CRLF a LF; strip exterior. No igualdad binaria con bloques incrustados.",
+  "pending_transfers": [
+    "T01",
+    "T02",
+    "T03",
+    "T04",
+    "T05"
+  ],
+  "moved_files": 0,
+  "canon_changed": false,
+  "verification": {
+    "source_hashes_unchanged": true,
+    "local_links_checked": 404,
+    "missing": []
+  }
+}

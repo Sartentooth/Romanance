@@ -1,6 +1,8 @@
-# Preludio — El Enigma de las Cuatro Estatuas
+# Preludios — El enigma de las 4 estatuas
 
-**Versión documental:** 1.0 local · **Fecha:** 2026-10-06 · **Estado:** CANON CERRADO para este resumen de lo jugado. El texto literal único de la tablilla no se fija en esta edición.
+**Saga de Preludios · crónica 2 de 3.** Título y orden confirmados por el autor el 2026-10-26; [identidad editorial](../../README.md#identidad-editorial-y-saga-de-preludios). El cuerpo conserva los hechos ya consolidados.
+
+**Versión documental:** 1.1 local · **Fecha:** 2026-10-26 · **Estado:** CANON CERRADO para este resumen de lo jugado. El texto literal único de la tablilla no se fija en esta edición.
 
 **Autoridad:** crónicas de sesión, preparación y aclaraciones del autor. Preludio de 434 D.R.; cuatro integrantes de Rheem presentes: Corwin (Kvothe en las fuentes), Anic, Jantry y Elián. Spriggan no participó en esta expedición, según la cronología confirmada.
 

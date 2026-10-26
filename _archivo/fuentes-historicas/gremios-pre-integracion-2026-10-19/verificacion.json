@@ -1,0 +1,64 @@
+{
+  "date": "2026-10-19",
+  "approval": "Aprobación explícita del autor; testeo en mesa solicitado",
+  "source_sha256": "76a16b6d49b2cdb195fa0aabf6966647e8aaa93b5a42c472a3fcc0206cf3a86e",
+  "previous_documents": [
+    {
+      "previous_path": "canon/lore/gremios.md",
+      "snapshot": "_archivo/fuentes-historicas/gremios-pre-integracion-2026-10-19/canon/lore/gremios.md",
+      "sha256": "8e32ac93d64ac6fa5146047c4b5b7d66cba0531b53a05d3077c39a0fc2b0d36a"
+    },
+    {
+      "previous_path": "herramientas-campana/gremios/README.md",
+      "snapshot": "_archivo/fuentes-historicas/gremios-pre-integracion-2026-10-19/herramientas-campana/gremios/README.md",
+      "sha256": "2e3b4ece50279d4b73d5ff559b82c71a52990d57502356b5d8f07dd4a17606a0"
+    },
+    {
+      "previous_path": "herramientas-campana/gremios/analisis-y-bases.md",
+      "snapshot": "_archivo/fuentes-historicas/gremios-pre-integracion-2026-10-19/herramientas-campana/gremios/analisis-y-bases.md",
+      "sha256": "dbe2000bc1731a437cdfc47132e4e62d32864300179b5c7dd4701383bef26073"
+    }
+  ],
+  "institutional_body_preserved": true,
+  "documents_checked": 9,
+  "local_links_checked": 351,
+  "missing": [],
+  "resulting_files": [
+    {
+      "path": "herramientas-campana/gremios/guia-funcional.md",
+      "sha256": "e74041194ff96dcb82d1f8d94d14d3da898bd82dd019e0a228a40a34e601a2e6"
+    },
+    {
+      "path": "canon/lore/gremios.md",
+      "sha256": "0f5adac13dd35f2d8fd8192a3cd7f08364b29ca4caadbe3a00ccb678e4c7af27"
+    },
+    {
+      "path": "herramientas-campana/gremios/README.md",
+      "sha256": "807ee5ea9a9ef47798ade8fbfd502fef5e6764ccf4bfeb717fa276441e0429cb"
+    },
+    {
+      "path": "herramientas-campana/gremios/analisis-y-bases.md",
+      "sha256": "55f49f0bdce05de3d701be13aab508ce1b6ddf6744eaa366c154a1e9b12229ca"
+    },
+    {
+      "path": "REVISION_GREMIOS_2026-10-19.md",
+      "sha256": "147ecbc5b5b4b6aea21a7e57e862834bb7bc51692cb63cd5afb9054200b65f61"
+    },
+    {
+      "path": "INDICE_CANON.md",
+      "sha256": "31b204a179fd4c3d090242b6698d5e42ac1580549c9f5677e6a2576e53c0c76f"
+    },
+    {
+      "path": "PLAN_MIGRACION_FASE_1.md",
+      "sha256": "e9fe03d36ee230915daad2f04d735b469da6513e5a2c6bc820f1cbf7c0ecfe52"
+    },
+    {
+      "path": "ESTADO_FASE_1.md",
+      "sha256": "880e7f8b6500be8dc51f1fb3710083ce32a8ddfd50cc37d1c38b7651f1c5aba4"
+    },
+    {
+      "path": "_archivo/fuentes-historicas/gremios-pre-integracion-2026-10-19/README.md",
+      "sha256": "bd0dceb797691b59af39408567fa75b960b310f557907e922878fa1b1be357b8"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Arco I — investigación y descubrimientos
 
-**Versión documental:** 1.11 local · **Fecha:** 2026-10-10 · **Estado:** CANON EN CONSOLIDACIÓN; flujo y conocimientos iniciales confirmados por el autor. No consolida todavía todo el planeamiento del arco.
+**Versión documental:** 1.12 local · **Fecha:** 2026-10-26 · **Estado:** CANON EN CONSOLIDACIÓN; flujo y conocimientos iniciales confirmados por el autor. La planificación y sus precedencias tienen un registro separado.
 
 ## Flujo actual
 
@@ -71,3 +71,7 @@ Esta motivación no elimina las agresiones ya jugadas ni concede a la party cono
 ## Lugar en la campaña
 
 Este arco abre la primera trilogía, cuyo cierre está previsto en Aldenor. Cada arco ocupa las sesiones que necesite. Véase [estructura de campaña](./estructura-de-campana.md) para la dirección confirmada y la segunda trilogía todavía en desarrollo.
+
+## Compilados de plots consolidados — 2026-10-26
+
+[Emboscada inicial](../oneshots/arco-i-sesion-1-emboscada.md), [hilos abiertos](../plots-y-subplots/arco-i-hilos-abiertos.md) y [planificación vigente](./arco-i-planificacion.md) completan el traslado de los dos compilados. Las fuentes están archivadas íntegras; esta tabla de conocimientos describe el punto inicial documentado, no todas las revelaciones de sesiones posteriores. El viaje del 23/10 tiene análisis separado y sus diálogos inseguros no amplían por inferencia lo conocido por la party. [Cobertura](../../REVISION_PLOTS_ARCO_I_2026-10-26.md).

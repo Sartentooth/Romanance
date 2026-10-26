@@ -1,0 +1,102 @@
+{
+  "date": "2026-10-26",
+  "sources": [
+    {
+      "name": "Plots_y_Arcos_Arco_I_Aurelianos.md",
+      "sha256": "269da26d7a539a197a96b72882aa41c05a15ce40981c231f9121decb8b7a1077",
+      "move_integrity": "Comparación SHA256 antes/después ejecutada y aprobada por consolidar-plots-2026-10-26.py antes de verificar enlaces."
+    },
+    {
+      "name": "Romanance_Consolidado_Plots_Sesiones_Arco_I.md",
+      "sha256": "c14df5400974b6139b5607c4640d4856db6ec6adcf33bed249a62a571ef8e6cb",
+      "move_integrity": "Comparación SHA256 antes/después ejecutada y aprobada por consolidar-plots-2026-10-26.py antes de verificar enlaces."
+    }
+  ],
+  "main_sections": 30,
+  "section_hashes_verified": true,
+  "created": [
+    "canon/oneshots/arco-i-sesion-1-emboscada.md",
+    "canon/plots-y-subplots/arco-i-hilos-abiertos.md",
+    "canon/arcos/arco-i-planificacion.md",
+    "REVISION_PLOTS_ARCO_I_2026-10-26.md"
+  ],
+  "affected": [
+    "ESTADO_FASE_1.md",
+    "INDICE_CANON.md",
+    "PLAN_MIGRACION_FASE_1.md",
+    "RECEPCION_SEIS_CONSOLIDADOS.md",
+    "REVISION_COMPILADOS_GENERALES_2026-10-19.md",
+    "REVISION_PLOTS_ARCO_I_2026-10-26.md",
+    "canon/arcos/arco-i-planificacion.md",
+    "canon/arcos/arco-i.md",
+    "canon/arcos/cronologia-preludio-campana-i.md",
+    "canon/arcos/estructura-de-campana.md",
+    "canon/lore/aurelianos.md",
+    "canon/lore/berk.md",
+    "canon/lore/el-silente.md",
+    "canon/lore/fundadores-de-romanance.md",
+    "canon/oneshots/arco-i-sesion-1-emboscada.md",
+    "canon/plots-y-subplots/arco-i-hilos-abiertos.md",
+    "canon/plots-y-subplots/arco-i-registro-y-pendientes.md",
+    "canon/pnjs/pnjs-principales.md",
+    "data/README.md",
+    "ideas-nuevas/terenor-hipotesis-reservadas.md"
+  ],
+  "previous_hashes": {
+    "ESTADO_FASE_1.md": "8d4b75334ab04f24d6ac840e827b80ba1eb815407c7c29f6e7b653f56f95636b",
+    "INDICE_CANON.md": "2288fe23871325e1db3253fc4f77962dfa1c900173a6cf345eeb8decd0f19d41",
+    "PLAN_MIGRACION_FASE_1.md": "7f7390d27db56a955dd44393992ac91f597845ec0d9b248e998f2ad4aaa64cc2",
+    "RECEPCION_SEIS_CONSOLIDADOS.md": "d80c2e72f867a8408ac281905b14947d24586de0a7f310354ccbae89743edff9",
+    "REVISION_COMPILADOS_GENERALES_2026-10-19.md": "508b8121448878439c9644d8c8d37efffc9ff78fa4a8b602fbc10a0933425428",
+    "data/README.md": "75be75d374b1bfb040ddd12351cb655f057b2c6424af2982dd79314c2cb0585b",
+    "ideas-nuevas/terenor-hipotesis-reservadas.md": "5e27194f8f1c5d9116b01dd778936338a001a2dbddb7b9eb19f22aa924a80398",
+    "canon/arcos/arco-i.md": "671cc33ab24ec5539f0d2549e95f150f80961e8942aa2ad842779b85e96ddedd",
+    "canon/arcos/cronologia-preludio-campana-i.md": "15d3c97e1cee43286c9d9fc2089b6375540cf813c30e7247de122d04a2060c7f",
+    "canon/arcos/estructura-de-campana.md": "d3a4a114760f8966ba3aa6f4ad527f377945248d8667b4debd0bb4a39794d84d",
+    "canon/lore/aurelianos.md": "806d57c0ca9cd8a2f731645740559f36ce12a19d9f8d7211ec96ab7aebe6a424",
+    "canon/lore/berk.md": "2a07ca5c0bc45e2d783b815567925c05e64dbaa5599602424e98d50e8be92372",
+    "canon/lore/el-silente.md": "e1638eb7c012f1d6e12cdb6f244b88fb1323ab542e3db98714e5548263ed6ac5",
+    "canon/lore/fundadores-de-romanance.md": "653dfa7c89edd8a9d2d321e2cf9897f2c27bc4d79cca1014e461ed96493ee1be",
+    "canon/plots-y-subplots/arco-i-registro-y-pendientes.md": "80512854500957938b6027c4178387b648426285fec1052f58e7e458b5f7272c",
+    "canon/pnjs/pnjs-principales.md": "e3ddbb1c943241de6454a6ac5301c85fc0611f5703cbbc0f5cab8de3debc6296"
+  },
+  "current_hashes": {
+    "ESTADO_FASE_1.md": "34cce1fa6b1198cff6724334af8849a72e7489ac20197d3004d5ef4040f2e4d0",
+    "INDICE_CANON.md": "c47fa0c70d269419a01bb7370100e9ba67a36bccec356e629d3705c9d96de4a5",
+    "PLAN_MIGRACION_FASE_1.md": "07e13bb5684e7f8426e2ce0f4438a473843107d978a3f10662c1f9638596c201",
+    "RECEPCION_SEIS_CONSOLIDADOS.md": "17641d2fe72dc6c095615b4c4103e47cb4326d54cf3fa8d4f8810fbb4e383681",
+    "REVISION_COMPILADOS_GENERALES_2026-10-19.md": "24cb9374794c1e6a39a25289d533b87580393b0742beb668c32a361164d92e00",
+    "REVISION_PLOTS_ARCO_I_2026-10-26.md": "3e86d6cf8d87194326889e1fb64e12b0b4ea6ed7180831595d172d067479c042",
+    "canon/arcos/arco-i-planificacion.md": "be56127e1707d0d893ac9ff644a0dd019bbfc659919881f2b76aa981acb3f3d3",
+    "canon/arcos/arco-i.md": "8e0a733e6b82d333f10b2183b2dac5fafa67997acfa9a10eff3faff524bc126b",
+    "canon/arcos/cronologia-preludio-campana-i.md": "acc03add2538f29bd10e8de931220f064886030a3559c737f4ce087b041f6026",
+    "canon/arcos/estructura-de-campana.md": "47b1f22cde58924bc203dac232e9df42d15eeb3b00dd0f8d34f144484b76dc96",
+    "canon/lore/aurelianos.md": "5ddf844517eb1dbfb8869384c2f6a00fc4b6781f6452799ad25bb0007c77240c",
+    "canon/lore/berk.md": "b3d75ae70d9d393f0ecd44b90c4a70316e9c28084ec43bfa5716f3b349567ee0",
+    "canon/lore/el-silente.md": "267ad9e89e3913a0a9851f731fe9bac9832cb1ee8fc61aa0066c141813cd6519",
+    "canon/lore/fundadores-de-romanance.md": "143cf0f79d500c10134a97637af3c24b899a77c1757df755678ee6ca7e2f66b9",
+    "canon/oneshots/arco-i-sesion-1-emboscada.md": "37927f7a08231b7cb51692848d55c755f2f8ad5e3ceb2b1faadd3b5bb7ec4a4b",
+    "canon/plots-y-subplots/arco-i-hilos-abiertos.md": "a1075f7775942033f929156e7851e43f4fb55f0c46c3ac2c5de57990ec9363bc",
+    "canon/plots-y-subplots/arco-i-registro-y-pendientes.md": "88af70b726c7b003032d4b3b079581e7740a8c37ddffa62cf847675a000e7c74",
+    "canon/pnjs/pnjs-principales.md": "51136fd67021bf3ed457f404099925cd89ff96f88696c43438bdd46ed6bad59c",
+    "data/README.md": "63bbb637dddbefb46be3916099312f2134a9f41cf2e04212401fd928663aa699",
+    "ideas-nuevas/terenor-hipotesis-reservadas.md": "3abe12b923d2b384dc4b57072ca8ff13be7b0d6bd13a29448f3d5bbbbf95da7d"
+  },
+  "map": {
+    "path": "data/Json del mapa de Azgaar/Mundo Sebas Full 2026-10-21-00-51.json",
+    "before": "5aa57b64458af4d13f5d63da484c110ef40d54db42a337071246a1f0f672d242",
+    "after": "5aa57b64458af4d13f5d63da484c110ef40d54db42a337071246a1f0f672d242",
+    "unchanged": true
+  },
+  "limits": [
+    "No auditoría de todos los chats o adjuntos",
+    "No crónica cerrada del audio",
+    "No cambios de mapa, imágenes, SRD o herramientas",
+    "Sin commits, staging, push o cambio de rama"
+  ],
+  "link_check": {
+    "checked": 645,
+    "missing": [],
+    "scope": "20 destinos creados/editados o con referencias entrantes actualizadas; excluye originales y snapshots históricos"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-24",
+  "status": "APLICADO: Viajes 1.4.0 para testing; v1.3.5 y PDF anterior archivados",
+  "approval": "El autor revisó y autorizó los ajustes y la limpieza; después confirmó saldo negativo de Motivación y su recuperación",
+  "terrain_values_preserved": true,
+  "new_d100_entries_created": false,
+  "links_checked": 540,
+  "new_missing": [],
+  "previous_missing": [
+    {
+      "document": "INDICE_CANON.md",
+      "target": "./data/Json del mapa de Azgaar/Mundo Sebas Full 2026-10-09-18-07.json"
+    }
+  ],
+  "moves": [
+    {
+      "source": "herramientas-campana/viajes/sistema-universal-v1.3-testing.md",
+      "destination": "_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/sistema-universal-v1.3-testing.md",
+      "sha256": "eeeca9d8e63ac5f83c04d8cf1aad77de0c363796432c25e41895a96df2d18208"
+    },
+    {
+      "source": "herramientas-campana/viajes/sistema-universal-v1.3-testing.pdf",
+      "destination": "_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/sistema-universal-v1.3-testing.pdf",
+      "sha256": "6fe7803651274b600316da2dfbedfa98b39fe3ce30a8f87ed88dfb59e7f24a92"
+    }
+  ],
+  "files": [
+    {
+      "path": "herramientas-campana/viajes/sistema-universal-v1.4-testing.md",
+      "before_sha256": null,
+      "after_sha256": "6d2b5f4bbb8eaf128438e940b90558cfde734e4d8bb3c3fce767069080eadf73"
+    },
+    {
+      "path": "herramientas-campana/viajes/CAMBIOS_V1.4.md",
+      "before_sha256": null,
+      "after_sha256": "a84731a2b622162e9965b76f89a4028f89f7c25540e8e46392c02338c2dcbec8"
+    },
+    {
+      "path": "herramientas-campana/viajes/README.md",
+      "before_sha256": "486a1ef43bfa7c3fe97d7deb69701faa142946151b0a8b46c4762563a61db81b",
+      "after_sha256": "f461dd1864d9b0a7dae2a8893b7067b316d666e750bdd081e7c67f5c1e385ea0"
+    },
+    {
+      "path": "herramientas-campana/viajes/playtest-2026-10-23/ANALISIS_PLAYTEST_VIAJE_2026-10-23.md",
+      "before_sha256": null,
+      "after_sha256": "7a22e0438074022f8f7808571b1509afb34a2da58b8d9994feb563a791112baf"
+    },
+    {
+      "path": "herramientas-campana/viajes/playtest-2026-10-23/APOYOS_DE_DIRECCION_PROPUESTA.md",
+      "before_sha256": null,
+      "after_sha256": "1e86c939edbfc9ab6a2a51f495a02710978c0b4bf979c5d21beefd74f453dbee"
+    },
+    {
+      "path": "herramientas-campana/viajes/playtest-2026-10-23/REGISTRO_CANDIDATO_DE_HECHOS.md",
+      "before_sha256": null,
+      "after_sha256": "0b5f6a6237a1b40abf6170f97386cf65e46d1e7fd4c2a8b240173e20cf19a716"
+    },
+    {
+      "path": "herramientas-campana/viajes/playtest-2026-10-23/LISTAS_POR_BIOMA_PROPUESTA_v0.2.md",
+      "before_sha256": null,
+      "after_sha256": "593440d19a1cc329769eefb56dca5af21fbac942490beb20fa1b1652828167cd"
+    },
+    {
+      "path": "herramientas-campana/viajes/playtest-2026-10-23/EVIDENCIAS_TEMPORALES.md",
+      "before_sha256": null,
+      "after_sha256": "2848e724b17f39e5a773ddd5b05cfe2cc41c56b0c022a35fa0b9e20fc553ac08"
+    },
+    {
+      "path": "herramientas-campana/viajes/playtest-2026-10-23/evidencias-temporales.json",
+      "before_sha256": null,
+      "after_sha256": "66e3afd60978ae4d37f75414c01bfed40c78d096a844eb5040fee31541109889"
+    },
+    {
+      "path": "herramientas-campana/viajes/playtest-2026-10-23/verificacion-informe-origen.json",
+      "before_sha256": null,
+      "after_sha256": "57ec0293bdf0b092f7c26030d940444b1a6755d338076f69d84c497ff0596c61"
+    },
+    {
+      "path": "herramientas-campana/viajes/playtest-2026-10-23/README.md",
+      "before_sha256": null,
+      "after_sha256": "1aedf4dd0531fefa161dfb4fc13f346d43f698212e715f9987297f1b5e8373e0"
+    },
+    {
+      "path": "data/transcripciones/romanance-viaje-2026-10-23/metadatos.json",
+      "before_sha256": null,
+      "after_sha256": "c6bea7a55ea96b9b83f87396d9508aff22eb5649303c2f93385b2058a280ef5d"
+    },
+    {
+      "path": "data/transcripciones/romanance-viaje-2026-10-23/transcripcion-automatica.md",
+      "before_sha256": null,
+      "after_sha256": "d4fe2e15dc6b53c14166e72cb0b3de3d177685261f72a04b53a628a4efbabd3e"
+    },
+    {
+      "path": "data/transcripciones/romanance-viaje-2026-10-23/segmentos-automaticos.jsonl",
+      "before_sha256": null,
+      "after_sha256": "69b593271d295e9786957f93e342c342164d74e1502a3d5385ae8b14001c1eb2"
+    },
+    {
+      "path": "data/transcripciones/romanance-viaje-2026-10-23/README.md",
+      "before_sha256": null,
+      "after_sha256": "751fdb15248103da5a746e3b36386f33e4d63f823df518e1c0b5e198d4369ecb"
+    },
+    {
+      "path": "herramientas-campana/viajes/revision-playtest-viaje-2026-10-23.md",
+      "before_sha256": "234792d33ad57081304f3e96b4448b731b9554ba7e648c4df89b76b4e606e0d8",
+      "after_sha256": "ffe50e69cee4297786986df54d117bd3a5aad7ab9d015141157b3cdd56c1d734"
+    },
+    {
+      "path": "ESTADO_FASE_1.md",
+      "before_sha256": "c05d6aa2f24d5fdde28bc7a854fa5889b58d893e803b26909ce2497acf95cc9e",
+      "after_sha256": "8c3d94e6264f070090843c14a42952dc07c3a7a9fe917acb7ac651d9cc7a47c9"
+    },
+    {
+      "path": "INDICE_CANON.md",
+      "before_sha256": "2c53382a27e5cc5d053895a001fb55fe735766e835b69d5d980717a52975e3b6",
+      "after_sha256": "511feca86709d4ea86f9e3e8ebcc754e2725ae3ab5932805960c6d2ae499a4bc"
+    },
+    {
+      "path": "PLAN_MIGRACION_FASE_1.md",
+      "before_sha256": "4f98b2df8c83b82901d94750de5f64628e7357d03bba2f28a68702674a66eba1",
+      "after_sha256": "61b9d0a8efd228c2d1591ba10a8862d01ebb0353e42efbea48daec125b37f7c9"
+    },
+    {
+      "path": "REVISION_COMPILADOS_GENERALES_2026-10-19.md",
+      "before_sha256": "0609abeacedec0121a267c0a421079b9656f8888325807d8982a92cf97a509e2",
+      "after_sha256": "5f5c54ba2240e1d3605e3b96d0766b7a8b2c7d4b93d3a1be47e5a9c15923f4aa"
+    },
+    {
+      "path": "REVISION_REUBICACION_DOCUMENTOS_MIXTOS_2026-10-14.md",
+      "before_sha256": "1f3acec6fb3b7457de30ef16b7633a4966ddad587b37b237b756e4df6d19f93e",
+      "after_sha256": "d28b0328c5d6e6f58d5a87177e42f6a81ce86843e0b20128c6bfa8a790ba3d2c"
+    },
+    {
+      "path": "herramientas-campana/README.md",
+      "before_sha256": "b90b5f02e7320f15759e64c8c9f61a0e5442454e549e09fb09a9f451fbc3001e",
+      "after_sha256": "baf64ad455ccee24f2b96e288f76dcd5ce99664e433bf97c982e930a3a22371d"
+    },
+    {
+      "path": "ideas-nuevas/eventos-viaje-cuatro-biomas-testing.md",
+      "before_sha256": "c8933e98a5671e4a4e7cf57f29f1946da046ae6df560fde3d2d6065626fc4be0",
+      "after_sha256": "6c75ed8059e6b0e3c2bab950f3bad097a2dbd1b365b61c0b16b764f808cbde18"
+    },
+    {
+      "path": "canon/arcos/preparacion-del-viaje-guia-dm.md",
+      "before_sha256": "a174af0c2832f54ab6e5e577306434879228b82d2ac4d78545647cfc2b3bc896",
+      "after_sha256": "f4f327135ef3a979902880d4bb0dcec62e0d9df6d054a357fce89b9a1c9b3d75"
+    },
+    {
+      "path": "herramientas-campana/mazo-de-drix/bases-testing.md",
+      "before_sha256": "fb023134f44e71d6733ea8e0183f83a739060d2ea2e28df43c1dc986b29de9ce",
+      "after_sha256": "4b32eec5492dd4b9ba37aefad6af6b43ef3229b1edcf87775558efd753d0fceb"
+    },
+    {
+      "path": "herramientas-campana/mazo-de-drix/README.md",
+      "before_sha256": "f65dc0f7036e25fdb55730c6a19acb7c33751e0cf6f4da2c1c3ae4b53f5cee47",
+      "after_sha256": "02902f36450d844df2036c7e47a44a624bd6e0e4e27db00a878de426fce619e3"
+    },
+    {
+      "path": "herramientas-campana/viajes/cotejo-expediciones-y-decisiones.md",
+      "before_sha256": "063802ff8c40f832cab487310d6ba2440890092bb8b6171d733f740b08fae3af",
+      "after_sha256": "42868c442b8da1140d56814f70f9ccf79b164319291acb04f9e3856e5431efd7"
+    },
+    {
+      "path": "herramientas-campana/viajes/revision-playtest-preparacion-2026-10-12.md",
+      "before_sha256": "02f0a1677632089d341e36eb365936f4b35d9b27f00658ab7ac16bd56ca17311",
+      "after_sha256": "a1374b11458ae6e1fef02d61f92eb66040194d911c9cb126031faba271c1b4e9"
+    },
+    {
+      "path": "_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/README.md",
+      "before_sha256": null,
+      "after_sha256": "5554e3cfb5d24b31eff99fb90180adcf04ae51d9e730daf72a444223c8ff8429"
+    },
+    {
+      "path": "_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/README-viajes-pre-v1.4.md",
+      "before_sha256": null,
+      "after_sha256": "486a1ef43bfa7c3fe97d7deb69701faa142946151b0a8b46c4762563a61db81b"
+    }
+  ]
+}

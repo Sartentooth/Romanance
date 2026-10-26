@@ -1,10 +1,10 @@
 # Estructura de campaña
 
-**Versión documental:** 1.2 local · **Fecha:** 2026-10-11 · **Estado:** CANON EN CONSOLIDACIÓN. Estructura y dirección confirmadas; acontecimientos futuros en desarrollo.
+**Versión documental:** 1.3 local · **Fecha:** 2026-10-26 · **Estado:** CANON EN CONSOLIDACIÓN. Estructura y dirección confirmadas; acontecimientos futuros en desarrollo.
 
 ## Secuencia vigente
 
-1. **Preludio — 434 D.R.** Antecedentes jugados registrados en la [cronología](./cronologia-preludio-campana-i.md) y los resúmenes de sesiones.
+1. **Saga de Preludios — 434 D.R.** Tres crónicas en orden: **La aldea que no fue**, **El enigma de las 4 estatuas** y **El quinto Juramento**. La tercera cierra esa saga; no es el final de la campaña. Antecedentes jugados registrados en la [cronología](./cronologia-preludio-campana-i.md) y los resúmenes de sesiones.
 2. **Primera trilogía — Las Crónicas de Rheem, el ciclo de Romanance.** Comienza en 435 D.R. Establece el tono y las bases del mundo: continentes, problemas, antagonistas, PNJs y lore que la party irá descubriendo. Conserva la estructura de la Biblia: Arco I — Los Aurelianos; Arco II — El Culto Lunar; Arco III — La Luna Fragmentada. El arco final de esta trilogía transcurrirá en **Aldenor**, como cierre del ciclo de descubrimientos. Su desarrollo concreto sigue abierto y se construye a medida que avanza el mundo.
 3. **Segunda trilogía — intención de desarrollo, aún sin armar.** A partir del cierre anterior llega el grueso de la campaña. El autor pretende elevar el tono y llevar a la mesa las diatribas filosóficas ya establecidas en el canon. No se asignan títulos ni acontecimientos a sus tres arcos.
 
@@ -29,7 +29,7 @@ La Biblia denominaba «Convergencia» a una segunda minicampaña. Se preserva es
 - Aclaración directa del autor, 2026-10-10: secuencia de trilogías, cierre en Aldenor, dirección filosófica y desenlace condicionado por la party.
 - [Biblia, sección 13](<../../_archivo/canon-obsoleto/biblia-y-cronicas-2026-10-11/Biblia_de_Romanance_Canon_Base.md>): nombres de la primera trilogía y planificación anterior.
 - [Crónicas antiguas](<../../_archivo/canon-obsoleto/biblia-y-cronicas-2026-10-11/CRÓNICAS DE ROMANANCE.md>): cinco bloques preservados como material de lore.
-- [Consolidado de plots, sección 9](<../../data/archivos md/Romanance_Consolidado_Plots_Sesiones_Arco_I.md>): reemplazo de sesiones fijas por fases.
+- [Consolidado de plots, sección 9](<../../_archivo/fuentes-historicas/plots-arco-i-2026-10-26/Romanance_Consolidado_Plots_Sesiones_Arco_I.md>): reemplazo de sesiones fijas por fases.
 
 C02 resuelto en cuanto a arquitectura y duración. Desarrollar Aldenor, la segunda trilogía y el desenlace son tareas creativas futuras, no contradicciones que obliguen a completar contenido ahora. Las fuentes siguen intactas y sin mover; este documento no consolida todo su lore.
 

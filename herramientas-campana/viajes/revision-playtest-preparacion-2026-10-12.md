@@ -6,7 +6,7 @@
 
 [Transcripción automática completa](../../data/transcripciones/romanance-preludio-del-viaje/transcripcion-automatica.md), de la grabación «Romanance preludio del viaje.m4a», duración 02:32:25. La fecha de esta revisión no fija la fecha de juego ni la cronología interna.
 
-Análisis centrado por petición del autor en la organización del viaje. Se consultaron las reglas [Viajes v1.3, revisión documental 1.3.2](./sistema-universal-v1.3-testing.md) y la [guía de preparación v0.6](../../canon/arcos/preparacion-del-viaje-guia-dm.md). Los gremios se consideran aquí como fuentes de información y oportunidades, sin evaluar su progresión económica.
+Análisis centrado por petición del autor en la organización del viaje. Se consultaron las reglas [Viajes v1.3, revisión documental 1.3.2](<../../_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/sistema-universal-v1.3-testing.md>) y la [guía de preparación v0.6](../../canon/arcos/preparacion-del-viaje-guia-dm.md). Los gremios se consideran aquí como fuentes de información y oportunidades, sin evaluar su progresión económica.
 
 El análisis se basa en texto reconocido automáticamente, sin cotejo auditivo independiente. No identifica hablantes de manera fiable y confunde nombres, cifras y palabras. Los tiempos permiten localizar los pasajes. Se distinguen decisiones expresadas, propuestas discutidas e inferencias del análisis. Este documento no modifica el canon, las reglas ni el inventario de los personajes.
 

@@ -150,7 +150,7 @@ La party aún desconoce la Orden de Bibliotecarios y el Culto Lunar; Jarsag y Kh
 
 **Fuente principal:** [El_Silente_Canon_Romanance-2.md](<../../_archivo/fuentes-historicas/consolidados-2026-10-14/El_Silente_Canon_Romanance-2.md>), versión interna **1.0**; el sufijo del archivo no significa versión 2. La fuente declara que reemplaza `El_Silente_Canon_Romanance.md` y `El_Silente_canon_y_enfoque_en_el_mundo`, ausentes por consolidaciones anteriores según el autor. No se reconstruyen esos archivos.
 
-**Precisiones:** [Biblia, §§4–6](<../../_archivo/canon-obsoleto/biblia-y-cronicas-2026-10-11/Biblia_de_Romanance_Canon_Base.md>), [consolidado general, §§9–11](<../../data/archivos md/Romanance_Consolidacion_Canon_2026-10-04.md>) y [plots del Arco I](<../../data/archivos md/Plots_y_Arcos_Arco_I_Aurelianos.md>).
+**Precisiones:** [Biblia, §§4–6](<../../_archivo/canon-obsoleto/biblia-y-cronicas-2026-10-11/Biblia_de_Romanance_Canon_Base.md>), [consolidado general, §§9–11](<../../data/archivos md/Romanance_Consolidacion_Canon_2026-10-04.md>) y [plots del Arco I](<../../_archivo/fuentes-historicas/plots-arco-i-2026-10-26/Plots_y_Arcos_Arco_I_Aurelianos.md>).
 
 La formulación de la fuente «única Inteligencia relevante» se conserva con su alcance narrativo; no se amplía a negar la existencia de las Inteligencias Encarnadas ni se modifica su especie o clase. Sus fundamentos están consolidados en [Inteligencias Encarnadas y Hierofante](./inteligencias-encarnadas-y-hierofante.md). Las especificaciones de diseño allí abiertas se difieren al desarrollo propio; no falta trasladar el anexo para disponer de esos fundamentos.
 

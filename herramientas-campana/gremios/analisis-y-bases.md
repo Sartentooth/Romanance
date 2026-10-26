@@ -2,6 +2,9 @@
 
 **Versión:** 0.10 documental · **Fecha:** 2026-10-10 · **Estado:** EN DESARROLLO. Nombre de trabajo; análisis solicitado, no reglamento definitivo ni propuesta íntegramente aprobada.
 
+
+> **Precedencia — 2026-10-19:** este análisis conserva propuestas y decisiones anteriores. La [guía funcional posterior](./guia-funcional.md) prevalece para rangos, PX/reputación, grupos, cobro, acceso y sanciones. Crecimiento cuantitativo, d20 y Bastiones son desarrollo pospuesto, no requisitos ni reglas operativas vigentes.
+
 [Canon institucional de Romanance](../../canon/lore/gremios.md) · [Moneda](../../canon/lore/moneda-la-luz.md) · [Manifiesto](../../INDICE_CANON.md).
 
 ## Nota de uso — incluir en la versión final

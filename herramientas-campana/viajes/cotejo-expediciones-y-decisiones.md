@@ -50,7 +50,7 @@ Recomendación de diseño: aumentar, si luego se decide, decisiones y consecuenc
 
 ## Resolución posterior del autor
 
-Las cinco ideas prioritarias quedan autorizadas e implementadas en [Viajes 1.3](./sistema-universal-v1.3-testing.md): preparación participativa, rutas informadas, lugares clave, desvíos jugables y retirada/retorno. Suministros y otras propuestas no se adoptan. Deseo torcido queda recuperado como concepto en [bases de Drix](../mazo-de-drix/bases-testing.md); no existe aún carta final. Criterio de desgracias resolubles aprobado para testing.
+Las cinco ideas prioritarias quedan autorizadas e implementadas en [Viajes 1.3](<../../_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/sistema-universal-v1.3-testing.md>): preparación participativa, rutas informadas, lugares clave, desvíos jugables y retirada/retorno. Suministros y otras propuestas no se adoptan. Deseo torcido queda recuperado como concepto en [bases de Drix](../mazo-de-drix/bases-testing.md); no existe aún carta final. Criterio de desgracias resolubles aprobado para testing.
 
 
 ## Cierre del cotejo — decisión del autor

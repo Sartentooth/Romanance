@@ -1,0 +1,33 @@
+{
+  "fecha": "2026-10-24",
+  "decision": "Ampliar la regla general de Motivación a fallos de hasta 5 puntos, gastando la diferencia disponible",
+  "snapshot_sha256": "16027315ecb834d51eb46c23ce75e2a465233e1f50a4d3c27064ab9e4689af48",
+  "files": [
+    {
+      "path": "herramientas-campana/viajes/sistema-universal-v1.3-testing.md",
+      "before_sha256": "16027315ecb834d51eb46c23ce75e2a465233e1f50a4d3c27064ab9e4689af48",
+      "after_sha256": "919fee0d3c88885a627bdf903acb482c916f65af0d393c179823b4d6814f17d4"
+    },
+    {
+      "path": "herramientas-campana/viajes/README.md",
+      "before_sha256": "44276f365520c2826da1506fe8de1039236a6706f14b2d7649d142173094b3d3",
+      "after_sha256": "50663dd28cd07976ece2d918b1b7f7158ef4120f6797512b95b6031617c71ed3"
+    },
+    {
+      "path": "INDICE_CANON.md",
+      "before_sha256": "3da4def5f9d9cf3c5af1a7c5c757aa7f369304e779bcef244b03a30fa8769079",
+      "after_sha256": "350d4c1621e31244c67f0cb40f6bb6eaedd4f0092e32a49807e772071d568d59"
+    },
+    {
+      "path": "ESTADO_FASE_1.md",
+      "before_sha256": "1a905abbd90c2362e5af1d94f28e7fce4788624fcd0e659a87e6c0cb349238a4",
+      "after_sha256": "801516d2f2cd1f2618f9cbe5c37889e8efc7de52afcdec3a18b13763d54f564f"
+    }
+  ],
+  "verified": {
+    "new_rule_present": true,
+    "old_rule_replaced": true,
+    "snapshot_hash_unchanged": true,
+    "newlines_normalized": true
+  }
+}

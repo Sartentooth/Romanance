@@ -1,6 +1,8 @@
-# Preludio — El Quinto Juramento
+# Preludios — El quinto Juramento
 
-**Versión documental:** 1.0 local · **Fecha:** 2026-10-06 · **Estado:** CANON CERRADO para este resumen de lo jugado. No sustituye las transcripciones completas ni consolida reglas para reutilizar el dungeon.
+**Saga de Preludios · crónica 3 de 3.** Título y orden confirmados por el autor el 2026-10-26; [identidad editorial](../../README.md#identidad-editorial-y-saga-de-preludios). El cuerpo conserva los hechos ya consolidados.
+
+**Versión documental:** 1.1 local · **Fecha:** 2026-10-26 · **Estado:** CANON CERRADO para este resumen de lo jugado. No sustituye las transcripciones completas ni consolida reglas para reutilizar el dungeon.
 
 **Autoridad:** crónica de jugadores y aclaraciones directas del autor. Preludio de 434 D.R.; cuatro integrantes de Rheem presentes: Corwin (Kvothe en la fuente), Anic, Jantry y Elián.
 

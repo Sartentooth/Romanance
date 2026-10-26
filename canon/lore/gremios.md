@@ -1,6 +1,6 @@
 # Gremios de Romanance — decisiones vigentes
 
-**Versión documental:** 1.16 local · **Fecha:** 2026-10-14 · **Estado:** CANON EN CONSOLIDACIÓN. Decisiones expresas del autor conservadas; reparto económico aclarado; detalles operativos y resto del reglamento abiertos.
+**Versión documental:** 1.17 local · **Fecha:** 2026-10-19 · **Estado:** CANON EN CONSOLIDACIÓN. Afiliación, rangos, PX/reputación y contratos actualizados; desarrollo institucional pospuesto.
 
 [Romanance](./romanance.md) · [Análisis del sistema](../../herramientas-campana/gremios/analisis-y-bases.md) · [Borrador histórico archivado](<../../_archivo/borradores/gremios-2026-10-14/Gremios_de_Romanance.md>) · [Manifiesto](../../INDICE_CANON.md).
 
@@ -16,30 +16,37 @@ Los gremios cumplen una función económica y social en el mundo y ofrecen ganch
 
 **Aventureros del gremio:** se incorporan mediante el encargo de admisión y los requisitos ya definidos para esta vía. A ellos corresponden los rangos, padrinazgo, pagos y reglas de encargos; no se les exige poseer tierras, barco o capital profesional para colaborar como aventureros. No se trasladan automáticamente esas reglas de remuneración a los ingresos de quienes ejercen el oficio.
 
-La propuesta de sustituir los requisitos profesionales por un encargo queda descartada: los requisitos tienen destinatarios diferentes. El nivel institucional y su evaluación anual se documentan en la herramienta enlazada; no equivalen al rango de un aventurero. La posible participación de una misma persona por ambas vías no recibe aquí reglas adicionales.
+La propuesta de sustituir los requisitos profesionales por un encargo queda descartada: los requisitos tienen destinatarios diferentes. El crecimiento institucional y su evaluación se documentan como desarrollo pospuesto en la herramienta enlazada; no equivalen al rango de un aventurero. La posible participación de una misma persona por ambas vías no recibe aquí reglas adicionales.
 
-## Afiliación y progresión de aventureros — autor, 2026-10-10
+## Afiliación y encargos — consolidado del autor, 2026-10-19
 
-- Se prevén **al menos tres niveles**, llamados provisionalmente básico, medio y avanzado. El autor no quiere nombres definitivos basados en colores, metales o categorías habituales. «Carnet» es también denominación provisional.
-- Para ingresar y obtener acreditación se realiza un encargo; al superarlo se admite al aspirante como básico, con un coste de **10 PP o 1 PO** (PP aquí significa piezas de plata).
-- El ascenso se gana mediante encargos cumplidos, buena reputación y padrinazgo. Para pasar de básico a medio, apadrina alguien que ya tenga ese acceso. No se fija un número automático de encargos ni un cupo numérico de miembros.
-- El autor indica **10 PO para medio y 100 PO para avanzado**, en el contexto de costes de acceso/ascenso. No se convierten por inferencia en cuotas mensuales recurrentes.
-- El afiliado cobra **10% en básico, 35% en medio y 50% en avanzado** del valor del encargo. Ejemplo confirmado: 300 PO producen pagos de 30, 105 y 150 PO respectivamente. Son remuneraciones, no retenciones ni bonificaciones adicionales.
-- Si se registra un grupo, el pago corresponde al **grupo entero**, no a cada integrante. En un encargo individual, el PJ registrado cobra y decide si comparte con quienes lo ayudaron. No se fija un reparto igualitario obligatorio ni una fórmula para grupos de rangos mezclados.
-- El autor fija un mínimo de **1 PP de pago en el porcentaje más bajo** para encargos menores. No se interpreta como 1 PP por miembro de un grupo. Quedan por precisar redondeos y aplicación del mínimo al contrato.
-- El reparto con colaboradores puede sumar o restar reputación como idea del autor; no tiene todavía puntuaciones ni consecuencias automáticas. La referencia inicial a liquidación mensual no determina por sí sola el momento efectivo del cobro de cada encargo.
+Reglas operativas en la [guía funcional](../../herramientas-campana/gremios/guia-funcional.md), procedentes del [consolidado del 19 de octubre](../../data/archivos%20md/Romanance_Sistema_Gremios_Aventureros_Consolidado.md). Se distinguen afiliación aventurera, oficio y cargos internos.
 
-- Los afiliados eligen entre encargos disponibles **dentro de su acceso**. El rango habilita su propio nivel y los inferiores: básico accede a básicos, medio a básicos y medios, avanzado a todos. Tomar un encargo inferior no es infracción. Las mejores ganancias son un incentivo para buscar encargos de mayor rango, sin obligar a hacerlo.
-- La multa por actuar fuera de rango se refiere a encargos **por encima del acceso autorizado**; reincidir implica expulsión. El reingreso queda a decisión del DM. El importe de multa y el tratamiento de dificultades inesperadas siguen sin definir.
-- Como opción de implementación, el afiliado muestra el carnet o identificación y quien entrega los encargos ofrece los que corresponden a su acceso. El DM puede decidir cómo aplicar ese control; no se impone una escena administrativa en cada ocasión.
-- Cuando los afiliados se consideran preparados para ascender, **pueden solicitarlo junto a su padrino**. Se mantienen trabajo, encargos cumplidos y buena reputación como bases de progreso. Solicitarlo no establece un ascenso automático ni un número fijo de encargos.
+| Rango definitivo | PX/reputación acumulados para aspirar | Tasa de ingreso/ascenso | Pago al titular |
+|---|---:|---:|---:|
+| Aprendiz | 0 iniciales | 1 PO (10 piezas de plata) | 10 % |
+| Oficial | 25 | 10 PO | 35 % |
+| Maestro | 50 | 100 PO | 50 % |
 
+El ingreso requiere tarea o prueba pertinente. Alcanzar un umbral permite solicitar ascenso: requiere historial, evaluación favorable, padrino con acceso al rango y tasa; la gestión suele llevar aproximadamente un día. Los PX no se gastan al ascender y su pérdida posterior no causa descenso automático.
 
-## Grupos mixtos — responsabilidad confirmada por el autor
+PX y reputación constituyen **un único saldo por titular y gremio**, distinto de la experiencia de nivel de D&D. Un éxito concede de 1 a 5 PX según dificultad; el fracaso resta exactamente lo que habría otorgado. El saldo puede ser negativo. No se fija una tabla adicional por conducta.
 
-Un afiliado avanzado puede registrar un encargo habilitado para su rango y llevar afiliados básicos o de menor rango como colaboradores. **El avanzado asume la responsabilidad si algo sale mal; el gremio no se hace cargo.** Esta colaboración no equivale a que el afiliado de menor rango tome por su cuenta un encargo superior a su acceso.
+El titular acepta encargos de su rango o inferiores y puede llevar acompañantes de cualquier rango, gremio o sin afiliación. Solo el titular recibe el pago y el cambio de PX. Decide cómo compartir lo cobrado. Un titular de rango superior es responsable si algo sale mal y el gremio no se hace cargo; no se fijan indemnizaciones por inferencia.
 
-La aclaración resuelve la participación de rangos inferiores bajo responsabilidad del avanzado. No fija indemnizaciones, garantías, deudas, sanciones adicionales ni un reparto económico obligatorio; no se inventan esas condiciones. Tampoco se extiende esta exención a todos los encargos ordinarios del gremio.
+El grupo registrado es un titular propio con rango y saldo independientes de los de sus miembros: no se multiplican ni duplican pagos o PX. Un PJ Maestro puede integrar un grupo Aprendiz. Un encargo acredita únicamente al titular que figure en el contrato.
+
+El gremio paga al verificar la prueba acordada, sin cierre mensual. Los hallazgos no reclamados por contrato quedan a disposición de los aventureros. Sobre 300 PO, corresponden 30/105/150 PO al titular, individual o grupal. Se conserva el mínimo anterior de **1 pieza de plata** para el porcentaje inferior; su aplicación y los redondeos siguen sin precisar.
+
+El sistema no ofrece al titular contratos superiores a su acceso: queda reemplazada la multa automática como procedimiento habitual. Acompañar a otro titular o aceptar trabajos privados no constituye esa infracción ni genera PX gremiales automáticamente. Faltas graves o fracasos reiterados pueden tener consecuencias según hechos y DM; una dificultad inesperada no constituye por sí sola una falta.
+
+La afiliación es opcional. Los progresos no se transfieren entre gremios. El rango ofrece contactos, recursos e información según ficción y autorizaciones, sin bonos numéricos automáticos ni acceso irrestricto. No concede por sí solo un cargo interno ni los beneficios profesionales del oficio.
+
+## Participación institucional — desarrollo pospuesto
+
+Un Maestro puede optar a cargos. Gran Maestre es reconocimiento personal y prestigio gremial, puede haber varios y no concede votos adicionales ni equivale automáticamente a director. Puede aspirar a dirigir o fundar un gremio sujeto a autoridades y circunstancias; no se mecaniza ahora.
+
+La evaluación institucional es anual en la ficción o cuando el DM lo considere conveniente. Niveles numéricos, umbrales, mejoras edilicias y adaptación de Bastiones quedan pospuestos; las ideas cuantitativas anteriores no forman parte del circuito funcional actual.
 
 ## Gremio Minero y Lunargenta — corrección de canon
 
@@ -135,7 +142,7 @@ No se deducen cobros dobles, carnets adicionales, reparto de comisiones entre in
 
 Los beneficios profesionales corresponden a quienes participan del oficio. Los aventureros acceden a encargos y recursos habilitados por su carnet; su afiliación no concede automáticamente todas las ventajas profesionales. Los cargos internos tienen accesos y responsabilidades propios, con la distinción ya confirmada para Bibliotecarios.
 
-Descuentos, tarifas preferentes y prioridades se conservan sin porcentajes nuevos: dependen de los acuerdos del gremio con los prestadores. El rescate y la mediación son ayudas que el gremio puede prestar, no una garantía de rescate ni una asunción automática de consecuencias del encargo. Esto no revoca la responsabilidad del avanzado en los grupos mixtos. Tampoco elimina el fondo minero para accidentes laborales, que pertenece al ámbito profesional.
+Descuentos, tarifas preferentes y prioridades se conservan sin porcentajes nuevos: dependen de los acuerdos del gremio con los prestadores. El rescate y la mediación son ayudas que el gremio puede prestar, no una garantía de rescate ni una asunción automática de consecuencias del encargo. Esto no revoca la responsabilidad del titular de rango superior en los grupos mixtos. Tampoco elimina el fondo minero para accidentes laborales, que pertenece al ámbito profesional.
 
 | Gremio | Beneficios conservados y alcance |
 |---|---|

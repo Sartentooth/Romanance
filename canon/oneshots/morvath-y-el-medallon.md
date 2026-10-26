@@ -1,6 +1,8 @@
-# Preludio — Morvath y el medallón
+# Preludios — La aldea que no fue
 
-**Versión documental:** 1.1 · **Fecha:** 2026-10-14 · **Estado:** CANON EN CONSOLIDACIÓN.
+**Saga de Preludios · crónica 1 de 3.** Título y orden confirmados por el autor el 2026-10-26; [identidad editorial](../../README.md#identidad-editorial-y-saga-de-preludios). El cuerpo conserva los hechos ya consolidados.
+
+**Versión documental:** 1.2 · **Fecha:** 2026-10-26 · **Estado:** CANON EN CONSOLIDACIÓN.
 
 Resumen del resultado de esta campaña, separado de las alternativas de diseño del módulo. Complementa la [ficha narrativa](../pnjs/morvath.md) y el [diseño consolidado del módulo](../../modulos/morvath-y-el-medallon.md).
 

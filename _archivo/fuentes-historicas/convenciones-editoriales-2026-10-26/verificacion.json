@@ -1,0 +1,51 @@
+{
+  "date": "2026-10-26",
+  "files": [
+    {
+      "path": "README.md",
+      "previous_sha256": "7b4a289390acaf9a8a5918af4de541f824e2d0124cf97fb904465841f3290274",
+      "current_sha256": "2ada132872aad6a5619044beb64b3e47554f9bdc5512d3252943f0626e70ae88"
+    },
+    {
+      "path": "canon/oneshots/morvath-y-el-medallon.md",
+      "previous_sha256": "833d114d07a568d20de8331675bf443ce72af85bd56545a9473e1bda13d9e141",
+      "current_sha256": "c326437e382412f5c0354174d4b295924759055d230cb5e6140ec18ab2e22d0d"
+    },
+    {
+      "path": "canon/oneshots/cuatro-estatuas.md",
+      "previous_sha256": "090d9011217e5308d675a22fdb0d22d5380e6f42f1c8219c01f481c4a7d8ad0c",
+      "current_sha256": "f063950b9df24c0b7f56880f897de6c5d32922e95081f80f721f4698857cb10f"
+    },
+    {
+      "path": "canon/oneshots/quinto-juramento.md",
+      "previous_sha256": "3fced0523d1612fe4c1b7a91dc18deab3de014dd401c916dcf5b8410c5117499",
+      "current_sha256": "100cc27475949943b2b9ff2be15b9dfb030611b300aa87034d65c7d778e4744f"
+    },
+    {
+      "path": "canon/arcos/estructura-de-campana.md",
+      "previous_sha256": "47b1f22cde58924bc203dac232e9df42d15eeb3b00dd0f8d34f144484b76dc96",
+      "current_sha256": "20cf900cc63e4e51f1922375cde0aa72c3e35fd1835824c0321c7f696edca458"
+    },
+    {
+      "path": "INDICE_CANON.md",
+      "previous_sha256": "c47fa0c70d269419a01bb7370100e9ba67a36bccec356e629d3705c9d96de4a5",
+      "current_sha256": "588f8baac3fc5bc0e01ebbb13e0cbc8873256ac75a44dba5c8e646729e71f9aa"
+    },
+    {
+      "path": "REVISION_COMPILADOS_GENERALES_2026-10-19.md",
+      "previous_sha256": "24cb9374794c1e6a39a25289d533b87580393b0742beb668c32a361164d92e00",
+      "current_sha256": "3549179477a2500da135769536a869c3f98dcf7dec253ec48272f59c78b00269"
+    },
+    {
+      "path": "ESTADO_FASE_1.md",
+      "previous_sha256": "34cce1fa6b1198cff6724334af8849a72e7489ac20197d3004d5ef4040f2e4d0",
+      "current_sha256": "2b15a4ffea94c69104a14cc39ffd917b1fed1ea64833cb940e4b3134c78ad99f"
+    },
+    {
+      "path": "PLAN_MIGRACION_FASE_1.md",
+      "previous_sha256": "07e13bb5684e7f8426e2ce0f4438a473843107d978a3f10662c1f9638596c201",
+      "current_sha256": "c35a82204de9eae24d612e6e74cb67c509135c4be6c49150f916e6572bd856d0"
+    }
+  ],
+  "scope": "Solo identidad editorial, orden de saga y referencias documentales. Sin modificaciones de imágenes u originales."
+}

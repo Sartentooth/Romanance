@@ -1,7 +1,7 @@
 # Índice de canon — manifiesto documental
 
-**Las Crónicas de Rheem - El Ciclo de Romanance** · D&D 5.5e (2024).  
-**Versión del manifiesto:** 1.111 · **Fecha:** 2026-10-17 · **Estado:** CANON EN CONSOLIDACIÓN.
+**Las Crónicas de Rheem** · **El ciclo de Romanance** · D&D 5.5e (2024).
+**Versión del manifiesto:** 1.124 · **Fecha:** 2026-10-26 · **Estado:** CANON EN CONSOLIDACIÓN.
 
 **Consulta rápida vigente:** [Estado operativo de Fase 1](./ESTADO_FASE_1.md). Las tablas fechadas de abajo conservan el historial; los cierres posteriores prevalecen sobre sus estados anteriores.
 
@@ -131,7 +131,7 @@ En «qué reemplaza», un reemplazo declarado no significa que la fuente antigua
 | [instrucciones-proyecto.md](<./data/archivos md/instrucciones-proyecto.md>) | Sin versión explícita | PENDIENTE | — | Instrucciones de publicación futura, subordinadas a Fase 1; candidato histórico. |
 | [mazo_de_drix.md](<_archivo/fuentes-historicas/mazo-drix-2026-10-14/mazo_de_drix.md>) | v0.1 Testing / nombre posterior Drix | EN DESARROLLO | Mazo de Fogón como nombre anterior en el mismo archivo | Diseño independiente; mayoría de cartas autosuficientes; C19. |
 | [Moneda_de_romanance_la_luz.md](<_archivo/fuentes-historicas/consolidados-2026-10-14/Moneda_de_romanance_la_luz.md>) | 1.0 limpia y fusionada | CANON EN CONSOLIDACIÓN | Moneda_De_Romanance___La_Luz__versión_Definitiva_.docx; moneda_de_romanance_conversiones (ausentes) | Conversiones explícitas conservables; imágenes sin revisar. |
-| [Plots_y_Arcos_Arco_I_Aurelianos.md](<./data/archivos md/Plots_y_Arcos_Arco_I_Aurelianos.md>) | Sin número; sesión 2 integrada / pre-Fase 2 | CANON EN CONSOLIDACIÓN | Tres sesiones fijas para Arco I (reestructuración explícita) | C01 y C03 con resolución posterior en destinos activos; C07 resuelto por el autor; C02 resuelto; C14–C15, C19, C23 pendientes; mezcla preparación y hechos. Ausencia de Spriggan no excluye el reencuentro posterior según cronología activa. |
+| [Plots_y_Arcos_Arco_I_Aurelianos.md](<./_archivo/fuentes-historicas/plots-arco-i-2026-10-26/Plots_y_Arcos_Arco_I_Aurelianos.md>) | Sin número; sesión 2 integrada / pre-Fase 2 | CANON EN CONSOLIDACIÓN | Tres sesiones fijas para Arco I (reestructuración explícita) | C01 y C03 con resolución posterior en destinos activos; C07 resuelto por el autor; C02 resuelto; C14–C15, C19, C23 pendientes; mezcla preparación y hechos. Ausencia de Spriggan no excluye el reencuentro posterior según cronología activa. |
 | [PNJs_Principales_Romanance.md](<_archivo/fuentes-historicas/consolidados-2026-10-14/PNJs_Principales_Romanance.md>) | Sin versión global explícita | CANON EN CONSOLIDACIÓN | Fichas dispersas (integración parcial declarada) | Procedencia de fichas activas. C01/R04 aplicados en destino; fuente no movida por pasajes abiertos. |
 | [Reglas_Forja_Mercadeo_Pociones.md](<_archivo/fuentes-historicas/consolidados-2026-10-14/Reglas_Forja_Mercadeo_Pociones.md>) | Sin versión explícita | CANON EN CONSOLIDACIÓN | Pendientes de forja/mercadeo en PNJs/anexo | Conservada íntegra en destino activo; fuente intacta y no movida. C08 sobre Ethen resuelto por el autor. |
 | [Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md](<./data/archivos md/Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md>) | Snapshot 1.0 | PENDIENTE | — | Compilación histórica; no sustituye fuentes añadidas ni decisiones actuales. |
@@ -151,13 +151,13 @@ Recepción verificada en [RECEPCION_SEIS_CONSOLIDADOS.md](./RECEPCION_SEIS_CONSO
 | [Consolidado_Sistema_Viajes_y_Mazo_de_Drix.md](<herramientas-campana/consolidado-de-trabajo-viajes-y-drix.md>) | Viajes 1.2 Testing, mazo v0.1 histórico; consolidado sin número | EN DESARROLLO | Amplía fuentes de Viajes/Drix, no las sustituye completas | C20 acotado; SC03–SC04, Deseo torcido y máximo Motivación pendientes. |
 | [Romanance_Consolidacion_Canon_2026-10-04.md](<./data/archivos md/Romanance_Consolidacion_Canon_2026-10-04.md>) | Corte 2026-10-04; sin número | CANON EN CONSOLIDACIÓN | Nuevo snapshot de decisiones; no sustituye automáticamente el anterior | Desajustes con específicos: SC01, SC04, SC07–SC08. Advertencia de §13 sobre destrucción de la Orden superada por decisión posterior del autor (C07). Conservar procedencia. |
 | [Romanance_Consolidacion_Direccion_Visual.md](<./data/archivos md/Romanance_Consolidacion_Direccion_Visual.md>) | Sin numeración | EN DESARROLLO | Amplía evidencia CH12 | Preferencias expresas, A/B aceptados, estudios continentales pendientes. No inspección visual local nueva. |
-| [Romanance_Consolidado_Plots_Sesiones_Arco_I.md](<./data/archivos md/Romanance_Consolidado_Plots_Sesiones_Arco_I.md>) | Sin número | CANON EN CONSOLIDACIÓN | Declara reemplazo mecánico de Deren temprano por PNJs | C01 respaldado documentalmente; C23 pendiente; C24 resuelto por el autor y aplicado en cronología v1.1. Opción C de Aldren aprobada posteriormente por el autor para la sesión del viaje y aplicada en su ficha activa; §11 de esta fuente conserva su estado histórico pendiente. No descartar pasajes del plots original omitidos aquí. |
+| [Romanance_Consolidado_Plots_Sesiones_Arco_I.md](<./_archivo/fuentes-historicas/plots-arco-i-2026-10-26/Romanance_Consolidado_Plots_Sesiones_Arco_I.md>) | Sin número | CANON EN CONSOLIDACIÓN | Declara reemplazo mecánico de Deren temprano por PNJs | C01 respaldado documentalmente; C23 pendiente; C24 resuelto por el autor y aplicado en cronología v1.1. Opción C de Aldren aprobada posteriormente por el autor para la sesión del viaje y aplicada en su ficha activa; §11 de esta fuente conserva su estado histórico pendiente. No descartar pasajes del plots original omitidos aquí. |
 
 ## Cartografía, referencia externa y arte — inventario
 
 | Archivo / grupo actual | Versión | Estado | Qué reemplaza | Notas |
 |---|---|---|---|---|
-| [JSON Azgaar](<./data/Json del mapa de Azgaar/Mundo Sebas Full 2026-10-09-18-07.json>) | Azgaar 1.154.0; exportación 2026-10-09 18:07:52 Buenos Aires | PENDIENTE | Reemplaza la exportación anterior, retirada por el autor; no se conserva mapa histórico | Año 435; escala 3 km; C10–C15. No modificado. |
+| [JSON Azgaar vigente](<./data/Json del mapa de Azgaar/Mundo Sebas Full 2026-10-21-00-51.json>) | Exportación 2026-10-21, indicada por el autor | REFERENCIA CARTOGRÁFICA VIGENTE | Sustituye la exportación del 9/10 retirada por el autor; no se restaura el mapa anterior | Escala 3 km/unidad; cotejo de asentamientos del 26/10. JSON intacto; saneamiento técnico separado. |
 | [Paquete SRD local](<./data/archivos md/dnd-5e-srd-markdown-master/README.md>) | Declara SRD 5.2.1; conversión 1.0.0 | PENDIENTE (procedencia/verificación normativa) | — | Referencia externa, fuera del lore. 19 MD, LICENSE y .gitignore; preservar árbol íntegro. |
 | `arte/` y 3 recursos gráficos en D/ | Variantes nominales; versión aprobada no verificada | PENDIENTE | — | 362 archivos; inventario individual enlazado abajo. Sin evaluación visual ni movimientos. |
 
@@ -320,7 +320,7 @@ Se reutiliza [herramientas-campana](./herramientas-campana/README.md). Se crean 
 
 | Archivo | Versión | Estado | Reemplaza / alcance |
 |---|---|---|---|
-| [Viajes](./herramientas-campana/viajes/sistema-universal-v1.3-testing.md) | 1.3 local de testing | EN DESARROLLO | Revisión de trabajo de 1.2: cinco incorporaciones autorizadas, etapas flexibles, Motivación máxima 5 y nombre Drix. Fuente intacta. |
+| [Viajes](<_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/sistema-universal-v1.3-testing.md>) | 1.3 local de testing | EN DESARROLLO | Revisión de trabajo de 1.2: cinco incorporaciones autorizadas, etapas flexibles, Motivación máxima 5 y nombre Drix. Fuente intacta. |
 | [Bases Drix](./herramientas-campana/mazo-de-drix/bases-testing.md) | 1.0 documental | EN DESARROLLO | Criterio de problemas resolubles y concepto de Deseo torcido recuperado. Aún no hay cartas individuales diseñadas; ejemplos históricos no son cartas terminadas. |
 
 Fichas de ambos desarrollos v1.2. No se adopta suministros ni se copian reglas externas literalmente. No se movieron fuentes.
@@ -469,7 +469,7 @@ Las notas históricas anteriores que indicaban «aparición no aprobada» descri
 
 | Archivo | Versión / revisión | Alcance |
 |---|---|---|
-| [Viajes para testing](herramientas-campana/viajes/sistema-universal-v1.3-testing.md) | Sistema 1.3; revisión documental 1.3.1 | Clima variable entre etapas y dentro de ellas a criterio del DM; par/impar opcional. Sin intervalos obligatorios ni tabla nueva de intensidad. |
+| [Viajes para testing](<_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/sistema-universal-v1.3-testing.md>) | Sistema 1.3; revisión documental 1.3.1 | Clima variable entre etapas y dentro de ellas a criterio del DM; par/impar opcional. Sin intervalos obligatorios ni tabla nueva de intensidad. |
 | [Guía de preparación del viaje](canon/arcos/preparacion-del-viaje-guia-dm.md) | 0.3 | Primavera y cuatro biomas indicados por el autor; no fija etapas ni elección de ruta. |
 | [Ficha de Viajes](herramientas-campana/viajes/README.md) | 1.3 | Referencia a la revisión vigente y criterio meteorológico. |
 
@@ -500,7 +500,7 @@ Ambos PDF renderizados e inspeccionados visualmente. No se modifica el sistema d
 
 **APROBADAS PARA TESTING:** hoja compartida y fichas de roles v0.1. El autor las incorpora al Sistema Universal de Viajes tal como están; mejoras visuales posteriores. No es una validación de balance general ni crea efectos mecánicos nuevos.
 
-[Viajes](herramientas-campana/viajes/sistema-universal-v1.3-testing.md): revisión documental **1.3.2**. [Guía de preparación](canon/arcos/preparacion-del-viaje-guia-dm.md): **0.6**. [Ficha de Viajes](herramientas-campana/viajes/README.md): **1.5**. PDF y fuente gráfica sin cambios. Las referencias anteriores a símbolos pendientes de aprobación quedan superadas para esta prueba.
+[Viajes](<_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/sistema-universal-v1.3-testing.md>): revisión documental **1.3.2**. [Guía de preparación](canon/arcos/preparacion-del-viaje-guia-dm.md): **0.6**. [Ficha de Viajes](herramientas-campana/viajes/README.md): **1.5**. PDF y fuente gráfica sin cambios. Las referencias anteriores a símbolos pendientes de aprobación quedan superadas para esta prueba.
 
 ## Audio y revisión del playtesting de preparación — 2026-10-12
 
@@ -627,7 +627,7 @@ Tres fuentes cubiertas archivadas y dos documentos de desarrollo reubicados ínt
 |---|---|---|
 | [Alfabeto_Aureliano.md](<_archivo/fuentes-historicas/escritura-2026-10-14/Alfabeto_Aureliano.md>) | Versión original íntegra / ARCHIVADO | [Documento vigente](<canon/lore/alfabeto-aureliano.md>) según cobertura; conserva la fuente histórica. |
 | [mazo_de_drix.md](<_archivo/fuentes-historicas/mazo-drix-2026-10-14/mazo_de_drix.md>) | Versión original íntegra / ARCHIVADO | [Documento vigente](<herramientas-campana/mazo-de-drix/bases-testing.md>) según cobertura; conserva la fuente histórica. |
-| [Sistema Universal de Viajes para D&D 5.5e — Versión 1.2.md](<_archivo/fuentes-historicas/viajes-2026-10-14/Sistema Universal de Viajes para D&D 5.5e — Versión 1.2.md>) | Versión original íntegra / ARCHIVADO | [Documento vigente](<herramientas-campana/viajes/sistema-universal-v1.3-testing.md>) según cobertura; conserva la fuente histórica. |
+| [Sistema Universal de Viajes para D&D 5.5e — Versión 1.2.md](<_archivo/fuentes-historicas/viajes-2026-10-14/Sistema Universal de Viajes para D&D 5.5e — Versión 1.2.md>) | Versión original íntegra / ARCHIVADO | [Documento vigente](<_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/sistema-universal-v1.3-testing.md>) según cobertura; conserva la fuente histórica. |
 | [consolidado-de-trabajo.md](<herramientas-campana/armas-legendarias/consolidado-de-trabajo.md>) | Corte original íntegro / EN DESARROLLO | Reubicación del documento de trabajo; no se declara reemplazado, obsoleto ni reglamento final. |
 | [consolidado-de-trabajo-viajes-y-drix.md](<herramientas-campana/consolidado-de-trabajo-viajes-y-drix.md>) | Corte original íntegro / EN DESARROLLO | Reubicación del documento de trabajo; no se declara reemplazado, obsoleto ni reglamento final. |
 
@@ -654,3 +654,98 @@ Pendientes principales: pruebas reales del autor, revisión editorial y datos si
 El autor solicita Encuentros por VD/cantidad de jugadores y consulta de monstruos. Confirma usar el SRD como base suficiente y cargar manualmente cualquier criatura adicional. Se importan 330 bloques íntegros del SRD local (235 monstruos A–Z y 95 animales), elevando el catálogo a 1503 fichas. Biblioteca filtra por VD/tipo y el homebrew admite criaturas con datos de encuentro. No se busca completar el Manual de Monstruos con otras fuentes ni se incorpora canon narrativo.
 
 Encuentros implementa presupuesto PX por nivel/cantidad de PJ del SRD 2024, suma de PX de enemigos, guaridas cuando corresponda, generación filtrada y armado manual. El botín es opcional y se guarda expresamente en Loot. Se permite usar listas propias de monstruos como origen. No se incorporan iniciativa, seguimiento de PG ni gestión de campañas. Pruebas y capturas en la entrega; estado operativo 1.1, base de producto 0.5 y ficha de aplicaciones 1.7. Los textos ingleses mantienen cotejo español pendiente; fuentes preservadas y sin publicación.
+
+
+## Gremios — parte funcional aprobada para testeo, 2026-10-19
+
+Aprobación expresa del autor y aplicación del diff. [Cotejo y procedencia](./REVISION_GREMIOS_2026-10-19.md). Las menciones anteriores a nombres provisionales, multa automática por rango, momento de cobro o ausencia de umbrales quedan reemplazadas por este cierre.
+
+| Archivo | Versión / estado | Reemplaza / notas |
+|---|---|---|
+| [Guía funcional](./herramientas-campana/gremios/guia-funcional.md) | 0.1 documental / EN DESARROLLO, aprobada para testeo | Aprendiz/Oficial/Maestro; 25/50 PX; saldo único; titular individual o grupo; cobro verificado. Sustituye reglas operativas anteriores incompatibles. |
+| [Gremios de Romanance](./canon/lore/gremios.md) | 1.17 / CANON EN CONSOLIDACIÓN | Reemplaza v1.16 en el bloque operativo; conserva las nueve fichas y el lore. |
+| [Ficha de herramienta](./herramientas-campana/gremios/README.md) | 1.2 / EN DESARROLLO | Enlaza la guía vigente y el análisis anterior con precedencia explícita. |
+
+El testeo de esta versión todavía no ocurrió según la evidencia disponible; se espera el informe del autor. No se exige afiliación de toda la mesa. Se conserva el mínimo de una pieza de plata no revocado. Crecimiento institucional, cargos detallados y Bastiones continúan pospuestos; no se crean nuevas mecánicas ni interfaces. Fuente recibida y versiones previas preservadas.
+
+
+## Cotejo de compilados generales — 2026-10-19
+
+[Informe de cobertura](./REVISION_COMPILADOS_GENERALES_2026-10-19.md), v1.0: cotejados los dos cortes generales del 4/10. Matriz de 53 temas, síntesis del snapshot y sus 18 transcripciones (14 equivalentes con normalización, cuatro variantes explicadas). Se registran cierres posteriores sin reabrirlos.
+
+Las dos fuentes permanecen intactas en `data/archivos md/`. Estado: **CANON EN CONSOLIDACIÓN como fuentes de cotejo**, no autoridades que desplacen decisiones posteriores. T01–T04 localizan convenciones editoriales y matices culturales sin traslado activo completo; T05 remite al cotejo visual propio. No se declara cobertura total, no se archivan compilados ni se amplía geografía. La revisión temática de plots y otras fuentes mixtas sigue pendiente.
+
+
+## Viajes — ampliación general de Motivación, 2026-10-24
+
+Decisión expresa del autor: gastar de 1 a 5 puntos disponibles para cubrir exactamente la diferencia de un fallo con la CD; máximo compartido 5. Reemplaza el límite anterior de fallos por 1–2 puntos. [Sistema Universal de Viajes](<_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/sistema-universal-v1.3-testing.md>), revisión 1.3.4 / EN DESARROLLO y PLAYTESTING; ficha 1.8. Conserva las demás reglas del recurso. El PDF previo queda pendiente de regeneración.
+
+Audio del viaje del 23 de octubre recibido: transcripción local en proceso, no crónica validada ni evaluación cerrada. Preparación y resultados siguen separados; no se adjudican PX gremiales ni se afirma que todos los encuentros hayan ocurrido. La nueva referencia de 725 km requiere cotejo con el mapa recibido antes de reemplazar distancias activas.
+
+
+### Viajes — consecuencias de Motivación precisadas por el autor, 2026-10-24
+
+[Sistema vigente](<_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/sistema-universal-v1.3-testing.md>), revisión **1.3.5**; ficha **1.9**, EN DESARROLLO / PLAYTESTING. Gasto exacto para cubrir la diferencia con la CD: **1–2 puntos = éxito; 3–5 puntos = éxito con complicaciones o consecuencias a criterio del DM**. Solo se gasta la reserva disponible, máximo 5. Esta aclaración completa el registro anterior; gastar 3–5 no equivale a éxito limpio. No se fijan tablas de consecuencias ni se declara validada la regla en mesa.
+
+
+## Devolución inicial del viaje jugado — 2026-10-24
+
+[Registro del playtest del 23 de octubre](./herramientas-campana/viajes/revision-playtest-viaje-2026-10-23.md), v0.1, basado en la devolución directa del autor; análisis del audio pendiente. Balance positivo y eventos con dificultades bien calibradas según su valoración. Asistieron cuatro de los seis jugadores previstos. Los modificadores por bioma se usaron poco salvo al final; eso no indica que sobren.
+
+Los roles son la prioridad de ajuste por su escaso aprovechamiento. El evento principal es el momento más significativo de una etapa que abarca varios días. Se registra la propuesta de abrir oportunidades para decisiones y aportes de los jugadores en cada etapa, incluyéndola desde la preparación en mesa. Procedimiento concreto pendiente del audio; reglamento 1.3.5 sin cambios por esta devolución.
+
+
+**Devolución ampliada del viaje — 2026-10-24:** el autor destaca la sencillez de organizar por etapas y pocos eventos, opcionales salvo necesidad de dirección o relevancia. Conservar este aspecto al revisar roles y participación. El recuento final de gastos/recursos **no se realizó**; puede recuperarlo por WhatsApp o antes de iniciar la próxima sesión, junto con su devolución al grupo. [Registro del playtest v0.2](./herramientas-campana/viajes/revision-playtest-viaje-2026-10-23.md). Sin saldos inventados, mensajes enviados ni cambios mecánicos; análisis del audio pendiente.
+
+
+**Fogones, biomas y ritmo — devolución del autor, 2026-10-24:** hubo fogón en las cuatro etapas; momentos divertidos y primer testeo sólido, con margen para reforzarlo. Al final quedaron tres jugadores despiertos porque uno se durmió por cansancio. Completar listas de eventos por bioma es una prioridad: el autor valora su cohesión y coherencia. Las transiciones hacia el evento principal deben admitir aportes de los jugadores y ritmos distintos entre etapas; el resumen breve sigue siendo útil cuando corresponda. [Devolución v0.3](./herramientas-campana/viajes/revision-playtest-viaje-2026-10-23.md). Sin reglas nuevas ni resultados atribuidos al análisis del audio, aún pendiente.
+
+
+## Viajes v1.4 para testing — 2026-10-24
+
+El autor revisó el informe y autorizó aplicar sus propuestas y limpiar el reglamento. [Sistema Universal de Viajes v1.4](./herramientas-campana/viajes/sistema-universal-v1.4-testing.md), revisión **1.4.2 / EN DESARROLLO y PLAYTESTING**; [ficha](./herramientas-campana/viajes/README.md), 1.15. Reemplaza como reglamento activo v1.3.5; antecedente y PDF anterior archivados íntegros, con README previo preservado. [Cobertura](./herramientas-campana/viajes/CAMBIOS_V1.4.md).
+
+Adopta secuencia clara de etapa, decisiones de jugadores, roles como responsabilidades, apoyos descriptivos, CD legible, fogón flexible y recapitulación de destino. Conserva valores de terreno/clima y gasto de Motivación 1–2/3–5 con consecuencias. **Motivación negativa confirmada:** se recupera con buenas decisiones, cooperación o soluciones acertadas incluso sin dados, a criterio del DM; no se fija mínimo negativo ni premios automáticos. **Alcance precisado por el autor: acciones del grupo o propias de los roles de viaje, aunque tire un solo personaje; no pruebas estrictamente personales ni gasto en combate.** D02 cerrado.
+
+**Listas d100 por bioma pendientes: las aportará el autor.** Las veinte opciones reorganizadas son antecedente, no tablas finales. No se crean entradas nuevas. El primer testeo y sus apoyos están [importados con evidencia](./herramientas-campana/viajes/playtest-2026-10-23/README.md); [transcripción automática completa](./data/transcripciones/romanance-viaje-2026-10-23/README.md), sin hacerla pasar por crónica cerrada ni adjudicar PX o inventarios. v1.4 requiere una nueva prueba; audio/planos/mapa/imágenes preservados. El Markdown es la referencia vigente; sin PDF v1.4 ni publicación, commits o push.
+
+## Asentamientos de Terenor — integración del 26 de octubre
+
+| Archivo | Versión / estado | Reemplaza / notas |
+|---|---|---|
+| [Índice de asentamientos](./canon/lore/asentamientos-de-terenor.md) | 1.0 / CANON EN CONSOLIDACIÓN | Entrada única a culturas; cinco fuentes integradas y archivadas. |
+| [Itharia](./canon/lore/itharia-kelen-y-khalan.md) | 1.0 / CANON EN CONSOLIDACIÓN | Laboratorio 0.13 + consolidado: autonomía, educación, especialidades y fiestas; lagos ratificados. |
+| [Berk](./canon/lore/berk.md) | 1.0 / CANON EN CONSOLIDACIÓN | Fuente 0.4 + consolidado: provincias, ruralidad y atalayas; clan/provincia sin ratificar. |
+| [Halden/Marren](./canon/lore/halden-y-marren.md) | 1.0 / CANON EN CONSOLIDACIÓN | Fuente 0.4 + consolidado; sin guerra actual ni linaje confirmado. |
+| [Lyren/Zephyr](./canon/lore/lyren-y-conclave-zephyr.md) | 1.0 / CANON EN CONSOLIDACIÓN | Fuente 0.2 + consolidado; autoridad del Cónclave y representación civil. |
+| [Levit](./canon/lore/levit.md) | 1.0 / CANON EN CONSOLIDACIÓN | Consolidado general + resultado de Morvath; biblioteca distinta del Orco Sabio. |
+| [Puertos](./canon/lore/puertos-tomorsag-y-varsak.md) y [Krâthor](./canon/lore/krathor.md) | 1.0 / CANON EN CONSOLIDACIÓN | Función comercial/residencia limitada; aldea goliath sin cultura inventada. |
+| [Trasfondos PJ](./canon/lore/trasfondos-personajes-jugadores.md) / [relato de Elemence](./canon/lore/jantry-relato-de-trasfondo.md) | 1.6 / 1.3 | Alias actual, cadena histórica y residencias; Spriggan confirmado como grafía. |
+| [Geografía](./canon/lore/geografia-berk-kelen-khalan.md) / [cotejo técnico](./mundo/mapas/cotejo-asentamientos-2026-10-26.md) | 1.4 / 1.0 | JSON vigente 21/10, lagos 13 y 11; mapa intacto. |
+| [Dirección visual Lyren](./arte/direccion-visual/lyren-y-conclave-zephyr.md) | 1.0 / dirección conceptual | Perfil bajo; referencias localizadas; última imagen por localizar. |
+| [Hipótesis reservadas](./ideas-nuevas/terenor-hipotesis-reservadas.md) | 1.0 / EN EXPLORACIÓN | No canoniza santuarios, linaje o agresores; Heredero sin sustitución. |
+
+[Cobertura y pendientes](./REVISION_ASENTAMIENTOS_TERENOR_2026-10-26.md). La orden del autor habilita integrar este desarrollo ya realizado, sin ampliar geografía por cuenta propia. Las tablas anteriores son historial; esta entrada prevalece en versiones y cierres. Fuente cultural mixta y compilados generales aún conservados en data, sin archivo indiscriminado.
+
+## Compilados de plots del Arco I — 2026-10-26
+
+| Archivo | Versión / estado | Qué reemplaza / notas |
+|---|---|---|
+| [Sesión 1: emboscada](./canon/oneshots/arco-i-sesion-1-emboscada.md) | 1.0 / CANON DE CAMPAÑA EN CONSOLIDACIÓN | Episodio y recursos de ambos compilados; cinco muertos incluido suicida, líder fugado. |
+| [Hilos abiertos](./canon/plots-y-subplots/arco-i-hilos-abiertos.md) | 1.0 / CANON EN CONSOLIDACIÓN | Vigía, Voto, pistas y trasfondos; hechos separados de posibilidades; Maximus suspendido. |
+| [Planificación](./canon/arcos/arco-i-planificacion.md) | 1.0 / EN DESARROLLO | Fases y dependencias vigentes; preparación histórica no se vuelve crónica. |
+| [Arco I](./canon/arcos/arco-i.md) / [registro sesión 2](./canon/plots-y-subplots/arco-i-registro-y-pendientes.md) | 1.12 / 1.8 | Enlaces de entrada y alcance temporal precisado; conocimientos iniciales no ampliados por inferencia. |
+
+[Cotejo de 30 apartados, precedencia y archivo de las dos fuentes](./REVISION_PLOTS_ARCO_I_2026-10-26.md). Los compilados generales y fuentes mixtas conservan su cotejo propio pendiente; no se declara terminada toda la Fase1. Las hipótesis de santuarios y el estado del Heredero siguen bajo las decisiones posteriores del autor.
+
+## Identidad editorial y saga de Preludios — cierre T01, 2026-10-26
+
+**Título: Las Crónicas de Rheem. Subtítulo: El ciclo de Romanance.** [Referencia editorial única](./README.md#identidad-editorial-y-saga-de-preludios).
+
+| Orden en Preludios | Crónica / destino | Versión documental |
+|---|---|---|
+| 1 | [La aldea que no fue](./canon/oneshots/morvath-y-el-medallon.md) | 1.2 |
+| 2 | [El enigma de las 4 estatuas](./canon/oneshots/cuatro-estatuas.md) | 1.1 |
+| 3 y última | [El quinto Juramento](./canon/oneshots/quinto-juramento.md) | 1.1 |
+
+Nombres y orden confirmados por el autor. La saga de Preludios es distinta de los arcos de campaña posteriores; [estructura](./canon/arcos/estructura-de-campana.md), v1.3. Los títulos descriptivos anteriores en tablas de este manifiesto son historial. Archivos originales y láminas intactos, sin renombrar rutas.

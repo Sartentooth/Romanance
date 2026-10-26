@@ -237,4 +237,4 @@ Si la investigación falla, una fuente puede no tener información o dar un dato
 | | | | | | | |
 | | | | | | | |
 
-[Guía de preparación](../canon/arcos/preparacion-del-viaje-guia-dm.md) · [Sistema de Viajes](../herramientas-campana/viajes/sistema-universal-v1.3-testing.md).
+[Guía de preparación](../canon/arcos/preparacion-del-viaje-guia-dm.md) · [Sistema de Viajes](<../_archivo/fuentes-historicas/viajes-v1.3-2026-10-24/sistema-universal-v1.3-testing.md>).

@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-26",
+  "archived_sources": [
+    {
+      "file": "Itharia_Kelen_y_Khalan_Laboratorio_Cultural_v0-13.md",
+      "before": "facfe080706febbd4c0ee0fd1ad1676d87979d8b3ac1ae8817c0657cac16f3df",
+      "after": "facfe080706febbd4c0ee0fd1ad1676d87979d8b3ac1ae8817c0657cac16f3df",
+      "equal": true
+    },
+    {
+      "file": "Berk_Cultura_y_Asentamientos_v0-4.md",
+      "before": "d224e4f378bee902a1b869d1045b6f9637fbbf08b17722b7f9c8d7d5d8b3bc84",
+      "after": "d224e4f378bee902a1b869d1045b6f9637fbbf08b17722b7f9c8d7d5d8b3bc84",
+      "equal": true
+    },
+    {
+      "file": "Halden_y_Marren_Origen_y_Rivalidad_v0-4(1).md",
+      "before": "df2b9258527a255418b9cb398de686357a4d42463eb6297c5529226ace0e1476",
+      "after": "df2b9258527a255418b9cb398de686357a4d42463eb6297c5529226ace0e1476",
+      "equal": true
+    },
+    {
+      "file": "Lyren_y_Conclave_Zephyr_v0-2.md",
+      "before": "a6aafa77ed3da38a2c47a7be27b5507c5bb02a6f511f1a8c7d3556c0d8829bcc",
+      "after": "a6aafa77ed3da38a2c47a7be27b5507c5bb02a6f511f1a8c7d3556c0d8829bcc",
+      "equal": true
+    },
+    {
+      "file": "Consolidacion_General_Asentamientos_Romanance_para_Codex_2026-10-26.md",
+      "before": "22dcf514c40df246769e6fda983dcd74480bdda2637b417915781018dbe48026",
+      "after": "22dcf514c40df246769e6fda983dcd74480bdda2637b417915781018dbe48026",
+      "equal": true
+    }
+  ],
+  "map": {
+    "path": "data/Json del mapa de Azgaar/Mundo Sebas Full 2026-10-21-00-51.json",
+    "before": "5aa57b64458af4d13f5d63da484c110ef40d54db42a337071246a1f0f672d242",
+    "after": "5aa57b64458af4d13f5d63da484c110ef40d54db42a337071246a1f0f672d242",
+    "unchanged": true
+  },
+  "section_count": 57,
+  "written": [
+    "canon/lore/itharia-kelen-y-khalan.md",
+    "canon/lore/berk.md",
+    "canon/lore/halden-y-marren.md",
+    "canon/lore/lyren-y-conclave-zephyr.md",
+    "canon/lore/levit.md",
+    "canon/lore/puertos-tomorsag-y-varsak.md",
+    "canon/lore/krathor.md",
+    "canon/lore/asentamientos-de-terenor.md",
+    "ideas-nuevas/terenor-hipotesis-reservadas.md",
+    "arte/direccion-visual/lyren-y-conclave-zephyr.md",
+    "canon/lore/trasfondos-personajes-jugadores.md",
+    "canon/lore/jantry-relato-de-trasfondo.md",
+    "canon/lore/geografia-berk-kelen-khalan.md",
+    "mundo/mapas/cotejo-asentamientos-2026-10-26.md",
+    "mundo/mapas/cotejo-asentamientos-2026-10-26.json",
+    "REVISION_ASENTAMIENTOS_TERENOR_2026-10-26.md",
+    "INDICE_CANON.md",
+    "ESTADO_FASE_1.md",
+    "PLAN_MIGRACION_FASE_1.md",
+    "data/README.md",
+    "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+  ],
+  "incoming_link_changes": [],
+  "limits": [
+    "No auditoría completa de todos los chats",
+    "No modificación de imágenes, mapa o herramientas",
+    "Fuente mixta cultural no archivada",
+    "Sin staging, commits, push o rama nueva"
+  ],
+  "link_check": {
+    "checked": 543,
+    "missing": [],
+    "scope": "Documentos creados/editados en esta tanda, excluidas fuentes y snapshots históricos"
+  },
+  "source_hashes_equal": true
+}

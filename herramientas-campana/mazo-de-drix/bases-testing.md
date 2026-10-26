@@ -44,7 +44,7 @@ Las siete categorías permanecen. Se registra la propuesta del autor de doble l�
 
 Idea para después: [juego de cartas de eventos para ciudades](../../ideas-nuevas/mazo-de-eventos-para-ciudades.md), separado de Drix y todavía sin cartas diseñadas.
 
-[Viajes v1.3](../viajes/sistema-universal-v1.3-testing.md), con fogón al cierre de cada etapa; el uso del mazo fuera del fogón queda a criterio del DM. [Cotejo y decisiones](../viajes/cotejo-expediciones-y-decisiones.md). La utilidad del folio externo quedó cerrada por el autor.
+[Viajes v1.4](<../viajes/sistema-universal-v1.4-testing.md>), con fogón al cierre de cada etapa; el uso del mazo fuera del fogón queda a criterio del DM. [Cotejo y decisiones](../viajes/cotejo-expediciones-y-decisiones.md). La utilidad del folio externo quedó cerrada por el autor.
 
 [Fuente histórica del mazo](<../../_archivo/fuentes-historicas/mazo-drix-2026-10-14/mazo_de_drix.md>), preservada sin cambios. Esta revisión ordena decisiones ya tomadas; no crea cartas ni altera los efectos del lote.
 

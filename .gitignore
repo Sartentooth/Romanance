@@ -1,1 +1,44 @@
-/data/archivos md/sesión del viaje de Rheem.m4a
+# Material local de Romanance.
+/2 Desarrollo/fuentes/audios/
+/2 Desarrollo/para-borrar/
+
+# Manuales externos de consulta. Conservar el SRD oficial abierto.
+/2 Desarrollo/referencias-reglamentarias/manuales-dnd-2024/*
+!/2 Desarrollo/referencias-reglamentarias/manuales-dnd-2024/SP_SRD_CC_v5.2.1.pdf
+
+# Dependencias instaladas y entornos locales; conservar código y lockfiles.
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Cachés, modelos descargados y resultados temporales.
+.cache/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+huggingface-cache/
+whisper-models/
+whisper-runtime/
+tmp/
+coverage/
+.coverage
+*.log
+*.tmp
+*.temp
+
+# Configuración privada; permitir plantillas sin credenciales.
+.env
+.env.*
+!.env.example
+!.env.sample
+!.env.template
+
+# Archivos auxiliares del sistema y de Office.
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+
+# No excluir dist/: contiene el prototipo navegable del proyecto.

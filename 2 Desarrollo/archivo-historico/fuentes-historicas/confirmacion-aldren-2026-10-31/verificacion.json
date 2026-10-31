@@ -1,0 +1,31 @@
+{
+  "decision": "6A: era Aldren y la sesión terminó con su presentación, sin revelar todavía los misterios.",
+  "fecha": "2026-10-31",
+  "archivos": [
+    {
+      "archivo": "canon/oneshots/viaje-rheem-2026-10-23.md",
+      "sha256_previo": "db42be4415a8bfc58c158659fc68ebf58460e1c2475f744a022661b893059175",
+      "sha256_actual": "cf7511f84a45deeb07cd247e933fc75362de77f9efc21b9d7351ba9c469e2443"
+    },
+    {
+      "archivo": "herramientas-campana/viajes/playtest-2026-10-23/REGISTRO_CANDIDATO_DE_HECHOS.md",
+      "sha256_previo": "039fa4698c7ef4d68a2b6e1d80a476a3ce50afad15092a43284446eae9a4d9ed",
+      "sha256_actual": "03eb66bdc40655b86893aed8fddb81390918152dbafa30973c162ff612f4869c"
+    },
+    {
+      "archivo": "herramientas-campana/viajes/playtest-2026-10-23/ANALISIS_PLAYTEST_VIAJE_2026-10-23.md",
+      "sha256_previo": "5e15bd70f12d7e7a1154f0fcd25919df8e156ddab658fd16e8ebe7a3f8c26a98",
+      "sha256_actual": "9f6e1e564200542d0b760f9a00954532587dc173fe5592f08f1c2961b4c8a310"
+    },
+    {
+      "archivo": "canon/arcos/arco-i-planificacion.md",
+      "sha256_previo": "d2d115a5d9c171cfac869a6b3c7a632a7ea9b9be7fdab6aa90c85c79c0b86c48",
+      "sha256_actual": "6c4342202673aa672b588896351e9c315adf053a1bae564311ba3833b8510d6e"
+    },
+    {
+      "archivo": "INDICE_CANON.md",
+      "sha256_previo": "e1a3657e3a4bc01ffcf28c3079e0a6206f0f5a2726ff387883d0f593ee3a4d8a",
+      "sha256_actual": "c62a8e5c1689140dd647b3533f92ed847a8c7c69e841ddaf28de73846be33d54"
+    }
+  ]
+}

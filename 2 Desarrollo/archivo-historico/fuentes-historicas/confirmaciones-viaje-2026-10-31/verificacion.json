@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-31",
+  "decisions": [
+    "Charla de Spriggan fuera de personaje, sin conocimiento de propiedades para Rheem",
+    "4A: aljibe no reparado",
+    "5A: cruce sin pérdidas de personajes/caballos/carreta",
+    "Caída posterior Elián/Corwin ayudando al pescador: pérdida de objetos establecida; selección pendiente"
+  ],
+  "files": [
+    {
+      "file": "canon/plots-y-subplots/arco-i-registro-y-pendientes.md",
+      "before": "f258774800f52b4911780bf604333fb7bf8fdb6baf0d3a035bbf8f745fa4e85b",
+      "after": "0a63342d86c08b80411284d9ff7feea4b4062bd44f963071b5bf3ea3fd1b259c"
+    },
+    {
+      "file": "REVISION_ARCO_I_SESION_2.md",
+      "before": "8aeca8d8e15d93cf61d1f1da84bca7931cf101ec70c66f10367628eabd14759f",
+      "after": "57090cfe5fd344d1d4e472213984d63721e2a56e766f0a1a7d57fa80f92cadd0"
+    },
+    {
+      "file": "canon/plots-y-subplots/alba-de-hierro-puente-spriggan.md",
+      "before": "ee2339545b017639ad9ecada5b04ec48f242c4e36af07fe73dc6e5c8198ec603",
+      "after": "0d410cb3a42b60acca9e74a5718ac4ea683c2008e7efc258d95795534aacc370"
+    },
+    {
+      "file": "canon/oneshots/viaje-rheem-2026-10-23.md",
+      "before": null,
+      "after": "db42be4415a8bfc58c158659fc68ebf58460e1c2475f744a022661b893059175"
+    },
+    {
+      "file": "herramientas-campana/viajes/playtest-2026-10-23/REGISTRO_CANDIDATO_DE_HECHOS.md",
+      "before": "0b5f6a6237a1b40abf6170f97386cf65e46d1e7fd4c2a8b240173e20cf19a716",
+      "after": "039fa4698c7ef4d68a2b6e1d80a476a3ce50afad15092a43284446eae9a4d9ed"
+    },
+    {
+      "file": "herramientas-campana/viajes/playtest-2026-10-23/ANALISIS_PLAYTEST_VIAJE_2026-10-23.md",
+      "before": "e20fc729cd7ea60f4838f53bce720b80b14e56356c161282883cde6ccfe766c3",
+      "after": "5e15bd70f12d7e7a1154f0fcd25919df8e156ddab658fd16e8ebe7a3f8c26a98"
+    },
+    {
+      "file": "INDICE_CANON.md",
+      "before": "2db1e3169d679c3d83e72256c72b7af2e37a8eaa7739d3c1b5e6b28cf2842781",
+      "after": "e1a3657e3a4bc01ffcf28c3079e0a6206f0f5a2726ff387883d0f593ee3a4d8a"
+    }
+  ],
+  "no_inventory_debits_or_guild_rewards": true
+}

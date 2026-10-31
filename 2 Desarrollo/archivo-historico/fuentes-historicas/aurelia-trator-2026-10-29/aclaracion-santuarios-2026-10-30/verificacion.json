@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-30",
+  "decision": "A11 RESUELTO",
+  "first_sanctuary": "Aldenor, cerca de Aethragar, pico montañoso al norte de la ciudad",
+  "fifth_sanctuary": "Terenor, cerca de Romanance, localización jugada conservada",
+  "files": [
+    {
+      "path": "canon/lore/cinco-santuarios-y-custodios.md",
+      "before": "aeebe9bb052c59a8789af7ab117a5372785cdd9cc1afaa111e4ca7f7840aaf62",
+      "after": "c789320cb9954af2065fc6b888b32613137dfb91bd8c5231c19fcbf922779a21"
+    },
+    {
+      "path": "canon/lore/aurelianos.md",
+      "before": "f6b898d96b4e260a3509c867bce71ce17cd4d519778416dd162fe121d8a2cfeb",
+      "after": "fef17b6db9ca0d6f980490b87421b35bc3252b338e62a6572e69c924a5df050b"
+    },
+    {
+      "path": "canon/oneshots/quinto-juramento.md",
+      "before": "1ad38ccb161dfb759b211428112cd09e66fcf70410da69a2d9712ec67bf38b41",
+      "after": "4e0b443eac49ace071dc601bee1695dceef3b61c8e76cbbc89debc0a3ebe731d"
+    },
+    {
+      "path": "REVISION_AURELIA_TRATOR_2026-10-29.md",
+      "before": "ab77b15d94c603de738c27b2ee89cf2aadf2eb914109e8b73e474c48507e1b0f",
+      "after": "65031445346f1dd539ab76bc0369cf2637fefd97f2241381dab943a36f6c435f"
+    },
+    {
+      "path": "INDICE_CANON.md",
+      "before": "5a54c0d066aa65a00e77084bdf39a487661640add3bb792924bf144288a07247",
+      "after": "7040f4f36aab44a4737bf5bf3d456efa596b3b5dff479f432929f32ad8335dc6"
+    },
+    {
+      "path": "ESTADO_FASE_1.md",
+      "before": "199bbaca95943038acb0246e0bd69ea4c45a790aac82fdc18392869143b6668b",
+      "after": "bdd07a9beeaadc0668a32b7dfbcdc9b0dfce5bb011ecf7e9f64b96b96465b0ac"
+    },
+    {
+      "path": "PLAN_MIGRACION_FASE_1.md",
+      "before": "779e394994ec324d2fcf1b9847105f0ba3284cfe75d4682d24e77d928505f800",
+      "after": "4624533ae4fda333f34a96c517603176aa5c90c642a444899f84ada6437daaaf"
+    }
+  ],
+  "limits": "No coordenadas, nueva ubicación de otros santuarios, cambio de hechos jugados, mapas o imágenes; sin staging/commits/push."
+}

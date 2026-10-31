@@ -1,0 +1,40 @@
+{
+  "archivos_banco": 902,
+  "imagenes_decodificadas": 795,
+  "imagenes_fuera_control_26_sin_copias_conocidas": 75,
+  "imagenes_modificadas": 0,
+  "errores_imagen": [
+    "arte/referencias/90-captura-web/Pinterest_files/24266-800b5c99b662f4dc.png"
+  ],
+  "pdf_paginas": 22,
+  "pdf_imagenes_por_pagina": [
+    0,
+    0,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "nuevas_por_carpeta": {
+    "01-personajes/indumentaria-y-textiles": 35,
+    "01-personajes/indumentaria-y-textiles/Aurelianos": 6,
+    "01-personajes/siluetas-y-actitudes": 6,
+    "03-arquitectura": 28
+  }
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "source": "Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+    "section": 1,
+    "title": "Resumen ejecutivo del canon establecido",
+    "line": 11,
+    "section_sha256": "8fc1e079dd7f64fc3c5f25d78506d3ecf644b880be754edae8103ccfab7851fe",
+    "destinations": [
+      "canon/lore/aurelianos.md",
+      "canon/lore/cinco-santuarios-y-custodios.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+    "section": 2,
+    "title": "Orden histórico causal (sin adjudicar fechas)",
+    "line": 27,
+    "section_sha256": "dd39359f832571515a52818e6a91bc714f8f4b1f6163b5675c6ad51b2689ec85",
+    "destinations": [
+      "canon/lore/aurelianos.md",
+      "canon/lore/terenor-aldenor-y-aldric.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+    "section": 3,
+    "title": "Los santuarios: localizaciones y niveles de certeza",
+    "line": 39,
+    "section_sha256": "0f63a12c66fa528b8bb49823e489a8312aad8aab93812f919dec70a611bdb537",
+    "destinations": [
+      "canon/lore/cinco-santuarios-y-custodios.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+    "section": 4,
+    "title": "Luna, Lunargenta y Silente",
+    "line": 57,
+    "section_sha256": "ac8cef6393f992972f1a735e73549b46205e40aeb0c08c811996b927f8355af0",
+    "destinations": [
+      "canon/lore/el-silente.md",
+      "canon/pnjs/pnjs-principales.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+    "section": 5,
+    "title": "Cultura aureliana, biología y herencia",
+    "line": 73,
+    "section_sha256": "2e979c5bbe5ee5c8b1a6d5a8f1492bd367cf9a0fd2c3d3680a3bd83b858dc6a7",
+    "destinations": [
+      "canon/lore/aurelianos.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+    "section": 6,
+    "title": "Terenor, Aldenor, Aldric y la Hermandad de los Vigías",
+    "line": 83,
+    "section_sha256": "84bcfc44245843f368f158a8983a1e39142e57481e5ff82a05b5884279f33048",
+    "destinations": [
+      "canon/lore/terenor-aldenor-y-aldric.md",
+      "canon/plots-y-subplots/alba-de-hierro-puente-spriggan.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+    "section": 7,
+    "title": "Origen humano del Culto Lunar: corrección expresa y prioritaria",
+    "line": 107,
+    "section_sha256": "656a27967761f7e96f09d45bdf852a65f23ac03d10f0434dde0bd395b51bc423",
+    "destinations": [
+      "canon/lore/orden-de-bibliotecarios.md",
+      "canon/pnjs/morvath.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+    "section": 8,
+    "title": "Conocimiento del Director vs. personajes",
+    "line": 124,
+    "section_sha256": "e5c0d7b247696b9c97d407da953d4d1e398da6236bb4fc718b3dadbfebd4947b",
+    "destinations": [
+      "canon/lore/cinco-santuarios-y-custodios.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+    "section": 9,
+    "title": "Sustituciones explícitas y conflictos por revisar",
+    "line": 136,
+    "section_sha256": "8ce7293a0025ddd42c489210aa32f12d1ce257e38b53ea683eacddfc942fe253",
+    "destinations": [
+      "REVISION_AURELIA_TRATOR_2026-10-29.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+    "section": 10,
+    "title": "Pendientes que NO bloquean el cierre fundacional",
+    "line": 148,
+    "section_sha256": "4166d81fed2addcf15d1db47c49123edbac2329d3c200804792cf92110a33daf",
+    "destinations": [
+      "canon/lore/cinco-santuarios-y-custodios.md",
+      "canon/lore/aurelianos.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+    "section": 11,
+    "title": "Fuentes a cotejar en el proyecto local",
+    "line": 161,
+    "section_sha256": "b90974d16432fec2d1c7f0f3b8ada19f3ceef5462e6aea2e60db41401bfca638",
+    "destinations": [
+      "REVISION_AURELIA_TRATOR_2026-10-29.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+    "section": 12,
+    "title": "Solicitud operativa para Codex",
+    "line": 178,
+    "section_sha256": "d7c8c11cd5f2019897d5d156266e6825b252a51c957146cce31602d8ffbf4ced",
+    "destinations": [
+      "REVISION_AURELIA_TRATOR_2026-10-29.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Romanance_Trator_y_Nuevos_Asentamientos_Entrega_Codex_2026-10-29.md",
+    "section": 0,
+    "title": "Evitar duplicar el trabajo ya realizado",
+    "line": 8,
+    "section_sha256": "8047a9c4c42e4cce650e8e35e2025209cedc715275ff83ecfeec543618d22eae",
+    "destinations": [
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Romanance_Trator_y_Nuevos_Asentamientos_Entrega_Codex_2026-10-29.md",
+    "section": 1,
+    "title": "Archipiélago de Trator — CANON APROBADO",
+    "line": 16,
+    "section_sha256": "c04e8069f0b0b30cd053049b605f54f9c5060c7bd25c03a3f23eb2cf85dfebdc",
+    "destinations": [
+      "canon/lore/archipielago-de-trator.md",
+      "mundo/mapas/recepcion-mapa-2026-10-29.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Romanance_Trator_y_Nuevos_Asentamientos_Entrega_Codex_2026-10-29.md",
+    "section": 2,
+    "title": "Otras ciudades y poblados — acuerdos de dirección, no fichas completas",
+    "line": 72,
+    "section_sha256": "17f484b6b4f84a4c1ab2619d85f712c32890604bbb6bbc752c639733de512292",
+    "destinations": [
+      "canon/lore/asentamientos-en-desarrollo.md",
+      "canon/pnjs/sennari.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Romanance_Trator_y_Nuevos_Asentamientos_Entrega_Codex_2026-10-29.md",
+    "section": 3,
+    "title": "Instrucciones de cotejo para Codex",
+    "line": 87,
+    "section_sha256": "13bdb09f599fb87b99d89194d2efb113e4002f4d5c0a602ac848301f8ff919a2",
+    "destinations": [
+      "REVISION_AURELIA_TRATOR_2026-10-29.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  },
+  {
+    "source": "Romanance_Trator_y_Nuevos_Asentamientos_Entrega_Codex_2026-10-29.md",
+    "section": 4,
+    "title": "Exclusiones expresas",
+    "line": 95,
+    "section_sha256": "46b56ced886b8f8d589461a287ee6f26ce9ef4437930ea959883372d6851a655",
+    "destinations": [
+      "REVISION_AURELIA_TRATOR_2026-10-29.md"
+    ],
+    "treatment": "Aprobaciones a destinos; hipótesis y límites explícitos; pasajes espaciales/inseguros detenidos según matriz de precedencia; original íntegro preservado."
+  }
+]

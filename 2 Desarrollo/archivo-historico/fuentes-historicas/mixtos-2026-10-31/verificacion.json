@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-31",
+  "sources": [
+    {
+      "original": "data/archivos md/Biomas_Continentales_Romanance.md",
+      "archive": "_archivo/fuentes-historicas/mixtos-2026-10-31/Biomas_Continentales_Romanance.md",
+      "before": "c404c51c4579e6bea5a2d6d9e1aa38ddb482bb4d6fec63d5e0baecc8b0e7f241",
+      "after": "c404c51c4579e6bea5a2d6d9e1aa38ddb482bb4d6fec63d5e0baecc8b0e7f241",
+      "equal": true
+    },
+    {
+      "original": "data/archivos md/Tabla_Viaje_Continental_Romanance.md",
+      "archive": "_archivo/fuentes-historicas/mixtos-2026-10-31/Tabla_Viaje_Continental_Romanance.md",
+      "before": "2a6f41e70363d7d0470c444264c3711a42eda65c4508a1b46146e6f82fc1e14f",
+      "after": "2a6f41e70363d7d0470c444264c3711a42eda65c4508a1b46146e6f82fc1e14f",
+      "equal": true
+    },
+    {
+      "original": "data/archivos md/Culturas_y_Asentamientos_Terenor_Aldenor.md",
+      "archive": "_archivo/fuentes-historicas/mixtos-2026-10-31/Culturas_y_Asentamientos_Terenor_Aldenor.md",
+      "before": "a9ac9d5d1403cdbf432d7f76d20d3d50a13c6b1224c256953cefc9e617185686",
+      "after": "a9ac9d5d1403cdbf432d7f76d20d3d50a13c6b1224c256953cefc9e617185686",
+      "equal": true
+    },
+    {
+      "original": "data/archivos md/instrucciones-proyecto.md",
+      "archive": "_archivo/fuentes-historicas/mixtos-2026-10-31/instrucciones-proyecto.md",
+      "before": "a0d3fdf5de6be3e5b6358af623b49ec155c755215519de7857f7b432ac4d34a0",
+      "after": "a0d3fdf5de6be3e5b6358af623b49ec155c755215519de7857f7b432ac4d34a0",
+      "equal": true
+    },
+    {
+      "original": "data/archivos md/Escritura_Aureliana_Consolidacion_Chat.md",
+      "archive": "_archivo/fuentes-historicas/mixtos-2026-10-31/Escritura_Aureliana_Consolidacion_Chat.md",
+      "before": "9b24b2a0cc4194c352f6c36531ca35f0ef8bd3560b70a4cb93a9caa34844035d",
+      "after": "9b24b2a0cc4194c352f6c36531ca35f0ef8bd3560b70a4cb93a9caa34844035d",
+      "equal": true
+    },
+    {
+      "original": "data/archivos md/Romanance_Consolidacion_Direccion_Visual.md",
+      "archive": "_archivo/fuentes-historicas/mixtos-2026-10-31/Romanance_Consolidacion_Direccion_Visual.md",
+      "before": "86defdb31024d79f349fbf3a1ebf0f417fa114182be1f2120f230e3f3d29414a",
+      "after": "86defdb31024d79f349fbf3a1ebf0f417fa114182be1f2120f230e3f3d29414a",
+      "equal": true
+    },
+    {
+      "original": "data/archivos md/Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+      "archive": "_archivo/fuentes-historicas/mixtos-2026-10-31/Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+      "before": "76a16b6d49b2cdb195fa0aabf6966647e8aaa93b5a42c472a3fcc0206cf3a86e",
+      "after": "76a16b6d49b2cdb195fa0aabf6966647e8aaa93b5a42c472a3fcc0206cf3a86e",
+      "equal": true
+    },
+    {
+      "original": "data/archivos md/Romanance_Consolidacion_Canon_2026-10-04.md",
+      "archive": "_archivo/fuentes-historicas/mixtos-2026-10-31/Romanance_Consolidacion_Canon_2026-10-04.md",
+      "before": "8e4318029ff66922185e2403560a020068e347c2b26de63dd59f3c32e2f4ceeb",
+      "after": "8e4318029ff66922185e2403560a020068e347c2b26de63dd59f3c32e2f4ceeb",
+      "equal": true
+    },
+    {
+      "original": "data/archivos md/Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+      "archive": "_archivo/fuentes-historicas/mixtos-2026-10-31/Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+      "before": "cc83bb4cd2c2d75f5f32ee89d5a7768a18f3ab2e247ff8889511fd4a18dc83c6",
+      "after": "cc83bb4cd2c2d75f5f32ee89d5a7768a18f3ab2e247ff8889511fd4a18dc83c6",
+      "equal": true
+    },
+    {
+      "original": "data/archivos md/Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+      "archive": "_archivo/fuentes-historicas/mixtos-2026-10-31/Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+      "before": "12cff2d2ca1414234958b281bf7ccb7dc48a4fc138c9ad3d2114585fc3d60c71",
+      "after": "12cff2d2ca1414234958b281bf7ccb7dc48a4fc138c9ad3d2114585fc3d60c71",
+      "equal": true
+    },
+    {
+      "original": "data/archivos md/Observatorio_Velado_Canon_y_Encargos_Codex.md",
+      "archive": "_archivo/fuentes-historicas/mixtos-2026-10-31/Observatorio_Velado_Canon_y_Encargos_Codex.md",
+      "before": "c830d4d3f18baace8973fb6f240cb9e006a4d43278ae3f77fb7abeff6f62be1e",
+      "after": "c830d4d3f18baace8973fb6f240cb9e006a4d43278ae3f77fb7abeff6f62be1e",
+      "equal": true
+    }
+  ],
+  "coverage_records": 211,
+  "affected": [
+    "ESTADO_FASE_1.md",
+    "INDICE_CANON.md",
+    "PLAN_MIGRACION_FASE_1.md",
+    "RECEPCION_ESCRITURA_AURELIANA_2026-10-09.md",
+    "RECEPCION_SEIS_CONSOLIDADOS.md",
+    "REVISION_ARCO_I_SESION_2.md",
+    "REVISION_COMPILADOS_GENERALES_2026-10-19.md",
+    "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+    "REVISION_GREMIOS_2026-10-19.md",
+    "REVISION_LIMPIEZA_MIXTOS_2026-10-31.md",
+    "arte/direccion-visual/2026-10-09/Analisis-y-decisiones-de-arte-Lumenor.md",
+    "arte/direccion-visual/estado-y-decisiones.md",
+    "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md",
+    "canon/arcos/preparacion-del-viaje-guia-dm.md",
+    "canon/arte/escritura-aureliana.md",
+    "canon/lore/alfabeto-aureliano.md",
+    "canon/lore/aurelianos.md",
+    "canon/lore/el-silente.md",
+    "canon/lore/fundadores-de-romanance.md",
+    "canon/lore/geografia-berk-kelen-khalan.md",
+    "canon/lore/gremios.md",
+    "canon/lore/orden-de-bibliotecarios.md",
+    "canon/plots-y-subplots/observatorio-velado-preparacion.md",
+    "data/README.md",
+    "herramientas-campana/gremios/README.md",
+    "herramientas-campana/gremios/guia-funcional.md",
+    "herramientas-campana/viajes/README.md",
+    "modulos/criterios-editoriales.md",
+    "mundo/mapas/antecedentes-continentales-y-viajes.md",
+    "mundo/mapas/revision-cartografica.md"
+  ],
+  "incoming_links_updated": [
+    {
+      "path": "INDICE_CANON.md",
+      "links": 8
+    },
+    {
+      "path": "RECEPCION_ESCRITURA_AURELIANA_2026-10-09.md",
+      "links": 1
+    },
+    {
+      "path": "RECEPCION_SEIS_CONSOLIDADOS.md",
+      "links": 3
+    },
+    {
+      "path": "REVISION_ARCO_I_SESION_2.md",
+      "links": 1
+    },
+    {
+      "path": "REVISION_COMPILADOS_GENERALES_2026-10-19.md",
+      "links": 4
+    },
+    {
+      "path": "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "links": 3
+    },
+    {
+      "path": "REVISION_GREMIOS_2026-10-19.md",
+      "links": 1
+    },
+    {
+      "path": "arte/direccion-visual/estado-y-decisiones.md",
+      "links": 1
+    },
+    {
+      "path": "arte/direccion-visual/2026-10-09/Analisis-y-decisiones-de-arte-Lumenor.md",
+      "links": 4
+    },
+    {
+      "path": "canon/arte/escritura-aureliana.md",
+      "links": 1
+    },
+    {
+      "path": "canon/lore/alfabeto-aureliano.md",
+      "links": 1
+    },
+    {
+      "path": "canon/lore/aurelianos.md",
+      "links": 1
+    },
+    {
+      "path": "canon/lore/el-silente.md",
+      "links": 1
+    },
+    {
+      "path": "canon/lore/fundadores-de-romanance.md",
+      "links": 1
+    },
+    {
+      "path": "canon/lore/geografia-berk-kelen-khalan.md",
+      "links": 2
+    },
+    {
+      "path": "canon/lore/gremios.md",
+      "links": 1
+    },
+    {
+      "path": "canon/lore/orden-de-bibliotecarios.md",
+      "links": 1
+    },
+    {
+      "path": "herramientas-campana/gremios/guia-funcional.md",
+      "links": 1
+    }
+  ],
+  "before": {
+    "REVISION_COMPILADOS_GENERALES_2026-10-19.md": "233514b579acaa84f877402275f30de18c97df0a3e3f01f259931808f95841bd",
+    "canon/lore/alfabeto-aureliano.md": "42dc8d6ca39811c4ca3718d288c4c42df05573a09d3200cf526ed3385a5078c3",
+    "canon/arte/escritura-aureliana.md": "762d119175c424f9532a3d8947805f68aabf14ca38c061e1a09fd94898c981dc",
+    "REVISION_DIRECCION_VISUAL_2026-10-26.md": "ffd7143ae6887478852b5f9f89a4cdd4527d752a811c08818a1415742eeaa142",
+    "REVISION_GREMIOS_2026-10-19.md": "147ecbc5b5b4b6aea21a7e57e862834bb7bc51692cb63cd5afb9054200b65f61",
+    "herramientas-campana/gremios/README.md": "b1ee662aeacbcdfe593b5ee7b267db61511ee6e712414813d28a37d0276c87d8",
+    "herramientas-campana/viajes/README.md": "8c5c40f41fa20ad83f52b9df8364bfaa7281a4efee44977606b54109fe708cad",
+    "canon/arcos/preparacion-del-viaje-guia-dm.md": "f4f327135ef3a979902880d4bb0dcec62e0d9df6d054a357fce89b9a1c9b3d75",
+    "mundo/mapas/revision-cartografica.md": "bf20bc813cded2cf5e872b65b052564b7638fff726b75961b643787efe60ac44",
+    "INDICE_CANON.md": "7040f4f36aab44a4737bf5bf3d456efa596b3b5dff479f432929f32ad8335dc6",
+    "ESTADO_FASE_1.md": "bdd07a9beeaadc0668a32b7dfbcdc9b0dfce5bb011ecf7e9f64b96b96465b0ac",
+    "PLAN_MIGRACION_FASE_1.md": "4624533ae4fda333f34a96c517603176aa5c90c642a444899f84ada6437daaaf",
+    "data/README.md": "92db56448b828767116970c6d3615fddd87819c27e091d6d5c32eab2399e1758",
+    "RECEPCION_ESCRITURA_AURELIANA_2026-10-09.md": "899d382fba0384bcc82156d76ec0651b3ff42393b413c473cfccdb2d16caf7c3",
+    "RECEPCION_SEIS_CONSOLIDADOS.md": "17641d2fe72dc6c095615b4c4103e47cb4326d54cf3fa8d4f8810fbb4e383681",
+    "REVISION_ARCO_I_SESION_2.md": "6ad09108ea46164cdb6f1a54b1362b3bd4ac0e79c79252c3a97c8c756b95d068",
+    "arte/direccion-visual/estado-y-decisiones.md": "85a5cd3c1c85e595047a94770a3b2f3305434017d9356bb906a0020d410af1bb",
+    "arte/direccion-visual/2026-10-09/Analisis-y-decisiones-de-arte-Lumenor.md": "eb88bbbe75d5f0ebf6a6d987db731af10f43c4fecfb5ff8d31ef584b7d92aa27",
+    "canon/lore/aurelianos.md": "fef17b6db9ca0d6f980490b87421b35bc3252b338e62a6572e69c924a5df050b",
+    "canon/lore/el-silente.md": "49b71aa6fba1ed97ee519d9b8dcf6d86ac81fe5746e3d39508e6d4e19d1332ea",
+    "canon/lore/fundadores-de-romanance.md": "6fcbed60412251672f44dd1a7621f7978e4b31720ff97af7d428e86dfe37ef55",
+    "canon/lore/geografia-berk-kelen-khalan.md": "542f8e847176132c99f52b2fe2496317da6d6ed8a3d88727f40f8c5341874e8d",
+    "canon/lore/gremios.md": "0f5adac13dd35f2d8fd8192a3cd7f08364b29ca4caadbe3a00ccb678e4c7af27",
+    "canon/lore/orden-de-bibliotecarios.md": "307b574f15199ed684c65bfc29840008b67a2102e4734c3faa27157b8a07e046",
+    "herramientas-campana/gremios/guia-funcional.md": "e74041194ff96dcb82d1f8d94d14d3da898bd82dd019e0a228a40a34e601a2e6"
+  },
+  "original_general_hashes_equal": true,
+  "guild_source_hash_verified": true,
+  "glyph_rows_equal": 30,
+  "prepared_bodies_preserved": [
+    "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md",
+    "canon/plots-y-subplots/observatorio-velado-preparacion.md"
+  ],
+  "maps": [
+    {
+      "path": "data/Json del mapa de Azgaar/Mundo Sebas 2026-10-29-18-18.map",
+      "before": "a7fd8b04dfbc347de40f05afbcc66eb5d36f1987ac448ab3bb1cdbc8a9821841",
+      "after": "a7fd8b04dfbc347de40f05afbcc66eb5d36f1987ac448ab3bb1cdbc8a9821841",
+      "unchanged": true
+    },
+    {
+      "path": "data/Json del mapa de Azgaar/Mundo Sebas Full 2026-10-29-18-18.json",
+      "before": "266cf60a007b3d3dfe5db0e04a1a2cfec739dff85df67af305d1c952b4445456",
+      "after": "266cf60a007b3d3dfe5db0e04a1a2cfec739dff85df67af305d1c952b4445456",
+      "unchanged": true
+    }
+  ],
+  "link_check": {
+    "checked": 819,
+    "missing": [],
+    "scope": "Documentos creados/editados y referencias entrantes; excluye originales y snapshots históricos"
+  },
+  "after": {
+    "ESTADO_FASE_1.md": "90fd61ae2512cce41e7afa6c766a9eae708aec6261471e13743f6f0ac14b474b",
+    "INDICE_CANON.md": "a9504d125f675d1593e380c4ab1939176f4747cd825129572dae5deaf4a857ad",
+    "PLAN_MIGRACION_FASE_1.md": "7e98d0ef55811e68b2c075344cde2ea8ec11b94543d0e2d6a7ae19d67b8747eb",
+    "RECEPCION_ESCRITURA_AURELIANA_2026-10-09.md": "b23b9908f919f3340b49f332082261577b8993da6f0f16d58caa5ac5eab66cfa",
+    "RECEPCION_SEIS_CONSOLIDADOS.md": "a0fdd01b27bc977577071ba252d6b2dea4d548ed5dab12ea5c4edc32040d53b2",
+    "REVISION_ARCO_I_SESION_2.md": "a6b31b2f9de5cfd2f0d125b5f8fb1d440331375da282d5c904153f9134dd1e00",
+    "REVISION_COMPILADOS_GENERALES_2026-10-19.md": "ed462fa376f1b2482929640cf668ea56f2c1d6752830d163a56516b918643503",
+    "REVISION_DIRECCION_VISUAL_2026-10-26.md": "584ac1e429d8aa896d6337d14d637116bfcfdd8ad3806f8e7055b988039d985d",
+    "REVISION_GREMIOS_2026-10-19.md": "932749775b4a74c89a179da63aff90c8442c4887ea5c0cf3fef7d2c1cc64e92f",
+    "REVISION_LIMPIEZA_MIXTOS_2026-10-31.md": "d06429abfa81756c9d73e98a6d4932cb4cc5257915f0aa5ce9cb3b6d23019b2f",
+    "arte/direccion-visual/2026-10-09/Analisis-y-decisiones-de-arte-Lumenor.md": "6ba834aff93f52c122c48d23ecdfc054438963fadfec27fa10da5fe9562a76f4",
+    "arte/direccion-visual/estado-y-decisiones.md": "6947084cba4b8f1c5232f9cdb17be15347b1d387c66b58c83af606df748cdb78",
+    "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md": "32a0a936d4a30b6baa535b15d3eea4561a9ab785cc5c99cc4c08dbfd8ab414e6",
+    "canon/arcos/preparacion-del-viaje-guia-dm.md": "2586edc9da54aa8f27f52b9daa4ff73c76e5b7304dd862863183fa6c8a49c413",
+    "canon/arte/escritura-aureliana.md": "a022c7db26e3ec6d6042aa4185874cf0d024f87c6066508972ffd2dd1382c5c9",
+    "canon/lore/alfabeto-aureliano.md": "2d07daf793b5cd8240944398aa7e97a1d391794fccf8cc43e86604a06ebdfc54",
+    "canon/lore/aurelianos.md": "410feeeb0d539417a86ed88870b5b31f2a46f2c430ca4315b955ae49426c02d7",
+    "canon/lore/el-silente.md": "f06d6f58fe2470ec3ab4529cb5de0c25deac8e87a3d63e3a4b52f709ff4192a3",
+    "canon/lore/fundadores-de-romanance.md": "971eee6a068eb956a2d1d99324d0b847c9313f08b65f2b80b8580ef773d4cc38",
+    "canon/lore/geografia-berk-kelen-khalan.md": "71d738115a4b7ac2344164bbc36599bb1fb4d12d1303d47524502cb72e635bee",
+    "canon/lore/gremios.md": "f88f5b676ba1b24739afc1726f120bd66465d8bc61aac8030a43150ca1149466",
+    "canon/lore/orden-de-bibliotecarios.md": "606489ac1ac27b38e28a67b063aa746ac221f4cb1b18eef14f04b38993933a03",
+    "canon/plots-y-subplots/observatorio-velado-preparacion.md": "864a669102c897c0ac7c8f6f9d4e5ec20ba3d7ba265cc57df37f90bf466f8958",
+    "data/README.md": "854ed731c3f5f32cf611f5ba1a87491ff00a41d7188006aa7dd14b9ea6147cdf",
+    "herramientas-campana/gremios/README.md": "18206cfe210770b6950dccaf8e29d805223dc7e1f7079dac1f7841d42b611886",
+    "herramientas-campana/gremios/guia-funcional.md": "8418d0d4e225603d4c5f76827804f1e5e4220de3b6c8b19d65fa1fc8b001b9f2",
+    "herramientas-campana/viajes/README.md": "adf9029a01344bfe337797256e4df261c009fd23c9e7d375bf746abfec5401fd",
+    "modulos/criterios-editoriales.md": "a11f79650e28baed2dbc367c5f2cc63a9d6c5cce59efa083409ccbd1fb381825",
+    "mundo/mapas/antecedentes-continentales-y-viajes.md": "bcc8af93d6a4ff30093e7b2cf8f932fd92471a026545873b4ec8d9d9697b745b",
+    "mundo/mapas/revision-cartografica.md": "a3d7b2539ac039db1d2e59740c9c13991bba9459eca18f7715d547e8389a5163"
+  },
+  "final_checks": {
+    "git_diff_check_affected": "passed",
+    "original_hashes_verified": 11,
+    "remaining_loose_markdown_in_data": []
+  }
+}

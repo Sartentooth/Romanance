@@ -1,0 +1,154 @@
+[
+  {
+    "id": "A01",
+    "previous": "Origen exterior sin concretar; llegada que detecta anomalía",
+    "current": "Aurelia, planeta cercano; amenaza detectada antes de llegar; primer arribo Aldenor/Aethragar",
+    "type": "REEMPLAZO EXPRESO",
+    "destination": "canon/lore/aurelianos.md",
+    "limits": "Transporte y fecha pendientes."
+  },
+  {
+    "id": "A02",
+    "previous": "Tres ramas fundacionales custodial/disidente/fusionada",
+    "current": "Una civilización expedicionaria; trayectorias posteriores diversas",
+    "type": "REEMPLAZO EXPRESO",
+    "destination": "canon/lore/aurelianos.md",
+    "limits": "No tres pueblos ni porcentajes."
+  },
+  {
+    "id": "A03",
+    "previous": "Rama disidente como origen filosófico del Culto",
+    "current": "Origen humano independiente; superviviente de la Orden",
+    "type": "REEMPLAZO EXPRESO",
+    "destination": "canon/lore/orden-de-bibliotecarios.md",
+    "limits": "Identidad sin nombre; información indirecta no alianza."
+  },
+  {
+    "id": "A04",
+    "previous": "Custodial extinta salvo Quinto / cuatro muertos",
+    "current": "Quinto y al menos otros tres continúan como constructos",
+    "type": "REEMPLAZO EXPRESO",
+    "destination": "canon/lore/cinco-santuarios-y-custodios.md",
+    "limits": "Estado del restante desconocido."
+  },
+  {
+    "id": "A05",
+    "previous": "Nichos como prueba de muertos o único santuario",
+    "current": "Engaño en cinco cámaras con vacío de su custodio",
+    "type": "ACLARACIÓN DE VERDAD RESERVADA",
+    "destination": "canon/lore/cinco-santuarios-y-custodios.md",
+    "limits": "No cambia escena, conocimiento o sucesión de Rheem."
+  },
+  {
+    "id": "A06",
+    "previous": "Sellado genérico en mineral / anclas",
+    "current": "Cuerpo espiritual en Luna; mineral canaliza y conserva memoria; cinco partes",
+    "type": "PRECISIÓN EXPRESA",
+    "destination": "canon/lore/el-silente.md",
+    "limits": "Circuito, relación con fractura y efecto intencional/secundario sin cerrar."
+  },
+  {
+    "id": "A07",
+    "previous": "Extinción global o supervivencia solo hipotética",
+    "current": "Aislados de Aldenor bajo identidad pública Vedalken; integración en ambos continentes",
+    "type": "REEMPLAZO EXPRESO",
+    "destination": "canon/lore/aurelianos.md",
+    "limits": "Especie Vedalken auténtica/pacto/biología no escogidos."
+  },
+  {
+    "id": "A08",
+    "previous": "Longevidad no definida",
+    "current": "Doble humana, ~160 como referencia",
+    "type": "PRECISIÓN EXPRESA",
+    "destination": "canon/lore/aurelianos.md",
+    "limits": "No madurez o máximo exacto; no longevidad élfica."
+  },
+  {
+    "id": "A09",
+    "previous": "Nombres de continentes sin figura histórica cerrada",
+    "current": "Terenor y Aldenor personas previas a expedición; Aldenor relacionado con Aldric",
+    "type": "AMPLIACIÓN APROBADA",
+    "destination": "canon/lore/terenor-aldenor-y-aldric.md",
+    "limits": "Sin parentesco exacto ni contemporaneidad."
+  },
+  {
+    "id": "A10",
+    "previous": "Fragmento de Aldric y Lunargenta, sin relación definida",
+    "current": "Mineral sustenta conservación de parte de alma/espíritu",
+    "type": "PRECISIÓN APROBADA",
+    "destination": "canon/lore/terenor-aldenor-y-aldric.md",
+    "limits": "Sin agencia/poderes nuevos; +1 es lo revelado."
+  },
+  {
+    "id": "A11",
+    "previous": "Ubicación jugada del Quinto en cordillera del recorrido desde Romanance",
+    "current": "Entrega menciona cima al norte de Aethragar/Aldenor",
+    "type": "CONTRADICCIÓN ESPACIAL: PASAJE DETENIDO",
+    "destination": "canon/lore/cinco-santuarios-y-custodios.md",
+    "limits": "Se conserva localización jugada hasta aclaración del autor."
+  },
+  {
+    "id": "A12",
+    "previous": "Aldric hace aproximadamente400 años, presente435D.R.",
+    "current": "Entrega añade siglos después de fundación",
+    "type": "FORMULACIÓN NO ADOPTADA POR COTEJO",
+    "destination": "canon/lore/terenor-aldenor-y-aldric.md",
+    "limits": "Se mantiene cifra aproximada confirmada; no fija fecha."
+  },
+  {
+    "id": "A13",
+    "previous": "Deren desconoce vínculo profundo según ficha; nuevo texto menciona algún conocimiento",
+    "current": "Graduación y visión lunar no especificadas",
+    "type": "ALCANCE PENDIENTE",
+    "destination": "canon/pnjs/pnjs-principales.md",
+    "limits": "Se conserva límite existente sin atribuirle el sistema completo."
+  },
+  {
+    "id": "A14",
+    "previous": "Morvath se retira y Levit surge cerca",
+    "current": "Búsqueda sin éxito del superviviente; retiro en pantanos/bosque muerto; Culto localiza libros",
+    "type": "AMPLIACIÓN COMPATIBLE",
+    "destination": "canon/pnjs/morvath.md",
+    "limits": "Método del Culto abierto; se conserva casa de Maximus y destrucción de libros por Rheem."
+  },
+  {
+    "id": "T01",
+    "previous": "Mar de los Guardianes, Tractor como alternativas",
+    "current": "Mar de los Minotauros y Trator; islas Wykan/Agden/Tengen",
+    "type": "NOMBRES APROBADOS",
+    "destination": "canon/lore/archipielago-de-trator.md",
+    "limits": "Sin parentesco con Jarsag."
+  },
+  {
+    "id": "T02",
+    "previous": "Exploración cultural no integrada",
+    "current": "Comunidades autónomas, vida marítima y tres fiestas aprobadas",
+    "type": "INCORPORACIÓN",
+    "destination": "canon/lore/archipielago-de-trator.md",
+    "limits": "Iniciación adulta, arquitectura y oficios específicos solo propuestas."
+  },
+  {
+    "id": "T03",
+    "previous": "Cifras de entrega cartográfica",
+    "current": "Áreas y distancias recotejadas al redondeo",
+    "type": "COMPROBACIÓN TÉCNICA",
+    "destination": "mundo/mapas/recepcion-mapa-2026-10-29.md",
+    "limits": "No rutas portuarias, plazos ni censos."
+  },
+  {
+    "id": "T04",
+    "previous": "Ciudad Siete Puentes mixta y otros conceptos sin ficha",
+    "current": "Siete Puentes enana, Vardessa, Valdren, puerto diverso de Sennari, gnomos, caserío",
+    "type": "DIRECCIONES APROBADAS",
+    "destination": "canon/lore/asentamientos-en-desarrollo.md",
+    "limits": "No fija mapas, PNJs o tramas propuestas."
+  },
+  {
+    "id": "T05",
+    "previous": "Mapa del21/10 retirado por autor",
+    "current": "JSON y .map del29/10 actuales",
+    "type": "ACTUALIZACIÓN DE REFERENCIA",
+    "destination": "mundo/mapas/recepcion-mapa-2026-10-29.md",
+    "limits": "Ambos intactos; anterior consultado solo memoria desdeHEAD."
+  }
+]

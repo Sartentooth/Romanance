@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-29",
+  "sources": [
+    {
+      "original": "data/archivos md/Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+      "archive": "_archivo/fuentes-historicas/aurelia-trator-2026-10-29/Aurelia_Aurelianos_Canon_Fundacional_Entrega_Codex_2026-10-29.md",
+      "before": "ed2db55f30f40e6702b395531446bb22899bd40f29733df64f1c021158db42ad",
+      "after": "ed2db55f30f40e6702b395531446bb22899bd40f29733df64f1c021158db42ad",
+      "equal": true
+    },
+    {
+      "original": "data/archivos md/Romanance_Trator_y_Nuevos_Asentamientos_Entrega_Codex_2026-10-29.md",
+      "archive": "_archivo/fuentes-historicas/aurelia-trator-2026-10-29/Romanance_Trator_y_Nuevos_Asentamientos_Entrega_Codex_2026-10-29.md",
+      "before": "c3a928041d7358b774d6248cc464789d2a8645ef4cceb30bf68474c8f0a71755",
+      "after": "c3a928041d7358b774d6248cc464789d2a8645ef4cceb30bf68474c8f0a71755",
+      "equal": true
+    }
+  ],
+  "sections": 17,
+  "decisions": 19,
+  "affected": [
+    "ESTADO_FASE_1.md",
+    "INDICE_CANON.md",
+    "PLAN_MIGRACION_FASE_1.md",
+    "REVISION_AURELIA_TRATOR_2026-10-29.md",
+    "arte/direccion-visual/2026-10-28/cinco-juramentos/encargo-y-prompt.md",
+    "arte/direccion-visual/control-visual-pnjs.md",
+    "arte/direccion-visual/estado-y-decisiones.md",
+    "arte/direccion-visual/indumentaria-aureliana.md",
+    "canon/arcos/arco-i-planificacion.md",
+    "canon/arcos/bloques-de-lore-por-expandir.md",
+    "canon/lore/archipielago-de-trator.md",
+    "canon/lore/asentamientos-de-terenor.md",
+    "canon/lore/asentamientos-en-desarrollo.md",
+    "canon/lore/aurelianos.md",
+    "canon/lore/cinco-santuarios-y-custodios.md",
+    "canon/lore/el-silente.md",
+    "canon/lore/fundadores-de-romanance.md",
+    "canon/lore/geografia-berk-kelen-khalan.md",
+    "canon/lore/juramentos.md",
+    "canon/lore/orden-de-bibliotecarios.md",
+    "canon/lore/terenor-aldenor-y-aldric.md",
+    "canon/lore/trasfondos-personajes-jugadores.md",
+    "canon/oneshots/quinto-juramento.md",
+    "canon/plots-y-subplots/alba-de-hierro-puente-spriggan.md",
+    "canon/plots-y-subplots/arco-i-hilos-abiertos.md",
+    "canon/pnjs/morvath.md",
+    "canon/pnjs/pnjs-principales.md",
+    "canon/pnjs/sennari.md",
+    "data/README.md",
+    "herramientas-campana/armas-legendarias/README.md",
+    "ideas-nuevas/terenor-hipotesis-reservadas.md",
+    "mundo/mapas/cotejo-asentamientos-2026-10-26.md",
+    "mundo/mapas/cotejo-mapa-2026-10-29.json",
+    "mundo/mapas/limpieza-propuesta-azgaar.md",
+    "mundo/mapas/recepcion-mapa-2026-10-29.md"
+  ],
+  "before": {
+    "canon/lore/aurelianos.md": "5ddf844517eb1dbfb8869384c2f6a00fc4b6781f6452799ad25bb0007c77240c",
+    "canon/lore/fundadores-de-romanance.md": "143cf0f79d500c10134a97637af3c24b899a77c1757df755678ee6ca7e2f66b9",
+    "canon/lore/el-silente.md": "267ad9e89e3913a0a9851f731fe9bac9832cb1ee8fc61aa0066c141813cd6519",
+    "canon/lore/orden-de-bibliotecarios.md": "f08db8fbe7a5a23aaf0f39445f273d65a0762a784c60353ef59b9091f5cf8994",
+    "canon/pnjs/morvath.md": "d429b70f4a4202c37fc061072b2f8ff1e67d8c852f48080cb17aa6c2aab29c17",
+    "canon/oneshots/quinto-juramento.md": "100cc27475949943b2b9ff2be15b9dfb030611b300aa87034d65c7d778e4744f",
+    "canon/lore/juramentos.md": "e1fe6aa8d29830041ce9f37896055bbf0a3a38aad4c2d991e0ca5900b0e95d40",
+    "canon/arcos/arco-i-planificacion.md": "be56127e1707d0d893ac9ff644a0dd019bbfc659919881f2b76aa981acb3f3d3",
+    "canon/plots-y-subplots/arco-i-hilos-abiertos.md": "a1075f7775942033f929156e7851e43f4fb55f0c46c3ac2c5de57990ec9363bc",
+    "ideas-nuevas/terenor-hipotesis-reservadas.md": "3abe12b923d2b384dc4b57072ca8ff13be7b0d6bd13a29448f3d5bbbbf95da7d",
+    "canon/arcos/bloques-de-lore-por-expandir.md": "5a39b97d67e94e163c0861ae8f1ed4708e638e4066b9bfcfab80ae6de0632668",
+    "canon/lore/trasfondos-personajes-jugadores.md": "baa51dd60501a659a77b7c43e1494e946a4799460b28eeb3820f0a97d7fcee0a",
+    "canon/plots-y-subplots/alba-de-hierro-puente-spriggan.md": "42e876be697e92d1558861769e343b428ba7c2c450286048b11bb6051dfefe4e",
+    "herramientas-campana/armas-legendarias/README.md": "de278f0abe7c3260533ed0e3b86d3e5c207bb2e418bc7f8df060203f583f3d62",
+    "canon/pnjs/pnjs-principales.md": "30392554ff2f462ec9cd1fac18eedc86d8095fcf535aeb0bd11bc4f530d33da6",
+    "arte/direccion-visual/control-visual-pnjs.md": "7703d9fe49e7e360f08841f83dfc3d778b3e533352724e2e4fc5f1930870ed26",
+    "arte/direccion-visual/estado-y-decisiones.md": "bbc5da661c543d3c8534ee3da91cb9f9fb80a22c3bacf3450c715c2b98aa94de",
+    "arte/direccion-visual/2026-10-28/cinco-juramentos/encargo-y-prompt.md": "7f4b12a44a21afe213c9f2b0d95da71c0f73962092fe53fa44e6e9777e273a57",
+    "arte/direccion-visual/indumentaria-aureliana.md": "89a080442f5c398ac23beb62835f683b704d2b1e032554ef162dd235ac35da66",
+    "canon/pnjs/sennari.md": "b15ea5fae250c884059135f12fedfbeb82c54104072e934a43462db6fabd2915",
+    "canon/lore/asentamientos-de-terenor.md": "596d4c204873fda4f17e14b0bfc40fb9007c501c4c3499f7002f35a551865d10",
+    "canon/lore/geografia-berk-kelen-khalan.md": "17ed22bad5c9e0d8294bea814967f40f2512a019d492422583ee08c9de1c1cbf",
+    "mundo/mapas/cotejo-asentamientos-2026-10-26.md": "372ab36bf0ddee298d44ac9ce1349d09d73dabda621ab43ad80117efb23a8d23",
+    "mundo/mapas/limpieza-propuesta-azgaar.md": "c8ab701a8ef7d03a23492c735217f389f7c2ca887025c91af7362982b3f58036",
+    "INDICE_CANON.md": "028b9bf68dbe34cb77074956d36a74a645276e7e5f974d61790db33d1187e3d9",
+    "ESTADO_FASE_1.md": "ef7047f40407a3cb1242cb88c50fa26fefbd47a9e603d076681bdceb74c44317",
+    "PLAN_MIGRACION_FASE_1.md": "c35a82204de9eae24d612e6e74cb67c509135c4be6c49150f916e6572bd856d0",
+    "data/README.md": "63bbb637dddbefb46be3916099312f2134a9f41cf2e04212401fd928663aa699"
+  },
+  "maps": [
+    {
+      "path": "data/Json del mapa de Azgaar/Mundo Sebas Full 2026-10-29-18-18.json",
+      "sha256": "266cf60a007b3d3dfe5db0e04a1a2cfec739dff85df67af305d1c952b4445456",
+      "after": "266cf60a007b3d3dfe5db0e04a1a2cfec739dff85df67af305d1c952b4445456",
+      "unchanged": true
+    },
+    {
+      "path": "data/Json del mapa de Azgaar/Mundo Sebas 2026-10-29-18-18.map",
+      "sha256": "a7fd8b04dfbc347de40f05afbcc66eb5d36f1987ac448ab3bb1cdbc8a9821841",
+      "after": "a7fd8b04dfbc347de40f05afbcc66eb5d36f1987ac448ab3bb1cdbc8a9821841",
+      "unchanged": true
+    }
+  ],
+  "limits": [
+    "A11 ubicación del Quinto pendiente; no se traslada",
+    "A12 fecha de Aldric no se cambia por frase incompatible",
+    "A13 conocimiento de Deren no ampliado por inferencia",
+    "No imágenes, módulos, poderes, cambios de índices Git o publicación"
+  ],
+  "link_check": {
+    "checked": 835,
+    "missing": [],
+    "scope": "Destinos creados/editados y enlaces entrantes; originales y snapshots conservan sus enlaces históricos"
+  },
+  "after": {
+    "ESTADO_FASE_1.md": "199bbaca95943038acb0246e0bd69ea4c45a790aac82fdc18392869143b6668b",
+    "INDICE_CANON.md": "5a54c0d066aa65a00e77084bdf39a487661640add3bb792924bf144288a07247",
+    "PLAN_MIGRACION_FASE_1.md": "779e394994ec324d2fcf1b9847105f0ba3284cfe75d4682d24e77d928505f800",
+    "REVISION_AURELIA_TRATOR_2026-10-29.md": "ab77b15d94c603de738c27b2ee89cf2aadf2eb914109e8b73e474c48507e1b0f",
+    "arte/direccion-visual/2026-10-28/cinco-juramentos/encargo-y-prompt.md": "d8c8fa4df4242d0d6ec4d4072730a03f4383b794532961f6392e8f642dc06abe",
+    "arte/direccion-visual/control-visual-pnjs.md": "3a31c640324cd6e42540e10c359991b2cefe17493bfa6414acfa3e5d11ecac95",
+    "arte/direccion-visual/estado-y-decisiones.md": "85a5cd3c1c85e595047a94770a3b2f3305434017d9356bb906a0020d410af1bb",
+    "arte/direccion-visual/indumentaria-aureliana.md": "5bf1aad32c7246e0f8c38f278c096573b836605b7ec5bffe01cc971678a0ce52",
+    "canon/arcos/arco-i-planificacion.md": "d2d115a5d9c171cfac869a6b3c7a632a7ea9b9be7fdab6aa90c85c79c0b86c48",
+    "canon/arcos/bloques-de-lore-por-expandir.md": "29ae222e4c46692fe95fb2c1011471166495d86f0c89aae863424cc87c3a462a",
+    "canon/lore/archipielago-de-trator.md": "a37b909ed976d62bcc73f3af65bbfb9072e0c2881df9a8bdba0eaab73e352a00",
+    "canon/lore/asentamientos-de-terenor.md": "809dc11b963a7a5cbcf5b67396d21bfb680a2202618102d291f280767d501616",
+    "canon/lore/asentamientos-en-desarrollo.md": "4732352a65c97e20878d35d5dc4a17eabe8ce32409cfdff0698e9bc644fc3805",
+    "canon/lore/aurelianos.md": "f6b898d96b4e260a3509c867bce71ce17cd4d519778416dd162fe121d8a2cfeb",
+    "canon/lore/cinco-santuarios-y-custodios.md": "aeebe9bb052c59a8789af7ab117a5372785cdd9cc1afaa111e4ca7f7840aaf62",
+    "canon/lore/el-silente.md": "49b71aa6fba1ed97ee519d9b8dcf6d86ac81fe5746e3d39508e6d4e19d1332ea",
+    "canon/lore/fundadores-de-romanance.md": "6fcbed60412251672f44dd1a7621f7978e4b31720ff97af7d428e86dfe37ef55",
+    "canon/lore/geografia-berk-kelen-khalan.md": "542f8e847176132c99f52b2fe2496317da6d6ed8a3d88727f40f8c5341874e8d",
+    "canon/lore/juramentos.md": "d91323847d302b0f5e442664c951e7847dccf38f5e8a3a0a79b4dadd843b4c1b",
+    "canon/lore/orden-de-bibliotecarios.md": "307b574f15199ed684c65bfc29840008b67a2102e4734c3faa27157b8a07e046",
+    "canon/lore/terenor-aldenor-y-aldric.md": "b184e5fa3cda2d28a7e890f0475366cfa97d9a17424e90aa43ea54e3854e6704",
+    "canon/lore/trasfondos-personajes-jugadores.md": "1074dcc2044aa68524e20c0b856e58fd90aba8906265e0373aaad4eb842b6ec1",
+    "canon/oneshots/quinto-juramento.md": "1ad38ccb161dfb759b211428112cd09e66fcf70410da69a2d9712ec67bf38b41",
+    "canon/plots-y-subplots/alba-de-hierro-puente-spriggan.md": "8939cc3bb3aaabd58e90a74bc033ca11244f306dee611de6486f3f833e38afe0",
+    "canon/plots-y-subplots/arco-i-hilos-abiertos.md": "239e50677db8a1aeecd8b2dd1a26730f4f5b519258df2552331a407ab8fc6ec4",
+    "canon/pnjs/morvath.md": "a849a5f8847e3c473990ce1c9080f24f431745ceecfa55511a196aad72af1a52",
+    "canon/pnjs/pnjs-principales.md": "14fcdddcced9fd4c69bf50096aaceb24c2e0078bef3429a24be9611b099ddc26",
+    "canon/pnjs/sennari.md": "dfef3879094ac472be6635a82b5d17e6f0a86188da40c24e2905557655317d33",
+    "data/README.md": "92db56448b828767116970c6d3615fddd87819c27e091d6d5c32eab2399e1758",
+    "herramientas-campana/armas-legendarias/README.md": "41d0edd712520c5906249ab4bca231cb83e6047f19d5c219925229025437a7e3",
+    "ideas-nuevas/terenor-hipotesis-reservadas.md": "626809877665469a61e1ef1437e2190b40f9f8b9f97b9b78de37f2d9f18e55ca",
+    "mundo/mapas/cotejo-asentamientos-2026-10-26.md": "b62b3bbdf9daf142a2bed3176e4cb4cc25348e216a42bfc3676d309347e65fbd",
+    "mundo/mapas/cotejo-mapa-2026-10-29.json": "144b7a823de9e5bac1330b50041c382dca67f1a14a1577492994d1372ae267a4",
+    "mundo/mapas/limpieza-propuesta-azgaar.md": "c28fe8c5873176feebe60799608867f7792fe03dc0843525a4b15f218d38f1a5",
+    "mundo/mapas/recepcion-mapa-2026-10-29.md": "6bc29306b43d237bc44b8e6780d61bb2150bf053b8da3761095fa9e421152ba3"
+  },
+  "additional_checks": {
+    "island_burg_feature_associations": [
+      [
+        "Tengen",
+        5343,
+        16
+      ],
+      [
+        "Agden",
+        4589,
+        14
+      ],
+      [
+        "Wykan",
+        2980,
+        12
+      ]
+    ],
+    "confirmed_lakes_match": true,
+    "berk_biome_13": true,
+    "git_diff_check_affected_md": "passed"
+  }
+}

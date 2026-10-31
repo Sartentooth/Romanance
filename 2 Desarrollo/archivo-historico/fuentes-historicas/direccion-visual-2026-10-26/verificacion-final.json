@@ -1,0 +1,34 @@
+{
+  "date": "2026-10-26",
+  "protected_files_unchanged": 784,
+  "prior_versions_verified": 7,
+  "new_or_changed_links_checked": 79,
+  "modified_documents": {
+    "INDICE_CANON.md": "25195632b8c8a90967d2bdb36e099f1b39061adf4fd1c157b013884e97f85dd3",
+    "ESTADO_FASE_1.md": "ef7047f40407a3cb1242cb88c50fa26fefbd47a9e603d076681bdceb74c44317",
+    "REVISION_COMPILADOS_GENERALES_2026-10-19.md": "233514b579acaa84f877402275f30de18c97df0a3e3f01f259931808f95841bd",
+    "arte/README.md": "6a8e2d32886cddd47e05ebb0b66101f7420f5ae44c017e45b6d5896e56b8c009",
+    "arte/direccion-visual/lyren-y-conclave-zephyr.md": "b683ed61007da18e5ba5e6c95720da14502e274ae60077d97d68c55e028e34ab",
+    "canon/pnjs/pnjs-principales.md": "52d62205d57d895457c29c880043922b73403c93655441fb28b432c09a6985de",
+    "canon/lore/trasfondos-personajes-jugadores.md": "baa51dd60501a659a77b7c43e1494e946a4799460b28eeb3820f0a97d7fcee0a"
+  },
+  "new_documents": {
+    "REVISION_DIRECCION_VISUAL_2026-10-26.md": "ffd7143ae6887478852b5f9f89a4cdd4527d752a811c08818a1415742eeaa142",
+    "arte/direccion-visual/estado-y-decisiones.md": "9d280734deb52cb803536c70cf3b93b2d247000df429b750beaf5a83a5cf179c",
+    "arte/direccion-visual/control-visual-pnjs.md": "b240985e257b57490984cb680bfb864038c8eadef935b01912a14d21c66b807f",
+    "_archivo/fuentes-historicas/direccion-visual-2026-10-26/README.md": "105e87a371d391606696f35fcaba425001609f1b92b421a31c4fa2badc31af6a",
+    "_archivo/fuentes-historicas/direccion-visual-2026-10-26/decisiones-autor.md": "3c2bd3f9f7b0fe83cb72bb8c382cfb62dac8c101f0376f2eb17ce9e1131ed817"
+  },
+  "imported_reference": {
+    "path": "arte/referencias/03-arquitectura/lyren/Conclave Monástico entre Montañas Misticas.png",
+    "source": "C:\\Users\\Sarten\\Downloads\\Conclave Monástico entre Montañas Misticas.png",
+    "sha256": "b9ad43cb0d9d10df30cb4a7c813e7bda3411e84865ca1c445a5fe6e2688a9d92",
+    "dimensions": [
+      1536,
+      1024
+    ],
+    "classification": "reference, explicitly non-canonical"
+  },
+  "image_generation_or_editing": false,
+  "git_commit_or_push": false
+}

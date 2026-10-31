@@ -1,0 +1,2209 @@
+[
+  {
+    "source": "Biomas_Continentales_Romanance.md",
+    "section": "Preámbulo y estado del corte",
+    "line": 1,
+    "sha256_text": "2232075243ac4747947616476f95d28b348b6a6ac5fdae36ca1018477eed1786",
+    "destinations": [
+      "REVISION_LIMPIEZA_MIXTOS_2026-10-31.md"
+    ],
+    "treatment": "Alcance/fecha/fuente preservados; etiquetas antiguas no son estado actual."
+  },
+  {
+    "source": "Biomas_Continentales_Romanance.md",
+    "section": "1. Gradiente Norte → Sur (franja este, costa/cordillera)",
+    "line": 9,
+    "sha256_text": "30750e4c8230b67e5d5fa6272a914e5591ce1937cb78600fc95f82bd4b918e67",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Biomas_Continentales_Romanance.md",
+    "section": "2. Gradiente Este → Oeste (interior del continente)",
+    "line": 19,
+    "sha256_text": "6aa9c4cd50cd30809e37a26a280eb74792aedba4b1d574661abb07a41b2af0f5",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Biomas_Continentales_Romanance.md",
+    "section": "3. Locaciones canon confirmadas (bioma real medido en Azgaar, distancias por camino real)",
+    "line": 33,
+    "sha256_text": "aa752e2f837d82785f731370236d1f066097b16db10fe4e6be6dfdb5f064e2b6",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Biomas_Continentales_Romanance.md",
+    "section": "4. Pendiente de definir",
+    "line": 53,
+    "sha256_text": "083c57d1faf6000fa203c76afae6d2c35eb91a8af46386070e2167410ae38055",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Tabla_Viaje_Continental_Romanance.md",
+    "section": "Preámbulo y estado del corte",
+    "line": 1,
+    "sha256_text": "99c6aacc97e03b7403144116fd15ac870f0095f34f1ce7693cef601ca364be3b",
+    "destinations": [
+      "REVISION_LIMPIEZA_MIXTOS_2026-10-31.md"
+    ],
+    "treatment": "Alcance/fecha/fuente preservados; etiquetas antiguas no son estado actual."
+  },
+  {
+    "source": "Tabla_Viaje_Continental_Romanance.md",
+    "section": "1. Velocidades por modo y terreno (km/día)",
+    "line": 14,
+    "sha256_text": "3fb320d2280b356273e02a5143c6086fc6f24e70e510e63e28ef06957b7435d8",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Tabla_Viaje_Continental_Romanance.md",
+    "section": "2. Conversión de distancias — Camino/Llano (referencia principal)",
+    "line": 29,
+    "sha256_text": "b4889626d1afb33d662976d34af20823f1fef187b2df9099bb9e45a3852f0cf5",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Tabla_Viaje_Continental_Romanance.md",
+    "section": "3. Conversión de distancias — Montaña/Terreno difícil",
+    "line": 43,
+    "sha256_text": "4de3339d85b8fda4868a0f70817bf3f99cf84fd3d9958026d066ac5f23d4f056",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Tabla_Viaje_Continental_Romanance.md",
+    "section": "4. Distancias canon fijadas (locaciones del croquis) — HISTÓRICO, ver sección 6 para versión final",
+    "line": 56,
+    "sha256_text": "6ff5b835511e6105d33d7a701f5f3c0881c1f5027c2c276daa1b919ced676b9a",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Tabla_Viaje_Continental_Romanance.md",
+    "section": "5. Uso práctico",
+    "line": 70,
+    "sha256_text": "53ee64bba10859704552db3ce2f09b14941538d177c20bfebf27f631095d5357",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Tabla_Viaje_Continental_Romanance.md",
+    "section": "6. Distancias canon FINALES (camino real medido en Azgaar — Mundo_Sebas)",
+    "line": 76,
+    "sha256_text": "8564cc50a7767bf0c64a38457a6eeba01473f60dc9ed3928402a2da5e1843e93",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Preámbulo y estado del corte",
+    "line": 1,
+    "sha256_text": "3d431348044d2a6895d35324ffbbc8ac6206cf24c44c1ab4ca3de3b3d2f99079",
+    "destinations": [
+      "REVISION_LIMPIEZA_MIXTOS_2026-10-31.md"
+    ],
+    "treatment": "Alcance/fecha/fuente preservados; etiquetas antiguas no son estado actual."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Terenor (cultura: River)",
+    "line": 7,
+    "sha256_text": "22eb7e6254ddff779497e5fc69597490cb3c76272f2d71dccc5ac3dd9a6cfef2",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Berk — Unión / Confederación",
+    "line": 11,
+    "sha256_text": "2ef1dbe2c2272e8c6277befb870332713a0fca9a00251212e5337a0ecf5f25e6",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Itharia — República",
+    "line": 19,
+    "sha256_text": "c17cabf302798649c316221cb93d182e514c8ed96638a890256642aa5903cb04",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Halden — República / Ciudad Libre",
+    "line": 24,
+    "sha256_text": "19bf4ae0f621601ae69027daa3161f9c65ddc66ff4fdabb5fecfd90d9cf9a8f4",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Velthar — Anarquía / Comunidad",
+    "line": 28,
+    "sha256_text": "9bc4cd4e2a575a1d90b42f7319b36299b5191ba1e244b7ef6e63b38473633d55",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Zephyr — Cónclave (forma de gobierno a redefinir: Oligarquía o Consejo sin jerarquía fija, no Monarquía)",
+    "line": 32,
+    "sha256_text": "be107c4d1757858af9b70655764c3a3acd78164611b5380be8e143319df57baa",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Asentamientos sin estado propio (Neutrals)",
+    "line": 38,
+    "sha256_text": "d72c705dc810db37777dbd70c938e6c10b97a4405d9d2ee43317149afa1b6ed0",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Aldenor (cultura: Highland)",
+    "line": 52,
+    "sha256_text": "957702d40448d75e69baf59c5066c6ce66e5eff73470a98fcffa65c76f67d387",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Aethragar — Teocracia / Hermandad (de los Vigías)",
+    "line": 56,
+    "sha256_text": "c6d72a3c4cd15758d81c79a84e75ec09fe5c0d1d0faf1946960a06b359529dbe",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Tierras Libres (cultura: Naval)",
+    "line": 62,
+    "sha256_text": "f2f51cf3fd08a49f7c0c62c561ab92bcb452606c4fe549761791e788cc624753",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Aetherion (sin cultura activa)",
+    "line": 68,
+    "sha256_text": "a95ab66c3c5ca61ecf4000adc5802b2b345ca300c94d2e644a37ef399c0eed06",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Estado del documento",
+    "line": 74,
+    "sha256_text": "563a3273f205064e8182e8851ed4f5e8ef9f950fe7d68fd0ea4e421360a953d5",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "Culturas_y_Asentamientos_Terenor_Aldenor.md",
+    "section": "Historial de cambios",
+    "line": 79,
+    "sha256_text": "27344959db2d8977ba898d78f49d87121447d02bd8b2e6f20a61f3911c732624",
+    "destinations": [
+      "mundo/mapas/antecedentes-continentales-y-viajes.md",
+      "canon/lore/asentamientos-de-terenor.md"
+    ],
+    "treatment": "Antecedente, referencias vigentes y pendientes explícitos; no se aprueban etiquetas o cifras viejas por el archivo."
+  },
+  {
+    "source": "instrucciones-proyecto.md",
+    "section": "Preámbulo y estado del corte",
+    "line": 1,
+    "sha256_text": "fe45cf0f905eded92439cb85af3dc5a45c426410af018d436591c061e5abadf4",
+    "destinations": [
+      "REVISION_LIMPIEZA_MIXTOS_2026-10-31.md"
+    ],
+    "treatment": "Alcance/fecha/fuente preservados; etiquetas antiguas no son estado actual."
+  },
+  {
+    "source": "instrucciones-proyecto.md",
+    "section": "Objetivo",
+    "line": 3,
+    "sha256_text": "c65a6295a0500433b65a18711eb693158e22fca8bf024a4ba7d2ff725248bd6f",
+    "destinations": [
+      "modulos/criterios-editoriales.md"
+    ],
+    "treatment": "Objetivos, nueve bloques, estilos y PDF preservados para etapa futura; no desplaza Fase1."
+  },
+  {
+    "source": "instrucciones-proyecto.md",
+    "section": "Sistema y edición",
+    "line": 6,
+    "sha256_text": "c956e4fee48ed2808c5689d0413dd54d8c3b0a6d8df5771b23a8bed95f0d807d",
+    "destinations": [
+      "modulos/criterios-editoriales.md"
+    ],
+    "treatment": "Objetivos, nueve bloques, estilos y PDF preservados para etapa futura; no desplaza Fase1."
+  },
+  {
+    "source": "instrucciones-proyecto.md",
+    "section": "Estructura estándar de cada módulo",
+    "line": 10,
+    "sha256_text": "06610ce50a689c88166653c731e264387fec55d595c01903e6dd39031a58d051",
+    "destinations": [
+      "modulos/criterios-editoriales.md"
+    ],
+    "treatment": "Objetivos, nueve bloques, estilos y PDF preservados para etapa futura; no desplaza Fase1."
+  },
+  {
+    "source": "instrucciones-proyecto.md",
+    "section": "Estilo de escritura",
+    "line": 24,
+    "sha256_text": "2caa572f16a4b4fd303586cc779db919207e8d9f34393c542adbec3c5ed08d54",
+    "destinations": [
+      "modulos/criterios-editoriales.md"
+    ],
+    "treatment": "Objetivos, nueve bloques, estilos y PDF preservados para etapa futura; no desplaza Fase1."
+  },
+  {
+    "source": "instrucciones-proyecto.md",
+    "section": "Formato final",
+    "line": 29,
+    "sha256_text": "ecf96f7691c9c372b5cea507c8a55b0eb98772f2b37364b4593907d8b8e74e21",
+    "destinations": [
+      "modulos/criterios-editoriales.md"
+    ],
+    "treatment": "Objetivos, nueve bloques, estilos y PDF preservados para etapa futura; no desplaza Fase1."
+  },
+  {
+    "source": "instrucciones-proyecto.md",
+    "section": "Modo de trabajo",
+    "line": 33,
+    "sha256_text": "b320f85103420de38635ce307a830be8863d604abb8b325c6da9d89e9e1b67c2",
+    "destinations": [
+      "modulos/criterios-editoriales.md"
+    ],
+    "treatment": "Objetivos, nueve bloques, estilos y PDF preservados para etapa futura; no desplaza Fase1."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "Preámbulo y estado del corte",
+    "line": 1,
+    "sha256_text": "f8e504ade509064fed609ad96ae86fa5f3891aba6c1259f75eea6a72cfa6bb4f",
+    "destinations": [
+      "REVISION_LIMPIEZA_MIXTOS_2026-10-31.md"
+    ],
+    "treatment": "Alcance/fecha/fuente preservados; etiquetas antiguas no son estado actual."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "1. Estado general",
+    "line": 19,
+    "sha256_text": "558f025fde0a06bd63f09dabaa8fa7175bbc2f1810ce5d0b15adf51eb2c771f2",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "2. Principio estructural aprobado",
+    "line": 52,
+    "sha256_text": "2c643be40ba30b26448f5a53718a115f26392d2f4c5fb83a401c2187f60eaf55",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "3. Geometría normativa",
+    "line": 70,
+    "sha256_text": "cc4cecdee3b3a94247fe300b2ed7eb07c39f3b7b63943c71f4a17100535e2bd6",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "4. Fuente geométrica canónica",
+    "line": 125,
+    "sha256_text": "de11db0aafd41bb1c2ff2ab377bb9c7dccd30bd9c1974bb40f4531fd4a383abc",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "5. Dirección estética aprobada como base",
+    "line": 150,
+    "sha256_text": "dad49205cb8be746b57b0939e883b3b33c1662cf81958fb74789496ea125df58",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "6. Recursos ornamentales discutidos",
+    "line": 209,
+    "sha256_text": "cea6795a1c45f70a0737f454372fe2ecca62511e69f42236184aab357fda6c8a",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "7. Tratamiento luminoso y “glifos antiguos”",
+    "line": 234,
+    "sha256_text": "289425f542a979fd7b9ef71474c714376fb7469cbbc68184780e386cb1dc6629",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "8. Uso en mesa",
+    "line": 276,
+    "sha256_text": "309418cc828575d8a6f54c1ca905c3933344096b27bc33f9ff7b897bb2cd103e",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "9. Dependencias documentadas",
+    "line": 301,
+    "sha256_text": "a2f5234e8cc0239a42dd190d11d0b398a9d8452c383f54f55ef88e26fcebd8a4",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "10. Propuestas no aprobadas como canon definitivo",
+    "line": 346,
+    "sha256_text": "fc7d1eb965fcd9c3549251e68a3aad0ea949152642192dd570abfdbc472825d1",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "11. Pendientes",
+    "line": 366,
+    "sha256_text": "f52b73e08c7f06ea1e4bf787325dc351b39cb5b1a150128091513d7d70836cd9",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "12. Versiones y enfoques reemplazados",
+    "line": 392,
+    "sha256_text": "2d3413c4f1c8b55334a5e3a78fcfa8054a05ec004083f27b33e167f6804e76fc",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "13. Contradicciones y puntos a revisar",
+    "line": 424,
+    "sha256_text": "43bc4bf980cc031d35d1d28e1ceb2f26f49cdb18fbd916ea7db1de29a92cfba4",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "14. Material revisado para esta consolidación",
+    "line": 455,
+    "sha256_text": "57c3ddd8b85265ef54fed7b48b781fb499154cdafd0122faeb14a82558b3fa0d",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "15. Estado de esta consolidación",
+    "line": 494,
+    "sha256_text": "19b2809229600f8e50391281b3b0285eda5678064dd8e259a5e6a83de44dac80",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Escritura_Aureliana_Consolidacion_Chat.md",
+    "section": "16. Regla de continuidad",
+    "line": 511,
+    "sha256_text": "3879babbb055851c47165e9a8b095b7ffb31a688dfd5eec9ea6c8825e1884558",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md",
+      "canon/arte/escritura-aureliana.md",
+      "REVISION_CIERRE_ESCRITURA_AURELIANA.md"
+    ],
+    "treatment": "30 glifos verificados; ornamento, ejemplos de uso, propuestas y límites preservados; SVG intacto, lengua completa diferida."
+  },
+  {
+    "source": "Romanance_Consolidacion_Direccion_Visual.md",
+    "section": "Preámbulo y estado del corte",
+    "line": 1,
+    "sha256_text": "d72fffe728e4e2a576c8199afef486bae2781c144f75ff3b374c7821a6a30c3f",
+    "destinations": [
+      "REVISION_LIMPIEZA_MIXTOS_2026-10-31.md"
+    ],
+    "treatment": "Alcance/fecha/fuente preservados; etiquetas antiguas no son estado actual."
+  },
+  {
+    "source": "Romanance_Consolidacion_Direccion_Visual.md",
+    "section": "Consolidación del chat: identidad visual de Romanance y Lumenor",
+    "line": 2,
+    "sha256_text": "cb19a7e1dd3f2fd34839f342de7b660a1ae7d6b5664dead2dd2078214b8fde5c",
+    "destinations": [
+      "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "arte/direccion-visual/estado-y-decisiones.md"
+    ],
+    "treatment": "Cobertura T05 por11 apartados; decisiones posteriores prevalecen. No auditoría gráfica nueva ni aprobación de propuestas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Direccion_Visual.md",
+    "section": "1. Criterio de lectura y autoridad",
+    "line": 10,
+    "sha256_text": "d0f8e944a96e99afbaf0fec10a3c1bc9880422b70a4c853b9017ca707d8a13d4",
+    "destinations": [
+      "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "arte/direccion-visual/estado-y-decisiones.md"
+    ],
+    "treatment": "Cobertura T05 por11 apartados; decisiones posteriores prevalecen. No auditoría gráfica nueva ni aprobación de propuestas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Direccion_Visual.md",
+    "section": "2. Decisiones y preferencias expresamente formuladas o aprobadas",
+    "line": 24,
+    "sha256_text": "7168e0a89bddaf93dd4812688f5ccfb868acec0cd439b4a931443d242a1e0b1a",
+    "destinations": [
+      "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "arte/direccion-visual/estado-y-decisiones.md"
+    ],
+    "treatment": "Cobertura T05 por11 apartados; decisiones posteriores prevalecen. No auditoría gráfica nueva ni aprobación de propuestas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Direccion_Visual.md",
+    "section": "3. Auditoría inicial: hallazgos que siguen siendo útiles",
+    "line": 38,
+    "sha256_text": "613040c46f168ca48cb9c15e54863504c38f0a22d47812693a353968070b4165",
+    "destinations": [
+      "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "arte/direccion-visual/estado-y-decisiones.md"
+    ],
+    "treatment": "Cobertura T05 por11 apartados; decisiones posteriores prevalecen. No auditoría gráfica nueva ni aprobación de propuestas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Direccion_Visual.md",
+    "section": "4. Referencias externas y su interpretación",
+    "line": 71,
+    "sha256_text": "28832c3d24dcbc4cd4441784e789614f8b34821f66497cef2a1994cdd59c0943",
+    "destinations": [
+      "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "arte/direccion-visual/estado-y-decisiones.md"
+    ],
+    "treatment": "Cobertura T05 por11 apartados; decisiones posteriores prevalecen. No auditoría gráfica nueva ni aprobación de propuestas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Direccion_Visual.md",
+    "section": "5. Propuestas actuales que todavía requieren ratificación",
+    "line": 107,
+    "sha256_text": "98902422cdc677f84068e791edc917a6238e56f4719758b79c30bb3e42f9d90e",
+    "destinations": [
+      "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "arte/direccion-visual/estado-y-decisiones.md"
+    ],
+    "treatment": "Cobertura T05 por11 apartados; decisiones posteriores prevalecen. No auditoría gráfica nueva ni aprobación de propuestas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Direccion_Visual.md",
+    "section": "6. Pruebas realizadas y aprobación de resultados",
+    "line": 142,
+    "sha256_text": "46b1436eb07fb13d1d72c386d0f19b82130e62aafd3b0aa5976453333c5d8204",
+    "destinations": [
+      "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "arte/direccion-visual/estado-y-decisiones.md"
+    ],
+    "treatment": "Cobertura T05 por11 apartados; decisiones posteriores prevalecen. No auditoría gráfica nueva ni aprobación de propuestas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Direccion_Visual.md",
+    "section": "7. Dependencias de mundo relevantes para el desarrollo visual",
+    "line": 179,
+    "sha256_text": "a03c2b812f2a48fface29f7e05772f6f8e41238696ffdf54c168f266301ae4d4",
+    "destinations": [
+      "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "arte/direccion-visual/estado-y-decisiones.md"
+    ],
+    "treatment": "Cobertura T05 por11 apartados; decisiones posteriores prevalecen. No auditoría gráfica nueva ni aprobación de propuestas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Direccion_Visual.md",
+    "section": "8. Versiones y planteos reemplazados",
+    "line": 216,
+    "sha256_text": "e5bc5dc03d0892807d430867a6f27284292de25c5024ea3200e80c50a210612b",
+    "destinations": [
+      "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "arte/direccion-visual/estado-y-decisiones.md"
+    ],
+    "treatment": "Cobertura T05 por11 apartados; decisiones posteriores prevalecen. No auditoría gráfica nueva ni aprobación de propuestas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Direccion_Visual.md",
+    "section": "9. Discrepancias y correcciones que requieren atención",
+    "line": 230,
+    "sha256_text": "515ae30250a4aa7156d3fd5d59df1d107ef460b56174a477c8be74410c2e9be0",
+    "destinations": [
+      "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "arte/direccion-visual/estado-y-decisiones.md"
+    ],
+    "treatment": "Cobertura T05 por11 apartados; decisiones posteriores prevalecen. No auditoría gráfica nueva ni aprobación de propuestas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Direccion_Visual.md",
+    "section": "10. Pendientes del apartado visual",
+    "line": 254,
+    "sha256_text": "dbbbdaf65db078628828745cb1c81d5d9b8b2a0f3711394a531691e0a5089188",
+    "destinations": [
+      "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "arte/direccion-visual/estado-y-decisiones.md"
+    ],
+    "treatment": "Cobertura T05 por11 apartados; decisiones posteriores prevalecen. No auditoría gráfica nueva ni aprobación de propuestas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Direccion_Visual.md",
+    "section": "11. Fuentes, versiones y límites efectivos de esta consolidación",
+    "line": 269,
+    "sha256_text": "0e865eb31410846976550df4c72998f1d22123f18e37f5076fbf3bf0a405154c",
+    "destinations": [
+      "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "arte/direccion-visual/estado-y-decisiones.md"
+    ],
+    "treatment": "Cobertura T05 por11 apartados; decisiones posteriores prevalecen. No auditoría gráfica nueva ni aprobación de propuestas."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "Preámbulo y estado del corte",
+    "line": 1,
+    "sha256_text": "d72fffe728e4e2a576c8199afef486bae2781c144f75ff3b374c7821a6a30c3f",
+    "destinations": [
+      "REVISION_LIMPIEZA_MIXTOS_2026-10-31.md"
+    ],
+    "treatment": "Alcance/fecha/fuente preservados; etiquetas antiguas no son estado actual."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "Sistema de gremios — Guía funcional para aventureros",
+    "line": 2,
+    "sha256_text": "a5f9f6985f86a77c8208a80849209268cf487a0ccd2d49da41466b2157beee04",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "1. Principios de diseño — APROBADOS",
+    "line": 14,
+    "sha256_text": "7b96baca2459aebdab7cc32dab46be32263153024dbfa849110dabc997435b8e",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "2. Marco de gremios existente",
+    "line": 24,
+    "sha256_text": "24acf7570fb187107aa2502a5d6416adb1c3d46688544aa23180aa5370c59abe",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "3. Afiliación y carnet — APROBADOS",
+    "line": 42,
+    "sha256_text": "4b325ee84d31b671233fd0bb7dc1ce57b8643c9ed34aad9dd5563cf96ecfc305",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "4. Rangos definitivos — APROBADOS",
+    "line": 50,
+    "sha256_text": "34fec81f80136aebe7e61ddff2ffe1583f3b9582cfd41c8f885674f95927b1eb",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "5. PX y reputación: un único saldo — APROBADO",
+    "line": 75,
+    "sha256_text": "bef8a41757bd6023c91b54978d1f90f84b716c010a7fce3112623e0c64db11d7",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "6. Encargos individuales y acompañantes — APROBADO",
+    "line": 104,
+    "sha256_text": "c68a266bdea05d83254e3e6e02aa2c1b6168c1b815269adc92ad4ca44eef4ad4",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "7. Grupos registrados — APROBADO",
+    "line": 121,
+    "sha256_text": "607cd0a979c477354360936395dc6bd0b5dc7e136632198e60c18354903d1ced",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "8. Beneficios prácticos — PRINCIPIO APROBADO; GRADACIÓN ORIENTATIVA",
+    "line": 147,
+    "sha256_text": "fab9b3def5fbb35fead348fff0361774a1f15230bbff1b9f35258871944cdf7c",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "9. Cargos internos, Gran Maestre y crecimiento institucional — CONCEPTOS APROBADOS; DESARROLLO POSPUESTO",
+    "line": 159,
+    "sha256_text": "1ec6c0a517222575b7056f5755f01a551cb606b6ad87ded8f44c427414eed9e9",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "10. Relación con la campaña y uso en mesa — APROBADO",
+    "line": 188,
+    "sha256_text": "78b30d094444d8430c47ca7af17d9ae0f3ca93e790af86470b644f5b50942365",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "11. Historial de decisiones y reglas reemplazadas",
+    "line": 201,
+    "sha256_text": "1c833e150fba1df2daa2d51a929d0c2fc3067d9e09925b7af373525c3004cd67",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "12. Pendientes reales / límites documentales",
+    "line": 218,
+    "sha256_text": "bd00a3fec250755e70d79b09fbbbf8ca41736b734f93ef30f9a56810f9179da3",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+    "section": "13. Instrucción sugerida para Codex (no ejecutada)",
+    "line": 227,
+    "sha256_text": "163c697745a3e4680ac60dc5757a243e273ce75c396bb0480be1d1a500ef3bc9",
+    "destinations": [
+      "herramientas-campana/gremios/guia-funcional.md",
+      "canon/lore/gremios.md",
+      "REVISION_GREMIOS_2026-10-19.md"
+    ],
+    "treatment": "Reglas1–10 cubiertas por guía;11 reemplazos en cotejo,12 pendientes en destinos,13 diff aprobado/aplicado. Fuente hash idéntico."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "Preámbulo y estado del corte",
+    "line": 1,
+    "sha256_text": "92597070886c6151dbb9f7bd7729e8835d34cab280ce34644cece0300d575e7d",
+    "destinations": [
+      "REVISION_LIMPIEZA_MIXTOS_2026-10-31.md"
+    ],
+    "treatment": "Alcance/fecha/fuente preservados; etiquetas antiguas no son estado actual."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "1. Propósito de la sesión",
+    "line": 14,
+    "sha256_text": "7c133da2881cf6cecbcb03829bf6f47f4577f650821eab9891304b467ce4643b",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "2. Contexto del viaje",
+    "line": 53,
+    "sha256_text": "d983fd5c0ac4d806789c3f11858545cb163ae9a8bd2ce0fe9bceb5677d9edcd6",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "3.1. Ambiente",
+    "line": 111,
+    "sha256_text": "dc4c1d2760459724cc7cfe2464f929ff378003e5987065766784c8b8012c502f",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "3.2. Encuentro con los campesinos",
+    "line": 121,
+    "sha256_text": "35e56c2d1db079b61a1c89be594d4828143744a82f841730628c74cbc514ea20",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "3.3. El encuentro con los carreteros",
+    "line": 153,
+    "sha256_text": "6dbe007f73154be13fd84ae15fad82125500236fe94753ed91109d7f89ad6bcb",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "3.4. Xbahuitza y las colmenas",
+    "line": 168,
+    "sha256_text": "989cc03358d9bbcab306523e2c498f7eb48fdccdc320bd4121c95cfe2b6cb23e",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "3.5. Recursos y trayecto",
+    "line": 185,
+    "sha256_text": "9ec2589dc3cb75d1a65b3023650304151b3cd2e0911c2fe85f8fdf87368b74c3",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "3.6. Primer fogón",
+    "line": 195,
+    "sha256_text": "b327d3f0c5e61bb389a9521f2583971a6e6aa028a9d7dd0dc897a46a02e45e5f",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "4.1. S2 — El horizonte se mueve",
+    "line": 227,
+    "sha256_text": "92a3c701fc501980f2e454a5096dbeccefbe7444df31470d03ed693a48374f5d",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "4.2. S4 — El aljibe de la pendiente",
+    "line": 302,
+    "sha256_text": "3eff36eb10ccbb79f4d23a137a034e17f02485e0c7d224b77e25c7c56762c5f6",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "4.3. S5 — Peaje sin camino",
+    "line": 366,
+    "sha256_text": "1df1c332115fbd61cfe3b99f4843905ae981fdec96715a028276fdcdeb5af82e",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "4.4. Segundo fogón",
+    "line": 413,
+    "sha256_text": "fdbb0e5d33f166ae8a1fa9cb65b7fd37e78b833ceaf3f12ed277bfafda5e73f7",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "5.1. Encargo conjunto de los gremios",
+    "line": 439,
+    "sha256_text": "a6a8f2ebcf468d5bb63cf14c319d1b5934c8a47e9a503d904cef77c9039ecce8",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "5.2. Origen del encargo",
+    "line": 472,
+    "sha256_text": "bdb36ac99bf364e82f5efcedd50e88e1b1c88a439e7c230d10d0139e426aa2d0",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "5.3. Localización",
+    "line": 496,
+    "sha256_text": "8ee2af334ac73eea028ed23e50e650247ad29aa1f6fa0dbdd53dffe5bf21bd08",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "5.4. Identidad del edificio",
+    "line": 510,
+    "sha256_text": "10224d418cf698c4b6dd7a1b769e47755d6f16a177433154fa17fdbb1e018b6e",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "5.5. Habitaciones",
+    "line": 556,
+    "sha256_text": "bde207dac4f73a1fb06fb2421ec88be4c944b9e0bad79fc1d830f641931ba058",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "5.6. Escaleras y glifos",
+    "line": 642,
+    "sha256_text": "1f482bbde95e55ae3ea76b405cf73ea438f13a9c4f1f8dfd2486d50b07500f7c",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "5.7. Botín posible",
+    "line": 687,
+    "sha256_text": "d290570d54922525416252cea3c393425e6e977563b7e736ab1ab1e4b0aedc7d",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "5.8. Objetivo de diseño",
+    "line": 718,
+    "sha256_text": "460a1aca8079daffb0583adb989c49ba212c7e7d87dbd749ae24614c77364f15",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "5.9. Evaluación gremial",
+    "line": 734,
+    "sha256_text": "52f5c349c04e9408918bc200ec34e44cb1168cb6b6a7e5507f3aa953e7d5556f",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "5.10. Tercer fogón",
+    "line": 754,
+    "sha256_text": "4ceff3e3deee85531228893f5240e5faf990fb00f8796c2640b8bdfb4f22eb23",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "6.1. Tormenta severa",
+    "line": 773,
+    "sha256_text": "caa948e65de41ae87b03a798b810f00509e3628dfb7b0138b07c2406a36cf767",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "6.2. El puente de madera",
+    "line": 783,
+    "sha256_text": "71f64ac5a538ba19f0ef2a16949c9310faba556fc6e2e473ed69784fedf7aac2",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "6.3. El pescador",
+    "line": 839,
+    "sha256_text": "ad691a14814f0b417c55b76f77e9c53df76e3c1be40cc4026d8818286d1a41b9",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "6.4. El puente de piedra",
+    "line": 869,
+    "sha256_text": "ac55f9ea532abe734035050f33598c84adc4742875f7265575a21b4db9869dab",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "6.5. Cuarto fogón",
+    "line": 877,
+    "sha256_text": "d2c835970eed4823c6424a90dbaee5afcc6a23d4bfd5218c293a10388d59c6c1",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "7.1. Entorno",
+    "line": 907,
+    "sha256_text": "6b4f6e48ae4dc4366d9c47ee63b8d4bbcf272c50465d7524cfe45fc91c73ff84",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "7.2. Información mediante conversación",
+    "line": 919,
+    "sha256_text": "9e6bc6ebfa3a3e0db8aefb4d2c2fec7516b09f96eb4486e1ca411ec94a2bc69d",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "7.3. Información mediante exploración",
+    "line": 927,
+    "sha256_text": "29b324042e0ce3bc75a598c9b49893855c6c6cc22a6566d3d9c6ed865e19e447",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "7.4. El encuentro",
+    "line": 944,
+    "sha256_text": "1f2652e186b04dfd7447bdd55100f077b099179212610baf47aa99114552ba68",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "Continuidad futura",
+    "line": 1048,
+    "sha256_text": "19235b272ed7195dc1681286a42357a431e08e5a4b8caf7c74edae252f7d3c6d",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "Crónicas de Rheem — El camino hacia el norte",
+    "line": 1072,
+    "sha256_text": "5c29f562b89305cc7b5f9e8b236f12aa58d5a184fc83bcf92b772e4e319a1d71",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "B1. Primer fogón — Donde termina el bosque",
+    "line": 1146,
+    "sha256_text": "4f9ef6c9017eb28a97c1ffa1c0f53a0f30746cd9a54251553337062ba30a7345",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "B2. Segundo fogón — Bajo el cielo inmenso",
+    "line": 1184,
+    "sha256_text": "7691dd727e179ad2f03846604977d7d6ab255a297efa7874105b800b267e7076",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "B3. Tercer fogón — Lo que permanece oculto",
+    "line": 1222,
+    "sha256_text": "df684ce16c00f91713839058f6a60556f8ab7a17d3ad188e3942624ca767d721",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "B4. Cuarto fogón — Después de la tormenta",
+    "line": 1268,
+    "sha256_text": "c4ece8f7aed13d78aab263549298f5640394dbb3e989a66743279caec737ed9e",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+    "section": "Allí donde termina el camino",
+    "line": 1316,
+    "sha256_text": "5db30bb1e7a70e44332895710abcfb07b504add8490ea7d894196bd6de0190aa",
+    "destinations": [
+      "canon/arcos/expedicion-al-norte-preparacion-2026-10-22.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Observatorio_Velado_Canon_y_Encargos_Codex.md",
+    "section": "Preámbulo y estado del corte",
+    "line": 1,
+    "sha256_text": "d72fffe728e4e2a576c8199afef486bae2781c144f75ff3b374c7821a6a30c3f",
+    "destinations": [
+      "REVISION_LIMPIEZA_MIXTOS_2026-10-31.md"
+    ],
+    "treatment": "Alcance/fecha/fuente preservados; etiquetas antiguas no son estado actual."
+  },
+  {
+    "source": "Observatorio_Velado_Canon_y_Encargos_Codex.md",
+    "section": "El Observatorio Velado — Canon y preparación de los encargos gremiales",
+    "line": 2,
+    "sha256_text": "686413654f29e17cb7a22e1653123694e1de50db2d0b2e5d3c30f6c7104188df",
+    "destinations": [
+      "canon/plots-y-subplots/observatorio-velado-preparacion.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Observatorio_Velado_Canon_y_Encargos_Codex.md",
+    "section": "1. Encargo conjunto de dos gremios",
+    "line": 8,
+    "sha256_text": "fdd03123f94f828707dbe7dc372ecc8b81d777249749661483e9a6226b12b0b9",
+    "destinations": [
+      "canon/plots-y-subplots/observatorio-velado-preparacion.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Observatorio_Velado_Canon_y_Encargos_Codex.md",
+    "section": "2. Localización, geometría y aspecto",
+    "line": 16,
+    "sha256_text": "c7c8f65183b002d3a8dd0d9ec88f0bf4f27b2056fcd149d08eb5f0303326e92b",
+    "destinations": [
+      "canon/plots-y-subplots/observatorio-velado-preparacion.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Observatorio_Velado_Canon_y_Encargos_Codex.md",
+    "section": "3. Función histórica e investigadores",
+    "line": 26,
+    "sha256_text": "25e5d4609c4c8a203c89d5100eb550d410b516af0a6f38cd58e602070a76cf97",
+    "destinations": [
+      "canon/plots-y-subplots/observatorio-velado-preparacion.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Observatorio_Velado_Canon_y_Encargos_Codex.md",
+    "section": "4. Habitaciones — distribución aprobada",
+    "line": 36,
+    "sha256_text": "77274f361cc5941f2b38079d9e3ec358cadb94d17b4bbc9c49e8b035440d605c",
+    "destinations": [
+      "canon/plots-y-subplots/observatorio-velado-preparacion.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Observatorio_Velado_Canon_y_Encargos_Codex.md",
+    "section": "5. Escaleras, glifos y futuro del lugar",
+    "line": 45,
+    "sha256_text": "4eb9c83745cf32987b091332f24731be99901678c4ee2a5d825b284d2f4a326d",
+    "destinations": [
+      "canon/plots-y-subplots/observatorio-velado-preparacion.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Observatorio_Velado_Canon_y_Encargos_Codex.md",
+    "section": "6. Botín posible — no imponer retirada ni asignar propiedad automáticamente",
+    "line": 53,
+    "sha256_text": "28b09667efeecf816268920f82aaaeca758aeed2f0a5c17c93cd066f4c2426d8",
+    "destinations": [
+      "canon/plots-y-subplots/observatorio-velado-preparacion.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Observatorio_Velado_Canon_y_Encargos_Codex.md",
+    "section": "7. Propósito en mesa y límites",
+    "line": 74,
+    "sha256_text": "8abe7d11a0fdd15eb681b24b52d3338c6175cacb61cf014ffab443f53c65328b",
+    "destinations": [
+      "canon/plots-y-subplots/observatorio-velado-preparacion.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Observatorio_Velado_Canon_y_Encargos_Codex.md",
+    "section": "8. Arte y archivos de referencia",
+    "line": 83,
+    "sha256_text": "e3489fcdd1fc6541cc0fed55edacc6aa40b01aac4aab66abe8f75cfa51307df4",
+    "destinations": [
+      "canon/plots-y-subplots/observatorio-velado-preparacion.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Observatorio_Velado_Canon_y_Encargos_Codex.md",
+    "section": "9. Pendientes que NO deben completarse automáticamente",
+    "line": 91,
+    "sha256_text": "db6d71735aad499e7b367d7cab40373ba0493d4a981e1c0d8a9cc11f6fc8a564",
+    "destinations": [
+      "canon/plots-y-subplots/observatorio-velado-preparacion.md"
+    ],
+    "treatment": "Todo el cuerpo desde§1 preservado literalmente en destino, con estado de preparación y precedencia actual; no certifica ejecución de escenas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "1. Criterio editorial vigente",
+    "line": 13,
+    "sha256_text": "10ac51352ab7d7a7f170419a9c87b249563b0621b263a249ca51d275afe2fa6a",
+    "destinations": [
+      "AGENTS.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "2. Leyenda de estados usada en esta consolidación",
+    "line": 55,
+    "sha256_text": "cf89d4a7521937e2c73119503d17bb7a43f4bacaf85e684ad9dffa45134be9a1",
+    "destinations": [
+      "INDICE_CANON.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "3. Identidad general del proyecto",
+    "line": 66,
+    "sha256_text": "4ef2ebe8583e8e9306a34a245e7cf96c976cbf467918d0c891af0de202e0fdd7",
+    "destinations": [
+      "README.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "4. Cronología marco",
+    "line": 81,
+    "sha256_text": "b5214bc8490af3ff9fc59792739c3adb505400f11a7af02241f4394df528c69b",
+    "destinations": [
+      "canon/arcos/cronologia-preludio-campana-i.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "5. Núcleo metafísico y filosófico",
+    "line": 102,
+    "sha256_text": "b285339d1200fa9055bbfa03a60ef888e3b03ca2cfa1f827996297cab2532a72",
+    "destinations": [
+      "canon/lore/luz-y-filosofia.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "6. Aurelianos",
+    "line": 139,
+    "sha256_text": "e95c2085cc8393fe03a59410647b5186ab2657bc7bdd4706071bd311308155c6",
+    "destinations": [
+      "canon/lore/aurelianos.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "7. Lengua y escritura aureliana",
+    "line": 201,
+    "sha256_text": "5c4e54d4a0225533f06fbeb1a32e3a6f44eb9bec115d7a7982806ade3a1d1eee",
+    "destinations": [
+      "canon/lore/alfabeto-aureliano.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "8. Los Cinco Juramentos",
+    "line": 243,
+    "sha256_text": "9efc3570f631dc73e8a5ee1695d3dfa3df844932a3ab3cfc0c4b2c5a703200f3",
+    "destinations": [
+      "canon/lore/juramentos.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "9. Nhal'Sereth — El Silente",
+    "line": 273,
+    "sha256_text": "8daf5a19c9ef9cdc31ed91545574d5f7050d16893b455052c48578487e1a0861",
+    "destinations": [
+      "canon/lore/el-silente.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "10. Lunargenta",
+    "line": 299,
+    "sha256_text": "258fb47b13ed690ee55b2f787387e6007648c5db2879822be5012d05b3203cb5",
+    "destinations": [
+      "canon/lore/el-silente.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "11. La Luna fragmentada",
+    "line": 322,
+    "sha256_text": "cc167af71a6d8139c4d2538f9bff4c7b639ce89826b1ed14a974e559861fd95f",
+    "destinations": [
+      "canon/lore/el-silente.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "12. El Guardián del Quinto Juramento y el Heredero",
+    "line": 333,
+    "sha256_text": "81679691cb10cbbce7d35ea0803f542c5f807f41e0d8d600f15426c27cc0c550",
+    "destinations": [
+      "canon/arcos/arco-i.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "13. Morvath y la Orden de Bibliotecarios",
+    "line": 364,
+    "sha256_text": "acf03fea572182b1230c2d2d6941243de0dd21a8d27bce630403bf1eca9825bc",
+    "destinations": [
+      "canon/lore/orden-de-bibliotecarios.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "14. Culto Lunar",
+    "line": 393,
+    "sha256_text": "e2b58d5825e01a6662caca649ee482f5b08e676dbb2416b3d442d955e666992b",
+    "destinations": [
+      "canon/lore/el-silente.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "15. Preludio de campaña",
+    "line": 413,
+    "sha256_text": "cbdecd25e8b0a0e608f98bd7c67a19f5a69fb323ff0e0086592697ef85f97101",
+    "destinations": [
+      "canon/oneshots/quinto-juramento.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "16. Estructura de Campaña I y arcos",
+    "line": 456,
+    "sha256_text": "8d93cbcd1866a382f0706fed326425f3386bcecb6b02e7e7e78c2072c5e3ccde",
+    "destinations": [
+      "canon/arcos/estructura-de-campana.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "17. Arco I — campaña específica vigente",
+    "line": 501,
+    "sha256_text": "c54d239558e65553c4f5d5e73d668b50390497979a65af3a6bb168f92f999157",
+    "destinations": [
+      "canon/plots-y-subplots/arco-i-registro-y-pendientes.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "18. Corrientes aurelianas del Arco I",
+    "line": 550,
+    "sha256_text": "7ffdd7aac60430f85322a3940826d8bfb6ed93c33a37f8108a8bd1b6029f64c4",
+    "destinations": [
+      "canon/lore/aurelianos.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "19. Romanance — ciudad",
+    "line": 578,
+    "sha256_text": "6f6d442b281f9d68ab3b4b039d5bacf38ac7419eda50f6ce674530343620f9d5",
+    "destinations": [
+      "canon/lore/romanance.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "20. Levit",
+    "line": 623,
+    "sha256_text": "ec8a0c937e853121b4c657ebccaf332ebc2501ad09d4012f02ac25a2e2f422c6",
+    "destinations": [
+      "canon/lore/trasfondos-personajes-jugadores.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "21. Geografía general de Terenor y Aldenor",
+    "line": 637,
+    "sha256_text": "ef88fdb9834e7f01986f773d8d402846724e21b4a674d0d4d0c02d638c6a8d05",
+    "destinations": [
+      "mundo/mapas/revision-cartografica.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "22. Estado actual del mapa Azgaar revisado",
+    "line": 654,
+    "sha256_text": "85dd0e47f4917c4e7e1595e4e2663aaf54159fc1676716b5fc24ab431153899b",
+    "destinations": [
+      "canon/lore/geografia-berk-kelen-khalan.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "23. Asentamientos y culturas — decisiones vigentes",
+    "line": 700,
+    "sha256_text": "cfaadbd733fdf6c922cd62116ca91e0ee39e4b9644c5366a8600bb64287171d2",
+    "destinations": [
+      "canon/lore/asentamientos-de-terenor.md",
+      "mundo/mapas/antecedentes-continentales-y-viajes.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "24. Cosmología",
+    "line": 768,
+    "sha256_text": "f19d6a797be39393246a808e22552154314020bef406dff1695f140f93beb14f",
+    "destinations": [
+      "canon/lore/cosmologia.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "25. Jarsag",
+    "line": 790,
+    "sha256_text": "408ae1539ef92c0f649380e3adb87f71a5a71e24c0fc7521130013bffbf482eb",
+    "destinations": [
+      "canon/pnjs/pnjs-principales.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "26. Kharag",
+    "line": 815,
+    "sha256_text": "d8636c6c06cd754c5eb604c19e1c5728d7983e105609052980c3fa9efd73f080",
+    "destinations": [
+      "canon/pnjs/pnjs-principales.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "27. Deren",
+    "line": 841,
+    "sha256_text": "f134ca5b96f7672be6a7376946861b9880d904f74e3203922429c074888c4392",
+    "destinations": [
+      "canon/pnjs/anexo-mecanico-pnjs.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "28. Aldren el Precavido",
+    "line": 865,
+    "sha256_text": "72a8958457420f99fd222f22ad1124397b60f2a0123b8264c92764b34c51366b",
+    "destinations": [
+      "canon/pnjs/pnjs-principales.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "29. Otros PNJs principales",
+    "line": 947,
+    "sha256_text": "db22324ea82b337dca496fd6af69a4eab7b547f0b164869ae96e63f86dcce5e1",
+    "destinations": [
+      "canon/pnjs/pnjs-principales.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "30. Curación y crafteo — reglas de mundo registradas en PNJs",
+    "line": 987,
+    "sha256_text": "0103a1c6c323f4e99416ec4f3924cb215ecf6602da61e8b79f240dc7a7bd9ccb",
+    "destinations": [
+      "canon/pnjs/forja-mercadeo-y-pociones.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "31. Gremios de Romanance",
+    "line": 1002,
+    "sha256_text": "90e9cbd61e3385b17ce136ab284c87b419f6fae4d40ea0b38f816d9e44c98ea1",
+    "destinations": [
+      "canon/lore/gremios.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "32. Trasfondos de personajes jugadores",
+    "line": 1030,
+    "sha256_text": "532d18a3e16cc346f9553e4c56963dbfa5dbdf5fc6afcb0bec4465e37bac828a",
+    "destinations": [
+      "canon/lore/trasfondos-personajes-jugadores.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "33. Aethragar",
+    "line": 1066,
+    "sha256_text": "09e9846bb6f7b2199ac74d3e28a34e659adcb6571163a977157f933bbaa677c0",
+    "destinations": [
+      "canon/lore/trasfondos-personajes-jugadores.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "34. Aetherion",
+    "line": 1079,
+    "sha256_text": "cec38787cf7b72c31f47814ef5a5bf99e8defcd4f3a038027115f9507936ae0a",
+    "destinations": [
+      "canon/lore/trasfondos-personajes-jugadores.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "35. Especie original — Inteligencias Encarnadas",
+    "line": 1090,
+    "sha256_text": "722a78da01bcf963222b85944b885858bc354466fac31e713bc3f063f42fea58",
+    "destinations": [
+      "canon/lore/inteligencias-encarnadas-y-hierofante.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "36. Clase original — Hierofante de la Luz",
+    "line": 1116,
+    "sha256_text": "ae3c3c2bbcff5bd578e9659f2163ec6fd674e6c9609b55f419e7f9f069339d95",
+    "destinations": [
+      "canon/lore/inteligencias-encarnadas-y-hierofante.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "37. Sistema Universal de Viajes",
+    "line": 1157,
+    "sha256_text": "d7fd5497a8e23c3c0daa432e7d07915685c71677435e19d74b9c51f0213c11ba",
+    "destinations": [
+      "herramientas-campana/viajes/sistema-universal-v1.4-testing.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "38. Tabla de Viaje Continental de Romanance",
+    "line": 1209,
+    "sha256_text": "dcf14583870747a4b2fe31dfcd28617b47b173e2ed7628905c7ea0c4c655d648",
+    "destinations": [
+      "mundo/mapas/revision-cartografica.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "39. Mazo de Drix",
+    "line": 1233,
+    "sha256_text": "916aa187d04c5e2e842253eb0e9e6ba9307d8efea3287829f85593cad1cec262",
+    "destinations": [
+      "herramientas-campana/mazo-de-drix/bases-testing.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "40. Sistema provisional inspirado en Armas de Leyenda / Weapons of Legacy",
+    "line": 1299,
+    "sha256_text": "1ed81bdf0b92213dbad985c04aef5b299bb80b7f4839f6b6f0949859705d95c3",
+    "destinations": [
+      "herramientas-campana/armas-legendarias/README.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "41. Economía inmobiliaria",
+    "line": 1332,
+    "sha256_text": "26108382f0794a164da6a3f58d4dddccfef798fe86c921feb79e40b63938948f",
+    "destinations": [
+      "herramientas-campana/economia-inmobiliaria.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "42. Arte e identidad visual",
+    "line": 1346,
+    "sha256_text": "79ae7619a31bb985165525a9cad09619223a1d570f42be7fc3d7ccb2d9fc000d",
+    "destinations": [
+      "REVISION_DIRECCION_VISUAL_2026-10-26.md",
+      "arte/direccion-visual/estado-y-decisiones.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "43. Documentos y estados",
+    "line": 1380,
+    "sha256_text": "dba5c99201a986637a6d8dd01cfa590cb0689f8c7e478f006622b17023dafd3c",
+    "destinations": [
+      "INDICE_CANON.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "44. Versiones reemplazadas / nombres obsoletos",
+    "line": 1408,
+    "sha256_text": "9a3f6cb32f983adb8038eb6284f7aed4754c4c7d77e00b02209e600208364e69",
+    "destinations": [
+      "canon/lore/trasfondos-personajes-jugadores.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "45. Contradicciones abiertas que NO deben resolverse automáticamente",
+    "line": 1429,
+    "sha256_text": "3f36719da44a1f63641e0eb70acbed1f625165e86e3b830520c5e8fa2f8ca7e9",
+    "destinations": [
+      "ESTADO_FASE_1.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "46. Propuestas discutidas pero NO aprobadas como canon final",
+    "line": 1454,
+    "sha256_text": "892f2415b177d854a324129fde8a2be0556985ff2e39ddead14685d7f445e096",
+    "destinations": [
+      "ESTADO_FASE_1.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "47. Pendientes concretos",
+    "line": 1473,
+    "sha256_text": "a545d03ace579cad73ceb55927c6fa893687d9fb3f0a5d9e9a0513e995de7878",
+    "destinations": [
+      "ESTADO_FASE_1.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "48. Estructura de repositorio aprobada",
+    "line": 1533,
+    "sha256_text": "ded82fc9495db1d173b581e0e1d49c62f739f7ab60cd4bdfbb1ac236521aa35f",
+    "destinations": [
+      "INDICE_CANON.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "49. Flujo operativo local aprobado",
+    "line": 1576,
+    "sha256_text": "f35281cb20ae2fcd14ab64bd6e8f857111b9bc8f8213198b80d60fe75d120a0a",
+    "destinations": [
+      "AGENTS.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "50. Fuentes revisadas para esta consolidación",
+    "line": 1588,
+    "sha256_text": "8635cf34d68dde0bba0b31bb61861cdaa2b27b861d71da8c956becdcd17d11d0",
+    "destinations": [
+      "RECEPCION_SEIS_CONSOLIDADOS.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "51. Material que NO pudo revisarse de forma completa",
+    "line": 1627,
+    "sha256_text": "5db6f35bee5dc2d70afd79893a933156d735e0dfd69783ebadf606e839a2d406",
+    "destinations": [
+      "REVISION_CHATS_FASE_1.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "52. Recomendación de uso de este archivo",
+    "line": 1657,
+    "sha256_text": "c28212907c3afa576e8680713832f6a22325939196784e0988cf7ec5fd1e8614",
+    "destinations": [
+      "AGENTS.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_2026-10-04.md",
+    "section": "53. Resumen ejecutivo de lo ya cerrado",
+    "line": 1673,
+    "sha256_text": "e5de276e5de21d65ef801c3f1c885c2d3bfd76c3bc429f9366655c5e33b59474",
+    "destinations": [
+      "ESTADO_FASE_1.md"
+    ],
+    "treatment": "Cotejo19/10 con hash idéntico; T01–T05 y fuentes temáticas cerrados; Aurelia29/10, A11 y reglas actuales prevalecen."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "## 1. Cómo interpretar este documento",
+    "line": 24,
+    "sha256_text": "3d2f99bcc163da0e6e445a6bf27a0b6cc53fddb7faa0643e30bb819351df66f5",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Síntesis cubierta en matriz previa y cierres posteriores; no crea una segunda autoridad actual."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "## 2. Decisiones generales cerradas y modo de trabajo",
+    "line": 37,
+    "sha256_text": "f5b649b5b0fbe496a483547704b5335c2b623841d97acbeae361c6117acb37e6",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Síntesis cubierta en matriz previa y cierres posteriores; no crea una segunda autoridad actual."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "## 3. Canon cerrado: núcleo del mundo",
+    "line": 48,
+    "sha256_text": "4cc02d10081ca37e87e66d45a599342d0c94ece7efea10a4f04ec845c4d0c82d",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Síntesis cubierta en matriz previa y cierres posteriores; no crea una segunda autoridad actual."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "## 4. Cambios nuevos registrados y correcciones por aplicar",
+    "line": 95,
+    "sha256_text": "c21ddb56be3a41ed140862abb1feffd0a7e8a0a28254282091079e5fde35bb6c",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Síntesis cubierta en matriz previa y cierres posteriores; no crea una segunda autoridad actual."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "## 5. PNJs: información consolidable y límites",
+    "line": 138,
+    "sha256_text": "a89bd80d067db40f56658568f543a920cbe59e700e42598245081d5c3d8a9aaa",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Síntesis cubierta en matriz previa y cierres posteriores; no crea una segunda autoridad actual."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "## 6. Personajes, plots y arcos de esta mesa",
+    "line": 164,
+    "sha256_text": "053d36fca1b22f9367258e6d03c8238ad58cf5be4c2412c7018a245086e688fa",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Síntesis cubierta en matriz previa y cierres posteriores; no crea una segunda autoridad actual."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "## 7. Geografía: mapa actual, datos históricos y pendientes",
+    "line": 215,
+    "sha256_text": "284bfb745f56af3a0cef4025a65ab0dcaa9b46687883347955a5c1c55d18afce",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Síntesis cubierta en matriz previa y cierres posteriores; no crea una segunda autoridad actual."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "## 8. Herramientas de campaña — desarrollo propio",
+    "line": 265,
+    "sha256_text": "a1e2885532130c05ad8aacfe48ccc15bb19071bfc548d49423e78b066417d44a",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Síntesis cubierta en matriz previa y cierres posteriores; no crea una segunda autoridad actual."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "## 9. Instituciones, escritura y arte",
+    "line": 323,
+    "sha256_text": "5bbc99bd907dee2c75f65f447769dc18731df7cd2c440d907c98fbde32b5be19",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Síntesis cubierta en matriz previa y cierres posteriores; no crea una segunda autoridad actual."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "## 10. Registro consolidado de contradicciones y pendientes",
+    "line": 343,
+    "sha256_text": "8728a4271e5c469bb3b7be3764e83e8063ded111718363dae1328e839b08dd28",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Síntesis cubierta en matriz previa y cierres posteriores; no crea una segunda autoridad actual."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "## 11. Estructura de repositorio aprobada",
+    "line": 378,
+    "sha256_text": "2652ebce5a1c45ddc3b466025542b7a84c57b3c8d691a7d08a67774985ec369f",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Síntesis cubierta en matriz previa y cierres posteriores; no crea una segunda autoridad actual."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "## 12. Qué queda concretamente consolidado aquí",
+    "line": 438,
+    "sha256_text": "7face83ff06b9422871d2e097ace5cdf38d5c5caac7c89d5737d8004aabe46f8",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Síntesis cubierta en matriz previa y cierres posteriores; no crea una segunda autoridad actual."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: Aldren_el_Precavido_-_Canon_Fundacional_Romanance.md",
+    "line": 452,
+    "sha256_text": "3d349aca5494e7b502819014668441801aedc113f2cc7c2aafdf43a993498221",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: Anexo_Aureliano_Romanance.md",
+    "line": 685,
+    "sha256_text": "f5944001e4bfcb8497ceacb0bd626837596322940003040b9af72322ae0b147b",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: Anexo_Oficial_Romanance_Inteligencias_Hierofante.md",
+    "line": 973,
+    "sha256_text": "691c66a6dd9c2f2a0ce70d90e75d1c2b11e35fa489f531bc5aff864f58933c7d",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: Biblia_de_Romanance_Canon_Base.md",
+    "line": 1325,
+    "sha256_text": "0458f7edcd60967d1187defede0bbabdb49e0f03396e5e3f7fd5ef247338ebec",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: Biomas_Continentales_Romanance.md",
+    "line": 2315,
+    "sha256_text": "a6ed886ff599c9bb850e6616ee11add96543091cd052e1a5acebdf890614b2b7",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: Cosmologia_Lumenor.md",
+    "line": 2385,
+    "sha256_text": "db0059eaea83fb8c980e1c68c41719fa153bb87d312196d57fdede2ca23e47d9",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: CRÓNICAS DE ROMANANCE.md",
+    "line": 2413,
+    "sha256_text": "e1c8afcaa8f3690685aa49a8d04cdee18c5afb7d08f5efac26749947809e95bc",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: Economia_inmobiliaria_Romanance.md",
+    "line": 2683,
+    "sha256_text": "d7855f8a753d5f85404807ffce46fc06f80491b840a20cf6880fb5d67eb5a2a3",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: Gremios_de_Romanance.md",
+    "line": 2847,
+    "sha256_text": "d453c89b1933890de67f5d7d7bf5209c2a3301293d82fd63ac01b06355c589d1",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: Hierofante de la Luz.md",
+    "line": 3059,
+    "sha256_text": "61e42dbe7b406b5e48b7c2ab352666d1ab4af4e587930218c26fc2657d9dc013",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: instrucciones-proyecto.md",
+    "line": 3336,
+    "sha256_text": "4a2ab2bd5e4fe06c976cd730dd6a21d1e72208ad3b961a9c39c9a6c95534044c",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: mazo_de_drix.md",
+    "line": 3383,
+    "sha256_text": "16e6e4a0d04f8fbae9f934a8db39ef4ad1933ff7fd6ef13b06b3948a1ca4abd0",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: Plots_y_Arcos_Arco_I_Aurelianos.md",
+    "line": 3509,
+    "sha256_text": "d566704ed083fa2cdca3a29bf94e25314f6e727078c6788ea3551c7224fc0a63",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: PNJs_Principales_Romanance.md",
+    "line": 3766,
+    "sha256_text": "35edfd8957d4430f6b77f3ac95733eac810c2da9ec1e2c2b9244c3a15cf5b56c",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: Sistema Universal de Viajes para D&D 5.5e — Versión 1.1(1).md",
+    "line": 4060,
+    "sha256_text": "eb19f4bd04d34595eaff715a09125f8982aa9b6c3805c52efe6a8f2f564ba18a",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: Tabla_Viaje_Continental_Romanance (2).md",
+    "line": 4662,
+    "sha256_text": "09c10905f4f9aa5c1d23727e4cb4febf0fe53efc95984467630175d8fd3b36ac",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: Tabla_Viaje_Continental_Romanance.md",
+    "line": 4772,
+    "sha256_text": "7060f18cf546d9bbc1a61f9a8a9a9ab33138af6d13fec9d065c308f966cd5055",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  },
+  {
+    "source": "Romanance_Consolidacion_Canon_y_Decisiones_2026-10-04.md",
+    "section": "Fuente incrustada: trasfondos_personajes_romanance.md",
+    "line": 4879,
+    "sha256_text": "3ad99452c1353bc96ab766d73784c8456c9a0db0e322d695fece161c40e10d39",
+    "destinations": [
+      "REVISION_COMPILADOS_GENERALES_2026-10-19.md"
+    ],
+    "treatment": "Comparación previa:14 equivalentes y4 variantes explicadas; las copias enteras quedan en snapshot íntegro, con fuentes independientes en archivo. No se vuelven a aprobar versiones viejas."
+  }
+]

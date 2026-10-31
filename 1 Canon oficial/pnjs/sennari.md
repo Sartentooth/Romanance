@@ -1,0 +1,50 @@
+# Sennari — pescadora Kalashtar
+
+**Versión documental:** 1.3 · **Fecha:** 2026-10-29 · **Estado:** CANON EN CONSOLIDACIÓN. Concepto y 2 Desarrollo/arte/exploraciones/material-previo de Sennari, tienda y puerto definidos y confirmados como canónicos por el autor; desarrollos narrativos y mecánicos pendientes según los límites de esta ficha.
+
+## Decisiones del autor
+
+Sennari es una Kalashtar **legal buena**, buena, afable y pescadora. Se conserva el concepto de monje; el bloque generado CR 20 no equivale a una ficha de personaje de nivel 20 ni fija su nivel o balance definitivo.
+
+Su negocio vende artículos para pescadores y sirve algunos platos de comida. Se conserva la base del negocio generado y la localidad portuaria para adaptarlos a la visión de Lumenor. El autor situó a los Kalashtar lejos del núcleo actual de la campaña, en el norte de Terenor; la ubicación visible en las capturas es deliberada. No se fija aquí un nombre definitivo de ciudad, gobierno, población, puerto exacto o conexión con la trama principal.
+
+## Rasgos elegidos
+
+- Trato hospitalario y límites claros ante amenazas a huéspedes, trabajadores o visitantes.
+- Cuando está inquieta revisa nudos que ya están seguros.
+- Desea tener un barco y tiempo para pescar.
+- Su caña es herramienta de pesca y **arma legendaria**, por decisión del autor. Poderes, procedencia, historia y eventual relación con el sistema propio de Objetos de Legado pendientes; no se importan automáticamente los rasgos del generador.
+
+## Inspiraciones del autor
+
+Su gusto por la pesca y por personajes buenos y afables. Como segunda inspiración menciona el pueblo pescador de Serge en **Chrono Cross**, juego de PS1. Es referencia creativa, no geografía ni historia importada a Lumenor.
+
+## Arte canónico definido — confirmado por el autor
+
+El 28/10/2026 el autor aprueba también la [lámina individual con negocio y puerto 03](<../arte/personajes/sennari/sennari-estudio-conceptual-03.png>) y la [escena al atardecer 03](<../arte/personajes/sennari/sennari-ambiente-atardecer-03.png>): «muy buena!!! quedan esas dos». Complementan las fuentes originales conservadas abajo. Pide añadir marco de pesca a la escena y un estudio de ropa/peinado con tanza atravesando el ojal de la caña, sin atadura; [registro y resultados 04 para revisión](<../../2 Desarrollo/arte/prompts-y-revisiones/2026-10-28/sennari/revision-04-y-prompts.md>). La aprobación visual no agrega datos geográficos o mecánicos.
+
+- [Sennari](<../arte/personajes/sennari/sennari-eUZy.webp>).
+- [Negocio](<../arte/personajes/sennari/Sennari Inn.webp>).
+- [Vista del puerto](<../arte/personajes/sennari/Sennari Inn port view.webp>).
+
+El autor confirmó el 2026-10-26 que el concepto, estilo y 2 Desarrollo/arte/exploraciones/material-previo están definidos: estas son las imágenes canónicas de Sennari, su tienda y el puerto donde tiene la tienda. Esta precisión supera su clasificación anterior como meras referencias. Se conservan intactas, sin requerir un rediseño en la ronda de otros PNJs. Su aparición continúa siendo futura, sin fecha o arco fijados en este mensaje. [Confirmación y alcance](<../../2 Desarrollo/archivo-historico/fuentes-historicas/direccion-visual-2026-10-26/sennari-confirmacion-arte.md>).
+
+La aprobación visual no fija por sí sola escala numérica, población, gobierno, nombre o ubicación cartográfica exacta del asentamiento ni incorpora el resto del contenido descartado del generador. Esos límites no revocan la aprobación de las imágenes.
+
+## Material generado descartado para esta adaptación
+
+El autor conserva a Sennari, su imagen, negocio, localidad portuaria y rasgos elegidos; el resto se descarta como contenido vigente para desarrollar una visión propia de Lumenor. En particular, no se incorpora el secreto de sabotear la boya para provocar encallamientos y lucrar con los cargamentos. Tampoco se aprueban automáticamente los PNJs secundarios, rumores, tarifas, cifras, nombres locales, historia del constructor desaparecido o propiedades de la caña.
+
+Las fuentes originales se preservan sin borrar ni modificar:
+
+- [Ficha generada](<../../2 Desarrollo/fuentes/documentos-originales/sennari-stat-block.pdf>).
+- [Localidad generada](<../../2 Desarrollo/fuentes/documentos-originales/Sennari Town larkwater.pdf>).
+- [Negocio generado](<../../2 Desarrollo/fuentes/documentos-originales/Sennari inn - the saltbright table.pdf>).
+
+## Desarrollo abierto
+
+El origen e integración de los quori se diseñarán cuando surja una idea natural para Lumenor. No se importan automáticamente historia, conflictos ni cosmología de Eberron. La posible perspectiva de los Kalashtar sobre coexistencia de conciencias se explora en [la nota creativa](<../../2 Desarrollo/ideas-nuevas/kalashtar-coexistencia-y-sennari.md>); no constituye una solución confirmada al Silente.
+
+## Comunidad de origen y comercio — 2026-10-29
+
+La localidad costera del norte de Terenor de donde procede Sennari es una comunidad portuaria/pesquera **diversa, con humanos y algunos kalashtar**, no exclusivamente kalashtar. Nombre y emplazamiento exacto siguen abiertos. Su comercio con el [Archipiélago de Trator](<../lore/archipielago-de-trator.md>) está aprobado; no implica relación personal de Sennari con los minotauros ni rutas fijas. [Dirección del asentamiento](<../lore/asentamientos-en-desarrollo.md>). Arte y negocio conservan su aprobación previa.

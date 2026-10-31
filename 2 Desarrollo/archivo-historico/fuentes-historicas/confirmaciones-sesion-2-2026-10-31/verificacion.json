@@ -1,0 +1,31 @@
+{
+  "date": "2026-10-31",
+  "decisions": {
+    "S2-01": "Mentira confirmada, respuesta1A",
+    "S2-02": "Distribución confirmada, respuesta2A",
+    "S2-04": "Kharag/Spriggan privado; posterior relato de Spriggan al grupo sigue sin fijar"
+  },
+  "files": [
+    {
+      "file": "canon/plots-y-subplots/arco-i-registro-y-pendientes.md",
+      "before": "88af70b726c7b003032d4b3b079581e7740a8c37ddffa62cf847675a000e7c74",
+      "after": "f258774800f52b4911780bf604333fb7bf8fdb6baf0d3a035bbf8f745fa4e85b"
+    },
+    {
+      "file": "REVISION_ARCO_I_SESION_2.md",
+      "before": "a6b31b2f9de5cfd2f0d125b5f8fb1d440331375da282d5c904153f9134dd1e00",
+      "after": "8aeca8d8e15d93cf61d1f1da84bca7931cf101ec70c66f10367628eabd14759f"
+    },
+    {
+      "file": "canon/plots-y-subplots/alba-de-hierro-puente-spriggan.md",
+      "before": "8939cc3bb3aaabd58e90a74bc033ca11244f306dee611de6486f3f833e38afe0",
+      "after": "ee2339545b017639ad9ecada5b04ec48f242c4e36af07fe73dc6e5c8198ec603"
+    },
+    {
+      "file": "INDICE_CANON.md",
+      "before": "a9504d125f675d1593e380c4ab1939176f4747cd825129572dae5deaf4a857ad",
+      "after": "2db1e3169d679c3d83e72256c72b7af2e37a8eaa7739d3c1b5e6b28cf2842781"
+    }
+  ],
+  "no_commits_or_push": true
+}

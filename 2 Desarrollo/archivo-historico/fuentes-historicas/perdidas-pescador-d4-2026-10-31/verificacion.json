@@ -1,0 +1,12 @@
+[
+  {
+    "archivo": "canon/oneshots/viaje-rheem-2026-10-23.md",
+    "sha256_previo": "cf7511f84a45deeb07cd247e933fc75362de77f9efc21b9d7351ba9c469e2443",
+    "sha256_actual": "b495eaffcc563d630ecac944b677a2627dfa98a6b9105b3c9cddd26b5d75daf2"
+  },
+  {
+    "archivo": "INDICE_CANON.md",
+    "sha256_previo": "c62a8e5c1689140dd647b3533f92ed847a8c7c69e841ddaf28de73846be33d54",
+    "sha256_actual": "abd202bba97e385b264daf771dcbd46bc269d3a125a79e7524e8cf0de628713a"
+  }
+]

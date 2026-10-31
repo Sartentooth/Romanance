@@ -1,0 +1,27 @@
+# Sennari — marco de pesca y estudio de detalles 04
+
+28/10/2026. El autor confirma «muy buena!!! quedan esas dos» sobre la [lámina principal 03](./sennari-estudio-conceptual-03.png) y la [escena de ambiente 03](./sennari-ambiente-atardecer-03.png). Ambas quedan aprobadas. Solicita añadir marco de pesca a la segunda y una tercera pieza que recupere los detalles de ropa y peinado del estudio inicial, corrigiendo la tanza.
+
+## Resultados nuevos para revisión
+
+- [Escena enmarcada 04](./sennari-ambiente-marco-04.png): madera azul gastada, cabos, nudos, redes, flotadores, carrete de hilo y anzuelos ornamentales. La escena interior conserva personaje, gesto y atardecer; la generación recrea la imagen, no garantiza identidad píxel a píxel. El marco es decoración editorial, no un objeto nuevo del canon.
+- [Estudio de detalles 04](./sennari-detalles-04.png): espalda de cuerpo entero, cabello/pañuelo, retratos, manos reparando redes, retazos/costuras y un ojal ampliado. La tanza se muestra continua atravesando el hueco de la anilla, sin nudo ni atadura al ojal; las ligaduras fijan el soporte a la madera.
+
+Se conservan prendas, rostro y colores del diseño vigente. No se agregan propiedades a la caña legendaria, datos del asentamiento ni narrativa. Las fuentes y versiones anteriores se preservan. Fuente de detalle: estudio 01 y recorte aportado por el autor; continuidad de acabado: lámina principal 03. Ambas nuevas imágenes se generaron con ImageGen integrado y quedan pendientes de valoración, distinguiéndolas de las dos piezas 03 ya aprobadas.
+
+## Prompt — marco
+
+```text
+Edit the supplied Sennari sunset illustration ONLY by adding an elegant bespoke fishing-themed decorative FRAME around it. Preserve the entire original interior scene, character identity, face, pose, clothes, harbor, sunset light and colors with minimal changes. Expand canvas outward to make room rather than covering/cropping face, hands or harbor. Landscape.
+Frame design: tasteful illustrated maritime craft border, slim weathered blue-gray wood rails with braided natural flax rope following the perimeter, carefully drawn practical knots at corners, two small ivory cork fishing floats bound with cord, a little repaired turquoise fishing net folded along lower corners, a modest wooden line spool and small aged-brass fishing hooks safely integrated as ornamental tackle. Asymmetric handmade charm but balanced and not cluttered. Ornament mostly at corners leaving broad clear artwork window. Ivory inner fillet, restrained muted turquoise/rust accents matching her scarf, no loud gold palace frame, no pirate skulls, no anchors as dominant motif, no fantasy gems, no words or labels. Same clean polished realistic painterly finish, no blur, grain, splatter, dots or glitter. Frame should celebrate fishing, knots, nets and hospitality without turning the art into a busy equipment catalog.
+```
+
+## Prompt — detalles y caña
+
+```text
+Create a NEW landscape detailed editorial concept-art sheet for SENNARI, complementing her already approved full-body/business/harbor sheet and sunset scene. Source1 is the first full concept sheet: use its detailed views of clothing, hair/scarf, back view, portrait, hands/net and fishingrod; source2 is approved latest sheet: match its clearer drawing/rendering and identity. Retain exact white wavy hair, warm amber eyes, natural tan skin, friendly competent face, ordinary human ears, ivory loose fisherman clothes with actual sewn turquoise and rust patches, matching headscarf tied behind head, rust sash, ropebelt, small worn brown pouch and boots. No redesign or new magical powers/ornaments.
+LAYOUT: left third full standing BACK THREE-QUARTER view to show hair, scarf knot, rear clothes, ropebelt/pouch and net; upper right large clean warm face portrait; beneath two smaller pencil/monochrome face and hairstyle studies three-quarter and side; bottom strip three clearly separated detail panels "Nudos y redes" with anatomically correct hands mending net; "Retazos y costuras" with large legible fabric stitches/scarf knot; "Caña de pesca" with a SIMPLE CLEAR technically correct rod guide detail. Ivory editorial background thin elegant rules, small title "SENNARI", subtitle "Vestuario · Peinado · Oficio", footer "Estudio de detalles · 04".
+FISHING ROD CORRECTION IS CRITICAL: the fishing line must PASS FREELY THROUGH THE EMPTY CENTRAL HOLE of each metal guide ring and CONTINUE beyond it in both directions along the straight wooden rod. It must NOT be tied, knotted, wrapped or fastened to the eyelet, rod or support. Show an oblique close-up with the guide ring plane approximately perpendicular to rod shaft, a thin unbroken pale line visibly entering the hole from below and exiting above, open hole still visible around the line. Line is smooth, taut and continuous, zero loops or knots at the guide. Only separate bindings attach metal guide FOOT to wood; never bind fishing line itself. Make this physically plausible and unmistakable. One enlarged main rod eyelet close-up rather than several confusing overlapped rods. Ordinary aged brass ring on wood, no technological devices, no new powers.
+Clean controlled fantasy concept illustration with luminous gentle watercolor undertone and precise drawn contours. No coarse mottled strokes, blur, white speckles, dots, spray or glitter. Keep her familiar identity and the beauty of original detailed sheet, improve legibility. Background hint of existing harbor only faint; focus on character construction, no need duplicate business/port panels.
+```
+

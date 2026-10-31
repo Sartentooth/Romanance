@@ -1,0 +1,204 @@
+{
+  "source": "data/Json del mapa de Azgaar/Mundo Sebas Full 2026-10-29-18-18.json",
+  "sha256": "266cf60a007b3d3dfe5db0e04a1a2cfec739dff85df67af305d1c952b4445456",
+  "map_sha256": "a7fd8b04dfbc347de40f05afbcc66eb5d36f1987ac448ab3bb1cdbc8a9821841",
+  "info": {
+    "version": "1.156.0",
+    "description": "Azgaar's Fantasy Map Generator output: azgaar.github.io/Fantasy-map-generator",
+    "exportedAt": "2026-10-29T21:18:57.286Z",
+    "mapName": "Mundo Sebas",
+    "width": 2000,
+    "height": 1000,
+    "seed": "241435358",
+    "mapId": 1788848626792
+  },
+  "settings": {
+    "distanceUnit": "km",
+    "distanceScale": 3,
+    "areaUnit": "square",
+    "populationRate": 1000
+  },
+  "old_source": "data/Json del mapa de Azgaar/Mundo Sebas Full 2026-10-21-00-51.json",
+  "old_source_read_from": "HEAD, solo memoria; no se restaura archivo",
+  "islands": [
+    {
+      "i": 12,
+      "feature_name": "Wykan",
+      "type": "island",
+      "group": "sea_island",
+      "vertices": 12,
+      "area_internal": 279,
+      "area_km2": 2513.7996752056642
+    },
+    {
+      "i": 14,
+      "feature_name": "Agden",
+      "type": "island",
+      "group": "sea_island",
+      "vertices": 31,
+      "area_internal": 839,
+      "area_km2": 7553.212348179775
+    },
+    {
+      "i": 16,
+      "feature_name": "Tengen",
+      "type": "island",
+      "group": "sea_island",
+      "vertices": 37,
+      "area_internal": 1763,
+      "area_km2": 15869.663398331031
+    }
+  ],
+  "coast_distances": [
+    {
+      "islands": [
+        12,
+        14
+      ],
+      "minimum_km": 343.406008237628
+    },
+    {
+      "islands": [
+        14,
+        16
+      ],
+      "minimum_km": 137.96163869960668
+    },
+    {
+      "islands": [
+        12,
+        16
+      ],
+      "minimum_km": 656.1532387897464
+    }
+  ],
+  "changes": {
+    "burgs": [
+      {
+        "i": 19,
+        "old": {
+          "name": null,
+          "cell": null,
+          "x": null,
+          "y": null,
+          "population": null,
+          "state": null,
+          "port": null
+        },
+        "new": {
+          "name": "Tengen",
+          "cell": 5343,
+          "x": 1044.55,
+          "y": 759.26,
+          "population": 1.354,
+          "state": 0,
+          "port": 0
+        }
+      },
+      {
+        "i": 20,
+        "old": {
+          "name": null,
+          "cell": null,
+          "x": null,
+          "y": null,
+          "population": null,
+          "state": null,
+          "port": null
+        },
+        "new": {
+          "name": "Agden",
+          "cell": 4589,
+          "x": 984.7,
+          "y": 675.48,
+          "population": 3.631,
+          "state": 0,
+          "port": 0
+        }
+      },
+      {
+        "i": 21,
+        "old": {
+          "name": null,
+          "cell": null,
+          "x": null,
+          "y": null,
+          "population": null,
+          "state": null,
+          "port": null
+        },
+        "new": {
+          "name": "Wykan",
+          "cell": 2980,
+          "x": 978.13,
+          "y": 500.41,
+          "population": 0.834,
+          "state": 0,
+          "port": 0
+        }
+      }
+    ],
+    "features": [
+      {
+        "i": 12,
+        "old": {
+          "name": "Muichau",
+          "type": "island",
+          "group": "sea_island",
+          "area": 279
+        },
+        "new": {
+          "name": "Wykan",
+          "type": "island",
+          "group": "sea_island",
+          "area": 279
+        }
+      },
+      {
+        "i": 14,
+        "old": {
+          "name": "Toishingdak",
+          "type": "island",
+          "group": "sea_island",
+          "area": 839
+        },
+        "new": {
+          "name": "Agden",
+          "type": "island",
+          "group": "sea_island",
+          "area": 839
+        }
+      },
+      {
+        "i": 16,
+        "old": {
+          "name": "Seiyuen",
+          "type": "island",
+          "group": "sea_island",
+          "area": 1763
+        },
+        "new": {
+          "name": "Tengen",
+          "type": "island",
+          "group": "sea_island",
+          "area": 1763
+        }
+      }
+    ],
+    "states": [],
+    "routes": []
+  },
+  "polygon_geometry_unchanged": {
+    "12": true,
+    "14": true,
+    "16": true
+  },
+  "polygon_validity": {
+    "method": "Polígono simple sin aristas no adyacentes cruzadas/tocadas, vértices únicos y área positiva",
+    "valid": {
+      "12": true,
+      "14": true,
+      "16": true
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "fecha": "2026-10-31",
+  "archivos_trasladados_o_conservados": 5430,
+  "distribucion_archivos_previos": {
+    ".gitignore": 1,
+    "2 Desarrollo": 5347,
+    "AGENTS.md": 1,
+    "1 Canon oficial": 80,
+    "README.md": 1
+  },
+  "enlaces": {
+    "documentos": 187,
+    "enlaces_locales": 1812,
+    "rotos": []
+  },
+  "pruebas_prototipo": {
+    "check.cjs": "OK",
+    "check-v2.cjs": "OK",
+    "check-sheets.cjs": "OK",
+    "check-lists.cjs": "OK",
+    "check-encounters.cjs": "OK",
+    "check-formatting.mjs": "OK"
+  },
+  "compilacion_en_copia_externa": {
+    "estado": "OK",
+    "items": 192,
+    "spells": 339,
+    "rules": 154,
+    "entries": 1503,
+    "magicTables": 20,
+    "equipment": 82
+  },
+  "git": {
+    "staging_vacio": true,
+    "audio_ignorado": true,
+    "temporales_ignorados": true,
+    "commits_o_push_realizados": false
+  },
+  "borrado_fisico_de_archivos": false,
+  "exportaciones_historicas_ausentes": "Tres enlaces antiguos a mapas que el autor había reemplazado se convierten en referencias textuales, sin restaurar archivos eliminados."
+}

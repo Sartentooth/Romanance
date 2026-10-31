@@ -1,0 +1,103 @@
+{
+  "fecha": "2026-10-24",
+  "estado": "INFORME COMPLETADO; PROPUESTAS SIN APLICAR AL CANON",
+  "method": "Índice temático de 6812 segmentos, panorama temporal y lectura contextual selectiva; no audición exhaustiva",
+  "source_checks": [
+    {
+      "path": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\sesión del viaje de Rheem.m4a",
+      "sha256": "36cf9690b3a5b569760544d817dd3106e547f24758ffa1a5c15af35fc4f1db97",
+      "matches_receipt": true
+    },
+    {
+      "path": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\Expedición al norte viaje completo de Rheem - cinco etapas y textos narrativos.md",
+      "sha256": "12cff2d2ca1414234958b281bf7ccb7dc48a4fc138c9ad3d2114585fc3d60c71",
+      "matches_receipt": true
+    },
+    {
+      "path": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\Observatorio_Velado_Canon_y_Encargos_Codex.md",
+      "sha256": "c830d4d3f18baace8973fb6f240cb9e006a4d43278ae3f77fb7abeff6f62be1e",
+      "matches_receipt": true
+    },
+    {
+      "path": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\Catacumbas en ruinas cubiertas de musgo.png",
+      "sha256": "e8804751e75842c4c27ddbeff5fa8673451dcb6fd607cd38c47e4aadf948e209",
+      "matches_receipt": true
+    },
+    {
+      "path": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\Observatorio_Velado.png",
+      "sha256": "e467381b512333b55c79f34c808f023cd76482009509afda3ff185510928c089",
+      "matches_receipt": true
+    },
+    {
+      "path": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\Romanance_Sistema_Gremios_Aventureros_Consolidado.md",
+      "sha256": "76a16b6d49b2cdb195fa0aabf6966647e8aaa93b5a42c472a3fcc0206cf3a86e",
+      "matches_receipt": true
+    },
+    {
+      "path": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\Json del mapa de Azgaar\\Mundo Sebas Full 2026-10-21-00-51.json",
+      "sha256": "5aa57b64458af4d13f5d63da484c110ef40d54db42a337071246a1f0f672d242",
+      "matches_receipt": true
+    },
+    {
+      "path": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\Json del mapa de Azgaar\\Mundo Sebas 2026-10-04-00-21.map",
+      "sha256": "e7d6719ff8c0cb337fc6452d5e6b8284ae3b6693cbf9bf9b905d021f27141460",
+      "matches_receipt": true
+    }
+  ],
+  "transcript": {
+    "metadata": {
+      "fuente": "D:\\Sarten\\Proyectos\\Desarrollo Romanance\\Romanance\\data\\archivos md\\sesión del viaje de Rheem.m4a",
+      "fecha_sesion_segun_autor": "2026-10-23",
+      "modelo": "small",
+      "motor": "faster-whisper",
+      "idioma": "es",
+      "duracion_segundos": 23143.972381,
+      "estado": "COMPLETA; AUTOMÁTICA SIN COTEJAR",
+      "completada": true,
+      "diarizacion": false,
+      "bloque_segundos": 1200,
+      "bloques_completados": 20,
+      "audio_procesado_segundos": 23143.886,
+      "tiempo_proceso_segundos": 2707.8
+    },
+    "md_sha256": "d4fe2e15dc6b53c14166e72cb0b3de3d177685261f72a04b53a628a4efbabd3e",
+    "jsonl_sha256": "69b593271d295e9786957f93e342c342164d74e1502a3d5385ae8b14001c1eb2",
+    "segment_count": 6812
+  },
+  "evidence_windows": 36,
+  "proposal_events": 20,
+  "canon_modified": false,
+  "map_modified": false,
+  "images_modified": false,
+  "repository_files_modified": false,
+  "outputs": [
+    {
+      "name": "ANALISIS_PLAYTEST_VIAJE_2026-10-23.md",
+      "sha256": "d890d4329a267e485203beb4178c61c2d97eff610eb69bc4c810146596fd683a"
+    },
+    {
+      "name": "APOYOS_DE_DIRECCION_PROPUESTA.md",
+      "sha256": "e9f8a5a5b6d87e5706d622ce74365653858acffc85eedc7b800531599d535e87"
+    },
+    {
+      "name": "REGISTRO_CANDIDATO_DE_HECHOS.md",
+      "sha256": "36b3f64973ee8babe26137d427026415bdfc475cb0107f2cbabe5317cb19c3ec"
+    },
+    {
+      "name": "LISTAS_POR_BIOMA_PROPUESTA_v0.2.md",
+      "sha256": "8734463d9ed71434fe946da694f85d1fa23d00f621d495ddd383adda485fd08d"
+    },
+    {
+      "name": "EVIDENCIAS_TEMPORALES.md",
+      "sha256": "85af49b7be70eb23dca0cc7fc520119a0244ac1c4f2a19897cb2b0a98ddfeec1"
+    },
+    {
+      "name": "evidencias-temporales.json",
+      "sha256": "66e3afd60978ae4d37f75414c01bfed40c78d096a844eb5040fee31541109889"
+    }
+  ],
+  "link_verification": {
+    "checked": 12,
+    "missing": []
+  }
+}

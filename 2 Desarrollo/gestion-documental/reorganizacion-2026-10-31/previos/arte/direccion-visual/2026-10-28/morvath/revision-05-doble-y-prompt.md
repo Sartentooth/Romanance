@@ -1,0 +1,43 @@
+# Morvath — lámina conjunta 05 aprobada
+
+**Fecha:** 2026-10-28 · **Estado:** composición conjunta y dirección visual aprobadas por el autor.
+
+## Pedido y aprobación
+
+El autor aprueba las tres opciones del lich de la revisión 04 («quedan!!!») y elige la primera, **A · Custodia**, para volver a la imagen doble. Pide una transición de fondo que se vaya oscureciendo del humano al lich y que el humano tenga ese aire de cansancio y peso del conocimiento. La nueva composición se presenta y recibe: **«ahora siiiiiiiiiiiii!!!!!! epico»**.
+
+**Lámina vigente:** [Morvath — humano y lich 05](./morvath-humano-y-lich-05.png).
+
+## Decisiones consolidadas de arte
+
+Humano sentado con libro cerrado, aspecto cuidado de cuarenta y tantos y mirada cansada/reflexiva. Lich de la opción A: rostro óseo bajo capucha, ropajes oscuros, ornamentación del primer diseño, báculo y libro abierto, presencia poderosa y aura azul/turquesa de vapor difuminado, sin trama eléctrica. Se conserva la distinción entre una persona aún humana y su estado posterior de lich.
+
+La biblioteca pasa gradualmente de íntegra e iluminada a ruinosa, fría y oscura. Se reemplaza el corte luminoso vertical de las versiones 01–03 por una transición continua de arquitectura, sombras y atmósfera. Las dos etapas no se encuentran literalmente ni se representa una transformación corporal instantánea: es una composición temporal editorial.
+
+Las [opciones A/B/C del lich 04](./morvath-lich-opciones-04.png) quedan aprobadas como repertorio visual; la A se selecciona para esta pieza conjunta. Conjuro en carga y levitación son variantes artísticas autorizadas, no un nuevo bloque de reglas o una obligación de usar esas poses siempre. El dibujo concreto de objetos, aura y entorno no añade mecánicas, fechas, rituales, textos de libros o geografía. Tampoco modifica el desenlace pacífico de 434 D.R.
+
+La lámina 05 prevalece como referencia conjunta aprobada; se conservan el primer diseño del lich y todas las iteraciones intermedias como procedencia.
+
+## Producción y verificación
+
+Imagegen integrada: dos entradas locales, [lámina 01](./morvath-humano-y-lich-01.png) para humano/base espacial y [opciones 04](./morvath-lich-opciones-04.png) solo para el lich A. Inspección visual: humano sentado, lich con báculo/libro, aura difusa azul, transición de fondo continua sin línea luminosa, biblioteca en dos estados y títulos legibles. Ambos personajes y objetos principales dentro del encuadre.
+
+## Prompt utilizado
+
+```text
+Create the FINAL COMBINED MORVATH HUMAN-to-LICH CONCEPT PLATE using IMAGE1 as the human/overall-setting reference and ONLY OPTION A (leftmost figure "Custodia") of IMAGE2 as the selected LICH design. The author APPROVES all three lich studies but explicitly chooses A for this combined plate. Do NOT use pose B charging a spell, or option C levitating.
+
+PRIMARY COMPOSITION CHANGE: Replace old hard bright vertical luminous division in image1 with a SEAMLESS GRADUAL TRANSITION of the SAME library background from warm lit/intact on left to progressively shadowed, cold, dark ruined library on right. NO VERTICAL GOLD LINE, no glowing crack, no bright wall border, no split-screen rectangle, no portal, no fake before/after slider, no strict symmetrical panels. One integrated atmospheric painting with TWO HISTORICAL STATES of the SAME man, connected by architecture and visual rhythm. This is a poetic passage through time, not literal encounter. Keep both figures spatially distinct with a little breathing room, never overlap them as if one is physically morphing.
+
+HUMAN LEFT: preserve the actual HUMAN Morvath likeness in image1 — HUMAN man in his FORTIES (younger than the lich but NOT teen/20s), warm trigueño complexion, BROWN hair, few subtle freckles, deep thoughtful tired eyes, healthy normal firm body 1.75m approx75kg, neat understated short stubble. Same seated three-quarter pose leaning slightly forward on bench with hands over CLOSED leather book at knees. Same practical earlier-era cream shirt, dark short waistcoat, broad dark trousers, earth/russet shoulder cloth/sash and simple boots. He is well kept, burdened by what he understands. Do not turn him into old white-haired wizard, handsome youthful anime hero, green-skinned elf, or scruffy beggar.
+Give the human side the requested SOMBER/PENSIVE AIR: quiet fatigue, doubt, isolation and a sense of approaching irreversible decision through his reserved facial expression, weight in shoulders and soft shadow passing across part of face/shoulder. Not overt evil, grin, magic, melodramatic despair or tears. Warm natural light still illuminates face/hands/readable cloth, but reduce the cheerful golden glare of original. Feel like late quiet library light gradually dimming around him. He has not converted yet; no skeletal hands, glowing eyes, corruption veins, big skull jewelry or aura on human.
+
+LICH RIGHT: reproduce FAITHFULLY the approved A/CUSTODIA character from IMAGE2, not the brown-haired corpse of image1: recognizable human SKULL face with stern conscious gaze, deep hood, original dark long layered worn robes, aged bronze ornamental skull clasp/chest arrangement, skull-decorated waist trim as shown, SKULL-TOPPED straight staff held in one skeletal hand and OPEN old leather book supported naturally in the other. Correct fingers and book grip. Stand grounded with commanding quiet posture like A, no raised charging hand, no levitation. Same hood/skull/ornament silhouette as A and appropriate human skeletal proportions, not giant warrior armor.
+Retain A's spectacular COLD BLUE AND TURQUOISE AURA of flowing luminous mist, volumetric diffused plumes, softly fading edges and reflected cyan light. It must read as overwhelming magical presence, not ordinary skeleton. Confine energy mostly to lich/right side with some very faint mist dissolving into central shadow. NO electricity, jagged lightning branches, thin crackling wires, neon contour net, orange fire or purple dominant energy. Face, hands, staff and book remain legible. No copied new text/glyphs on book; energy is expressive art, not a spell diagram. No brand-new artifact added.
+Keep enough darkness behind lich to contrast with mist and crown his silhouette with atmosphere without huge literal halo. His clothes have subtle warm weathered remnants connecting human clothing palette to his later form, but do not erase approved A design or original skull ornaments.
+
+BACKGROUND / TRANSITION: shared tall shelves, stone arches/pier rhythms and floor across entire image. The architecture gradually goes from intact shelves and furniture behind human, through dimmer suspended dust/shadow and worn/broken details in middle, into shattered arches, disordered old books and ruined shelves behind lich. Damage becomes more extensive to the right; never portray human already sitting among the later destruction. Use a broad NATURAL SHADOW GRADIENT and soft atmospheric interpenetration in midground/background, not a giant foreground column splitting image in two. No sudden vertical color seam; warm neutrals taper into neutral charcoal then cold blue-gray darkness. Unified perspective and floor, comfortable space around both heads and feet, both full figures/book/staff all inside frame. The reader can visually trace one library through time. No extra people, bodies, attackers, army or human watching the lich. Their faces can look outward in opposing three-quarter directions, they do not talk or touch.
+One wide landscape plate about 3:2, high resolution, epic but intimate character narrative. Seated human left occupies lower-left with strong face focus; standing lich right has larger vertical silhouette and supporting aura. Both visually important, human not tiny or swallowed by darkness. Natural adult anatomy, no tiny heads, truncated feet or bent shaft. No new destruction action beyond the setting.
+
+STYLE: match the handcrafted sophisticated full-color fantasy painting of references, graphite/ink architectural structure subtly beneath, tactile skin, bone, cloth, paper and stone; expressive painted atmospheric edges, restrained warm human colors and luminous cool lich colors. Preserve detail/focus without global photo blur or cartoon anime/cel-shading. No CGI look, sepia-only filter, chaotic sparkly white particle confetti or border full of symbols. Minimal tasteful quiet border/paper margin like image1. Exact text only "MORVATH" at top, subtle "Humano" lower left and "Lich" lower right; tiny footer "Estudio conceptual · 05" if room. No literal age, historical date, invented lore or transformation mechanics. Deliver ONE cohesive combined plate, not a three-option sheet, no inset figures and no human/lich seam of light.
+```

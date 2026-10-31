@@ -1,0 +1,53 @@
+# Morvath lich — opciones de presencia, aura y movimiento
+
+**Fecha:** 2026-10-28 · **Estado vigente:** tres opciones aprobadas por el autor; A elegida para la lámina conjunta.
+
+**Decisión posterior:** «quedan!!! usemos la primera para la imagen doble». Las tres opciones se conservan como repertorio visual aprobado. A · Custodia se integra en la [lámina conjunta 05 aprobada](./morvath-humano-y-lich-05.png), con transición de fondo continua. [Pedido, aprobación y alcance](./revision-05-doble-y-prompt.md). Los pendientes anteriores de abajo se conservan como historial.
+
+## Cambio de dirección del autor
+
+El autor pide retomar directamente [el primer diseño de Morvath lich](<../../../Ruinas Morvath/Morvath el Lich.png>) y elevarlo, en vez de continuar refinando solamente la figura del díptico. La energía azul/turquesa debe ser **aura difuminada, no electricidad**. Solicita movimiento como el de la tercera referencia, habilita levitación a pocos metros del piso y propone estudiar opciones por separado antes de volver a la composición con el humano. La inspiración de anime se limita a resolución de gesto, movimiento y efectos; el acabado debe seguir sin ser anime.
+
+Este pedido supera las restricciones iniciales que evitaban copiar el equipamiento de la primera imagen: ahora esa figura, con su silueta, ropajes, báculo y libro, es la base visual expresamente elegida. La representación no fija nuevas reglas de objetos, efectos de conjuros o reconstrucciones históricas.
+
+## Tres opciones en una lámina
+
+- **A · Custodia:** lectura más próxima al diseño original, con báculo y libro, imponencia quieta y aura visible.
+- **B · Conjuro:** mano elevada concentrando energía, libro en la otra y mayor dirección de movimiento en telas y aura.
+- **C · Levitación:** figura suspendida con separación del suelo, manto desplegado y corriente de aura azul/turquesa; sin necesidad de apoyo en un muro.
+
+Las tres muestran al mismo personaje. Ninguna queda seleccionada por la generación. La levitación y los escombros suspendidos son recursos de esta exploración visual, no un nuevo bloque mecánico o un episodio adicional. Su personalidad lúcida y el desenlace pacífico del Preludio se conservan.
+
+## Referencias y resultado
+
+1. [Morvath el Lich original](<../../../Ruinas Morvath/Morvath el Lich.png>): base de rostro óseo, capucha, capas, ornamentación, báculo y libro.
+2. [Aura violeta](../../../referencias/01-personajes/morvath/Lich-aura-violeta-referencia.jpg): difuminado, volumen y transición de luz en vapor; la paleta se cambia a azul/turquesa.
+3. [Contraste y movimiento](../../../referencias/01-personajes/morvath/Lich-contraste-y-energia-referencia.jpg): gesto, silueta dinámica y grandes masas de tela/energía; sin transferir el naranja del fuego o el acabado anime.
+
+**Resultado:** [Morvath lich — opciones 04](./morvath-lich-opciones-04.png). Imagegen integrada, modo stylized-concept, tres referencias locales. Inspección visual: tres figuras completas reconocibles como el lich original, libro/báculo según composición, aura de plumas y vapor azules con bordes difuminados, mano cargando energía en B y levitación clara en C. La energía deja de ser la red de rayos de la revisión 03. Fuentes e iteraciones anteriores conservadas. Pendiente elección y ajustes del autor antes de rehacer el díptico.
+
+## Prompt utilizado
+
+```text
+Use case: stylized-concept / character power and motion exploration. Create ONE NEW LARGE LANDSCAPE CONCEPT SHEET showing THREE alternative full-body depictions of the SAME MORVATH LICH, side by side in three spacious portrait-like areas. ONLY THE LICH, no human version and no warm/cold diptych divider. This is an exploratory plate before returning to the human/lich composition.
+
+REFERENCE1 is the author's ORIGINAL Morvath lich drawing and now the PRIMARY CHARACTER DESIGN: use THIS actual lich as the foundation, not the recent image of a brown-haired corpse. Preserve recognizable skeletal skull anatomy, stern aware eye sockets, deep hood, layered long robes, original ornate shoulder/chest fastening with central skull ornament, aged leather/metal bands and grave scholar bearing. His skull-topped staff and open old leather book are characteristic original objects and can appear as appropriate to each option. Do not invent a different masked armor figure, human zombie face, brown hair, white wizard beard, crown or horns. This is a colored, much more powerful and sophisticated interpretation of that original drawing.
+REFERENCE2 purple mage is ONLY for atmospheric SOFT DIFFUSION of aura, emissive light blending into mist, ghostly depth and skeletal hand gesture. NOT purple color, copied jewelry or a different costume. Reference's aura has soft plumes and transitions, not electrical lines.
+REFERENCE3 dynamic orange/blue caster is ONLY for kinetic silhouette, asymmetrical cloth motion, large directional shapes, energy-driven sweeping drapery and formidable spell gathering. Translate its visual motion intelligently into PAINTERLY fantasy illustration, not anime/cel-shading/vector style, and do NOT use its orange fire palette, hat or new costume.
+
+AURA IS THE MOST IMPORTANT MATERIAL CHANGE:
+A rich, immense cold BLUE AND TURQUOISE supernatural AURA, volumetric and diffuse with softly fading edges, like luminous vapor, fluid veils and spectral mist. Deep ultramarine/ink-blue outer shadows, cyan/turquoise internal light and a few concentrated pale-blue bright cores. Powerful broad smoothly flowing plumes, transparent layering, soft reflected light on bone/fabric/near stone. It is NOT ELECTRICITY: absolutely NO lightning, forked bolts, jagged zigzag lines, wire-like filaments, scribbled electric arcs, crackling veins, energy web, neon contour tracing or electric storm. Do not substitute flames with sharply serrated edges either; draw luminous vapor with a coherent flowing volume, like the soft aura in ref2 but blue/turquoise. Remains extremely impactful at thumbnail size through black silhouette against luminous mist and convincing strong motion, not weak ordinary smoke.
+Use anime-inspired control of large visual motion and readable gesture, but final painted texture, anatomical gravity, material rendering and facial design are sophisticated hand-painted fantasy concept art, never anime.
+
+SHARED LICH DESIGN in all three:
+Same original skeletal Morvath face framed by hood, ivory/gray aged bone, no wet gore. Piercing small ice-blue/cyan eyes conveying tremendous intelligent power, stern lucid tragic resolve, not grinning cartoon villain. Dark layered robes in charcoal/black/inky slate with faded burgundy/umber inner traces and restrained aged bronze trim drawn from original costume; central skull clasp and aged ornamental structure consistent. Worn fabric has weight, depth, controlled ragged edges rather than random shredded noodles. Long sleeves and drapery can move under supernatural currents, no plate-armor warrior. Same original human-height skeletal build, recognizable across options. Different posing/aura treatment, NOT three different characters. No added runic alphabet or new powers text. The book never reveals readable spells or new titles. Staff if present has one rigid straight shaft and recognizable old skull top.
+
+THREE OPTIONS with clearly different readable poses, equal design quality, enough space to judge:
+A LEFT — "Custodia": a faithful elevated interpretation of ORIGINAL REF1: front three-quarter/fullbody, holding original skull staff in one hand and open book supported naturally in the other. Feet/hem grounded on a little library ruin floor, quiet upright command. Broad dense blue/turquoise aura softly gathers behind and around shoulders/lower robe, revealing formidable power in stillness. This view is NOT copied graphite: full tactile color, strong atmospheric dark/light design. Ensure correct fingers and grip, no floating extra hand.
+B MIDDLE — "Conjuro": more dynamic three-quarter posture with ONE skeletal hand raised and open to gather a CONCENTRATED SOFT BLUE-TURQUOISE VAPOR CORE above palm; other hand can hold open book close to torso, with no extra third object to juggle. Staff need not be held in this option. Broad cloak sweep and diagonal aura flow communicate power drawing into that palm; clear anatomy, contained fierce concentration, torso not contorted impossibly. No electricity or attack beam. May hover very slightly if useful, but main distinctive action is charging hand.
+C RIGHT — "Levitación": same lich floating visibly roughly 1–2 metres above a modest dark rubble ground cue, with a readable AIR GAP and soft cast shadow below. NO wall support. One arm partly extended/fingers relaxed or gathering a soft aura, other hand holds the recognizable staff if it suits silhouette, no forced book. Long dark robe sweeps asymmetrically outwards/upwards in a forceful weightless current inspired by ref3, revealing movement and supernatural command. Aura billows in large soft blue/turquoise volumes from lower silhouette around shoulders, not a rocket jet, wings or giant decorative halo. No extra tail, tendrils as anatomy or many limbs. Figure and entire robe/staff stay inside frame, plenty of breathing space above head.
+
+LAYOUT: wide 3:2 landscape high resolution, three large balanced full-body option studies separated by quiet negative space or fine panel divisions. Each has its own minimal ruined-library floor/arch fragment shadows, context subordinate and not new detailed canonical architecture. A and B can have darker backdrop areas so aura diffusion is visible. C elevated silhouette clearly has room above ground without shrinking its head to unreadability. Do not fill bottom with new gear callouts or extra faces: prioritize three strong fullbody options. Same character likeness/ornament/robe material consistent across all. No human version, no luminous central time divider.
+Medium: detailed expressive PAINTED fantasy concept art, selective fine graphite structures, believable old cloth, bone, metal and leather, cinematic aura with SOFT edges against crisp important face/hand features. Mostly black/blue/turquoise with aged warm neutral details. No purple dominance, orange fire, photoreal CGI, flat anime, excessive white confetti, typography wallpaper or new narrative characters.
+Exact minimal editorial text: top "MORVATH · LICH"; subtitle "Presencia, aura y movimiento"; labels "A · Custodia", "B · Conjuro", "C · Levitación"; footer "Estudio conceptual · 04". No lore, spell mechanics or invented history captions. Deliver ONE polished comparison plate with three visibly different same-design lich options.
+```
